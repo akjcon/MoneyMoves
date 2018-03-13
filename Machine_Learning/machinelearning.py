@@ -18,6 +18,12 @@ from sklearn.model_selection import train_test_split
 import numpy as np
 import pylab as pl
 
+'''
+Main method here takes in a dictionary key of a type of ML model, and then using the data it's given, formats the data
+and then creates+trains a model for the data. Then it uses the test data (randomized) to make predictions and returns accuracy
+along with simulated trades over the test period. Works best for RandomForestRegressor.
+'''
+
 
 # String Constants #
 score = ''
