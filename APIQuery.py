@@ -9,6 +9,11 @@ from bitfinex.client import Client as bfxClient
 # - none as of now
 # TODO: print PNL after position is closed
 
+'''
+Basically this was a program that traded based on the time delay between Kraken and GDAX, 
+but now that delay is gone so this is just used as an interface for other programs to use
+'''
+
 #for twilio
 client = Client("AC06acf04d5efc6ae091465ef53268a697","459ffb1e09486a45db18fe5cc50813b4")
 
