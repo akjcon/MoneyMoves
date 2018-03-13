@@ -5,6 +5,12 @@ import socket
 from twilio.rest import Client #pip install twilio
 #from bitfinex.client import Client as bfxClient
 
+'''
+This used to be a program that would trade the time delay between Kraken and GDAX/Bitfinex 
+but that difference is now gone so it's just used as an interface for other trading programs to 
+take methods from
+'''
+
 #known issues:
 # - none as of now
 # TODO: print PNL after position is closed
