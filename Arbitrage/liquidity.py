@@ -2,6 +2,16 @@ import ARB as crypto
 import time
 from forex_python.converter import CurrencyRates
 
+'''
+How this bot works:
+When it sees that the Bid/Ask spread is greater than a specified percentage, say .5%, it closes the spread by 
+a set percentage (var spreadclose). People want to sell at a higher price and buy at a lower price, so this works
+in theory. Problems with liquidity arise though. Also, sometimes spread will move away from wherever orders were placed
+and leave one order unfilled, ending in a losing trade. A way to fix this would be to figure out if the price is moving up 
+or down right before the trade happens, but this is imprecise. Better to know where the price will be in the next minute, 
+hence the Machine Learning side of all of this. 
+'''
+
 #for forex
 c = CurrencyRates()
 
