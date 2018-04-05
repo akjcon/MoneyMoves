@@ -6,7 +6,6 @@ from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.linear_model import SGDRegressor
 from sklearn.neighbors import KNeighborsRegressor
 
-
 # Other useful stuff importing #
 import matplotlib
 matplotlib.use('TkAgg') #for working on school computers
@@ -19,7 +18,6 @@ from random import sample
 from sklearn.model_selection import train_test_split
 import numpy as np
 import pylab as pl
-
 
 # String Constants #
 score = ''
@@ -52,6 +50,14 @@ model_dictionary = {
     sgd_key : SGDRegressor(penalty='elasticnet'),
     knr_key : KNeighborsRegressor()
 }
+
+'''
+Using a Random Forest Regressor yeilds a 31% gain over a 2.4 month period, assuming
+.14% fees and using random state=0.
+Using a Neural Net can yeild a much heigher return, but only with very low to zero fees
+
+Also can't figure out why all the ML models change returns every time. ???
+'''
 
 def preprocess_and_save(csv):
     # processing is depending on using minute_price_historical as the dataframe
@@ -153,10 +159,10 @@ def model_portfolio(predictions,truevalues):
         print('\t total gain = {}'.format(total_pay))
     print('Max gain: {}'.format(total))
     pl.hist(moveslist,bins=60)
-    #pl.show()
+    pl.show()
 
 def main(modelkey):
-    traindata = preprocess_and_save('~/Desktop/WhaleWatchersAnonymous/Machine_Learning/Data/Combo.csv')
+    traindata = preprocess_and_save('~/Desktop/MoneyMoves/Machine_Learning/Data/Combo.csv')
     xtrain = pd.read_pickle(_xtrain_fn)
     ytrain = pd.read_pickle(_ytrain_fn)
     print("Loaded data from disk")
