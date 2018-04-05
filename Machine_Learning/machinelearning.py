@@ -8,6 +8,8 @@ from sklearn.neighbors import KNeighborsRegressor
 
 
 # Other useful stuff importing #
+import matplotlib
+matplotlib.use('TkAgg') #for working on school computers
 import pickle
 import requests
 import datetime
@@ -17,12 +19,6 @@ from random import sample
 from sklearn.model_selection import train_test_split
 import numpy as np
 import pylab as pl
-
-'''
-Main method here takes in a dictionary key of a type of ML model, and then using the data it's given, formats the data
-and then creates+trains a model for the data. Then it uses the test data (randomized) to make predictions and returns accuracy
-along with simulated trades over the test period. Works best for RandomForestRegressor.
-'''
 
 
 # String Constants #
@@ -49,8 +45,8 @@ filename_dictionary = {
 }
 # Model Dictionary for model initialization #
 model_dictionary = {
-    rf_key : RandomForestRegressor(max_depth=10, random_state=0),
-    nn_key : MLPRegressor(hidden_layer_sizes=4),
+    rf_key : RandomForestRegressor(max_depth=10, random_state=0,verbose=True),
+    nn_key : MLPRegressor(hidden_layer_sizes=500,random_state=69,warm_start=False,tol=.0001,verbose=True,max_iter=1000),
     svm_key : SVR(),
     gpr_key : GaussianProcessRegressor(),
     sgd_key : SGDRegressor(penalty='elasticnet'),
@@ -61,11 +57,34 @@ def preprocess_and_save(csv):
     # processing is depending on using minute_price_historical as the dataframe
     # want ML model to use xtrain values to predict ytrain value
     df = pd.read_csv(csv)
-    x = df.drop(columns=['Timestamp','Close','Weighted_Price'])
+    x = df.drop(columns=['Close','Date','Symbol','GDAX_Close','Index'])
     x = x.iloc[:(len(x)-1)]
     price_end = df['Close'].iloc[1:].reset_index()
     price_start = df['Close'].iloc[:(len(df)-1)].reset_index()
     y = (100*(price_end-price_start)/price_start).drop(columns=['index'])
+
+    # add three lagging open prices
+    x['lagopen1'] = x['Open']
+    x['lagopen2'] = x['Open']
+    x['lagopen3'] = x['Open']
+    x['lagvol1'] = x['Volume To']
+    x['lagvol2'] = x['Volume To']
+    x['lagvol3'] = x['Volume To']
+    x['Glagopen1'] = x['GDAX_Open']
+    x['Glagopen2'] = x['GDAX_Open']
+    #x['Glagopen3'] = x['GDAX_Open']
+    x.lagopen1.shift(1)
+    x.lagopen2.shift(2)
+    x.lagopen3.shift(3)
+    x.lagvol1.shift(1)
+    x.lagvol2.shift(2)
+    x.lagvol3.shift(3)
+    x.Glagopen1.shift(1)
+    x.Glagopen2.shift(2)
+    #x.Glagopen3.shift(3)
+    x = x[3:-3]
+    y = y[3:-3]
+
 
     # Shuffling and splitting the data into training and testing sets
     ptest = 0.3
@@ -125,22 +144,19 @@ def model_portfolio(predictions,truevalues):
             # 1 if "BUY", -1 if "SELL"
             total += abs(truevalues[i])
 
-            if np.abs(predictions[i]) >= pred_sd*s and predictions[i] > .5:
+            if predictions[i] > 0.1 and np.abs(predictions[i]) >= pred_sd*s:
                 moveslist.extend(truevalues[i])
-                total_pay += (sign * truevalues[i])-.2
-                pred_pay += (sign * predictions[i])-.2
-        print('Max gain: {}'.format(total))
+                total_pay += (sign * truevalues[i])-.14
+                pred_pay += (sign * predictions[i])-.14
         print('scale= {}:'.format(s))
-        print('\t pred gain = {:0.4f}'.format(pred_pay))
+        print('\t pred gain = {}'.format(pred_pay))
         print('\t total gain = {}'.format(total_pay))
-    print(moveslist)
-    pl.plot(moveslist)
-    print(len(moveslist))
-    pl.show()
-        #print('scale = {}, predicted percent gain = {:0.4f}, real percent gain = {:0.4f}'.format(s,pred_pay,total_pay))
+    print('Max gain: {}'.format(total))
+    pl.hist(moveslist,bins=60)
+    #pl.show()
 
 def main(modelkey):
-    traindata = preprocess_and_save('~/Desktop/ML/Data/coinbase2014-18.csv')
+    traindata = preprocess_and_save('~/Desktop/WhaleWatchersAnonymous/Machine_Learning/Data/Combo.csv')
     xtrain = pd.read_pickle(_xtrain_fn)
     ytrain = pd.read_pickle(_ytrain_fn)
     print("Loaded data from disk")
