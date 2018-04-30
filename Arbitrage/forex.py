@@ -49,7 +49,7 @@ _FEES_ = .64
 _PERCENT_GAIN_ = .2
 _THRESHOLD_ = 0
 
-def pair_checker(plist):
+def pair_checker(plist): #0 API
     global coin1, percent1, coin2, percent2
     for coin in plist:
         percentages = usd_euro_diff(coin[0],coin[1])
@@ -66,7 +66,7 @@ def pair_checker(plist):
 def best_roundtrip(): #returns best roundtrip trade with fees and percent gain factored in
     global percent1,percent2
     print("Best roundtrip is " + str(percent1+percent2) + " with coins " + str(coin1) + ' and ' + str(coin2))
-    return (percent1+percent2)-(_FEES_)-(_PERCENT_GAIN_)
+    return (percent1+percent2)
 def make_trade(): #must run pair_checker before this
     global mainTXID1,mainTXID2,askTXID1,askTXID2
     besttrip = best_roundtrip()
@@ -118,8 +118,8 @@ def reset():
 
 if __name__ == '__main__':
     while True:
-        #data_writer([best_roundtrip(),]) #for data scraping
         pair_checker(pairlist)
-        make_trade()
+        data_writer([best_roundtrip(),]) #for data scraping
+        #make_trade()
         reset()
-        time.sleep(15)
+        time.sleep(5)

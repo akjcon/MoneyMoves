@@ -6,8 +6,8 @@ from twilio.rest import Client #pip install twilio
 #from bitfinex.client import Client as bfxClient
 
 '''
-This used to be a program that would trade the time delay between Kraken and GDAX/Bitfinex 
-but that difference is now gone so it's just used as an interface for other trading programs to 
+This used to be a program that would trade the time delay between Kraken and GDAX/Bitfinex
+but that difference is now gone so it's just used as an interface for other trading programs to
 take methods from
 '''
 
@@ -377,17 +377,19 @@ def ordersClosed():
             except ValueError:
                 print('[positionsClosed] JSON Error. Retrying.')
 
-def trade(direction,price,volume,ticker):
+def trade(direction,price,volume,ticker,ordertype):
     # should return the TXID of the trade
     while True:
         try:
             trade = k.query_private(_ADD_ORDER_,{
                 _PAIR_: ticker,
                 _TYPE_: direction,
-                _ORDER_TYPE_: _LIMIT_,
+                _ORDER_TYPE_: ordertype,
                 _PRICE_: price,
                 _VOLUME_: volume,
-                #_LEVERAGE_: _LEVERAGE_VALUE_
+                _LEVERAGE_: _LEVERAGE_VALUE_,
+                'validate': 'True',
+
             })
             if _RESULT_ not in trade:
                 if trade[_ERROR_] == 'EOrder:Insufficient funds':
@@ -491,8 +493,8 @@ def balanceCheck(currency):
             time.sleep(5)
             return
 
-
-if __name__ == '__main__':
+def main():
+    global _TRADE_VOLUME_
     _TRADE_VOLUME_ = .25 #(availablecapital/krakenEthPrice())
     while True:
         printTXIDs()
@@ -510,3 +512,6 @@ if __name__ == '__main__':
         elif ordersClosed():
             loopnum = 0
         time.sleep(4)
+
+if __name__ == '__main__':
+    main()

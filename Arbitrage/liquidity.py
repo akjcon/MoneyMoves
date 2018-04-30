@@ -4,12 +4,12 @@ from forex_python.converter import CurrencyRates
 
 '''
 How this bot works:
-When it sees that the Bid/Ask spread is greater than a specified percentage, say .5%, it closes the spread by 
+When it sees that the Bid/Ask spread is greater than a specified percentage, say .5%, it closes the spread by
 a set percentage (var spreadclose). People want to sell at a higher price and buy at a lower price, so this works
 in theory. Problems with liquidity arise though. Also, sometimes spread will move away from wherever orders were placed
-and leave one order unfilled, ending in a losing trade. A way to fix this would be to figure out if the price is moving up 
-or down right before the trade happens, but this is imprecise. Better to know where the price will be in the next minute, 
-hence the Machine Learning side of all of this. 
+and leave one order unfilled, ending in a losing trade. A way to fix this would be to figure out if the price is moving up
+or down right before the trade happens, but this is imprecise. Better to know where the price will be in the next minute,
+hence the Machine Learning side of all of this.
 '''
 
 #for forex
@@ -38,48 +38,6 @@ tradeongoing = False
 # BUG: getBidAsk needs to be updated so you can pass it a volume requirement //low priority//
 
 import numpy as np
-
-# sigmoid function
-def nonlin(x,deriv=False):
-    if(deriv==True):
-        return x*(1-x)
-    return 1/(1+np.exp(-x))
-
-# input dataset (CHANGE THIS WITH REAL DATA)
-X = np.array([  [0,0,1],
-                [0,1,1],
-                [1,0,1],
-                [1,1,1] ])
-
-# output dataset
-y = np.array([[0,0,1,1]]).T # (CHANGE THIS TOO)
-
-# seed random numbers to make calculation
-# deterministic (just a good practice)
-np.random.seed(1)
-
-# initialize weights randomly with mean 0
-syn0 = 2*np.random.random((3,1)) - 1
-
-for iter in xrange(10000):
-
-    # forward propagation
-    l0 = X
-    l1 = nonlin(np.dot(l0,syn0))
-
-    # how much did we miss?
-    l1_error = y - l1
-
-    # multiply how much we missed by the
-    # slope of the sigmoid at the values in l1
-    l1_delta = l1_error * nonlin(l1,True)
-
-    # update weights
-    syn0 += np.dot(l0.T,l1_delta)
-
-print "Output After Training:"
-print l1
-
 
 def spreadPercent(ticker): #API call count: 0
     global price1,movedirection,moveamount
