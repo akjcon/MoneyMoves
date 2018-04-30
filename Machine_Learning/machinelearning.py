@@ -43,8 +43,8 @@ filename_dictionary = {
 }
 # Model Dictionary for model initialization #
 model_dictionary = {
-    rf_key : RandomForestRegressor(max_depth=10, random_state=0,verbose=True),
-    nn_key : MLPRegressor(hidden_layer_sizes=500,random_state=69,warm_start=False,tol=.0001,verbose=True,max_iter=1000),
+    rf_key : RandomForestRegressor(max_depth=10,n_jobs=-1, random_state=0,verbose=True),
+    nn_key : MLPRegressor(hidden_layer_sizes=500,random_state=6900,warm_start=False,tol=.0001,verbose=True,max_iter=1000),
     svm_key : SVR(),
     gpr_key : GaussianProcessRegressor(),
     sgd_key : SGDRegressor(penalty='elasticnet'),
@@ -57,6 +57,7 @@ Using a Random Forest Regressor yeilds a 31% gain over a 2.4 month period, assum
 Using a Neural Net can yeild a much heigher return, but only with very low to zero fees
 
 Also can't figure out why all the ML models change returns every time. ???
+How to assess accuracy of ML algorithms? Difference between predicted return and actual..?
 '''
 
 def preprocess_and_save(csv):
@@ -69,7 +70,8 @@ def preprocess_and_save(csv):
     price_start = df['Close'].iloc[:(len(df)-1)].reset_index()
     y = (100*(price_end-price_start)/price_start).drop(columns=['index'])
 
-    # add three lagging open prices
+    # add lagging inputs
+
     x['lagopen1'] = x['Open']
     x['lagopen2'] = x['Open']
     x['lagopen3'] = x['Open']
@@ -90,7 +92,6 @@ def preprocess_and_save(csv):
     #x.Glagopen3.shift(3)
     x = x[3:-3]
     y = y[3:-3]
-
 
     # Shuffling and splitting the data into training and testing sets
     ptest = 0.3
@@ -114,6 +115,10 @@ def fit_model(model,xtrain,ytrain,filename):
     print("Created and Saved Model")
     print(filename)
     print("R squared for train: {:0.4f}".format(trainscore))
+
+def next_value(filename,test):
+    model = pickle.load(open(filename, 'rb'))
+    return model.predict(test)
 
 def predict_values(filename,xtest,ytest):
     #load the model from disk
@@ -150,7 +155,7 @@ def model_portfolio(predictions,truevalues):
             # 1 if "BUY", -1 if "SELL"
             total += abs(truevalues[i])
 
-            if predictions[i] > 0.1 and np.abs(predictions[i]) >= pred_sd*s:
+            if predictions[i] > 0.28 and np.abs(predictions[i]) >= pred_sd*s:
                 moveslist.extend(truevalues[i])
                 total_pay += (sign * truevalues[i])-.14
                 pred_pay += (sign * predictions[i])-.14
@@ -159,7 +164,9 @@ def model_portfolio(predictions,truevalues):
         print('\t total gain = {}'.format(total_pay))
     print('Max gain: {}'.format(total))
     pl.hist(moveslist,bins=60)
-    pl.show()
+    print(len(moveslist))
+    #pl.show()
+
 
 def main(modelkey):
     traindata = preprocess_and_save('~/Desktop/MoneyMoves/Machine_Learning/Data/Combo.csv')
