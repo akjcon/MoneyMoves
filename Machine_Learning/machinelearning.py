@@ -43,8 +43,8 @@ filename_dictionary = {
 }
 # Model Dictionary for model initialization #
 model_dictionary = {
-    rf_key : RandomForestRegressor(max_depth=10,n_jobs=-1, random_state=0,verbose=True),
-    nn_key : MLPRegressor(hidden_layer_sizes=500,random_state=6900,warm_start=False,tol=.0001,verbose=True,max_iter=1000),
+    rf_key : RandomForestRegressor(max_depth=10,n_jobs=-1, random_state=0,verbose=False),
+    nn_key : MLPRegressor(hidden_layer_sizes=500,random_state=6900,warm_start=False,tol=.0001,verbose=False,max_iter=1000),
     svm_key : SVR(),
     gpr_key : GaussianProcessRegressor(),
     sgd_key : SGDRegressor(penalty='elasticnet'),
