@@ -211,7 +211,7 @@ def lastOrderTXID():
 
 def sendMessage(messagebody):
     return client.messages.create(to='+19079030789',
-                           from_='17606385256',
+                           from_='+17042702244',
                            body=messagebody)
 
 def krakenEthPrice():

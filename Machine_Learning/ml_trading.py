@@ -8,13 +8,18 @@ import time
 import numpy as np
 import csv
 import datetime
+import itertools, sys #for spinner
 #OHLCFT then same from GDAX
+# add in percent profit calculator after 58 minute sleep
+
+
 
 ML_percent = 0
 actual_percent = 0
 data = 0
 currency = 'XXBTZUSD'
-ordervol = 100/order.krakenPrice(currency)
+capital = 500
+ordervol = 500/order.krakenPrice(currency)
 fees = 0
 
 def hourly_price_historical(symbol, comparison_symbol, limit, aggregate, exchange=''):
@@ -47,25 +52,29 @@ def format_data():
 
 def trade(percentage):
     # need to add stop losses to each order case
-    if np.abs(percentage) > fees:
-        print(percentage)
+    if np.abs(percentage) > .5:
         sign = np.sign(percentage)
-        print(sign)
         if sign == -1:
             price = round(order.krakenPrice(currency),1)
-            order.trade(order._SELL_,price,ordervol,currency,order._LIMIT_,0)
-            order.trade(order._BUY_,price,ordervol,currency,order._MARKET_,'+3480')
+            print(order.trade(order._SELL_,price,ordervol,currency,order._LIMIT_))
+            print('sleeping for 58 mins until time to close order...')
+            time.sleep(3420)
+            print(order.trade(order._BUY_,price,ordervol,currency,order._MARKET_))
             # closing order enters orderbooks 58 minutes after opening order does
+            return "Made trade"
         elif sign == 1:
             price = round(order.krakenPrice(currency),1)
-            order.trade(order._BUY_,price,ordervol,currency,order._LIMIT_,0)
-            order.trade(order._SELL_,price,ordervol,currency,order._MARKET_,'+3480')
+            print(order.trade(order._BUY_,price,ordervol,currency,order._LIMIT_))
+            print('sleeping for 58 mins until time to close order...')
+            time.sleep(3420)
+            print(order.trade(order._SELL_,price,ordervol,currency,order._MARKET_))
             # closing order enters orderbooks 58 minutes after opening order does
-    else: return "What happened?"
+            return "Made trade"
+    else: return "Prediction not confident enough to trade" + str(percentage)
 
 def timer():
     minute = datetime.datetime.now().strftime("%M") #returns minute in numerical formmat (00-59)
-    return minute
+    return str(minute)
 
 def get_next_move(hourdata):
     global ML_percent
@@ -83,16 +92,19 @@ def data_writer(): #depreciated, doesn't work accurately past 4 or 5 hours
     return
 
 def main():
+    spinner = itertools.cycle(['-', '/', '|', '\\'])
     triggered = False
     while True:
-        if timer() == 1 and triggered == False: #if beginning of the hour and no trade
+        sys.stdout.write(next(spinner))
+        sys.stdout.flush()
+        time.sleep(0.2)
+        sys.stdout.write('\b')
+        if timer() == '01' and triggered == False: #if beginning of the hour and no trade
+            print("trade triggered")
             print(get_next_move(format_data()))
             print(trade(ML_percent)) #get prediction and trade
             triggered = True
-        if timer() == 00: triggered = False
+        if timer() == '00': triggered = False
 
 if __name__ == '__main__':
-        #main()
-        get_next_move(format_data())
-        print(ML_percent)
-        print(trade(ML_percent))
+        main()
