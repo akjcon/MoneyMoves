@@ -13,8 +13,7 @@ import itertools, sys #for spinner
 '''
 TODO:
 High Priority: Implement check if order actually went through, if not then no close order
-                - Don't want to use an API call, too slow
-                - use REGEX to check whether trade return is trade ID or error??
+                - DONE
 Low Priority: Random Forest should learn from every tick
                 - add prediction + all tick data to csv and run machinelearning.py
                   generator with warm-start == True to add the data to the model
@@ -64,20 +63,27 @@ def trade(percentage):
         sign = np.sign(percentage)
         if sign == -1:
             price = round(order.krakenPrice(currency),1)
-            print(order.trade(order._SELL_,price,ordervol,currency,order._LIMIT_))
+            openorder = order.trade(order._SELL_,price,ordervol,currency,order._LIMIT_))
+            print(openorder)
+            order.sendMessage("Prediction confident, short position opened")
             print('sleeping for 58 mins until time to close order...')
             time.sleep(3420)
-            print(order.trade(order._BUY_,price,ordervol,currency,order._MARKET_))
-            # closing order enters orderbooks 58 minutes after opening order does
-            return "Made trade"
+            if openorder not order._ERROR_:
+                print(order.trade(order._BUY_,price,ordervol,currency,order._MARKET_))
+                # closing order enters orderbooks 58 minutes after opening order does
+                return "closed trade"
+            else return openorder
         elif sign == 1:
             price = round(order.krakenPrice(currency),1)
-            print(order.trade(order._BUY_,price,ordervol,currency,order._LIMIT_))
+            openorder = order.trade(order._BUY_,price,ordervol,currency,order._LIMIT_))
+            print(openorder)
+            order.sendMessage("Prediction confident, long position opened")
             print('sleeping for 58 mins until time to close order...')
             time.sleep(3420)
-            print(order.trade(order._SELL_,price,ordervol,currency,order._MARKET_))
-            # closing order enters orderbooks 58 minutes after opening order does
-            return "Made trade"
+            if openorder not order._ERROR_:
+                print(order.trade(order._SELL_,price,ordervol,currency,order._MARKET_))
+                # closing order enters orderbooks 58 minutes after opening order does
+                return "closed trade"
     else: return "Prediction not confident enough to trade" + str(percentage)
 
 def timer():

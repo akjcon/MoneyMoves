@@ -391,9 +391,9 @@ def trade(direction,price,volume,ticker,ordertype):
             })
             if _RESULT_ not in trade:
                 if trade[_ERROR_] == 'EOrder:Insufficient funds':
-                    break
-                print(trade)
-                break
+                    break #make sure we don't keep trying... redundancies
+                print(trade) #for info
+                return _ERROR_
             else:
                 #sendMessage('Trade order with ID' + trade[_RESULT_][_TXID_][0] + 'sent. Check Kraken. ')
                 return trade[_RESULT_][_TXID_][0]
