@@ -1,7 +1,6 @@
 import machinelearning as ml
 import requests
 import sys
-sys.path.append('/Users/jackconsenstein/Desktop/MoneyMoves/Arbitrage/') # adding ARB
 import ARB as order
 import pandas as pd
 import time
@@ -9,6 +8,7 @@ import numpy as np
 import csv
 import datetime
 import itertools, sys #for spinner
+
 
 '''
 TODO:
@@ -18,8 +18,6 @@ Low Priority: Random Forest should learn from every tick
                 - add prediction + all tick data to csv and run machinelearning.py
                   generator with warm-start == True to add the data to the model
 '''
-
-
 
 ML_percent = 0
 actual_percent = 0
@@ -63,7 +61,7 @@ def trade(percentage):
         sign = np.sign(percentage)
         if sign == -1:
             price = round(order.krakenPrice(currency),1)
-            openorder = order.trade(order._SELL_,price,ordervol,currency,order._LIMIT_))
+            openorder = order.trade(order._SELL_,price,ordervol,currency,order._LIMIT_)
             print(openorder)
             order.sendMessage("Prediction confident, short position opened")
             print('sleeping for 58 mins until time to close order...')
@@ -75,7 +73,7 @@ def trade(percentage):
             else return openorder
         elif sign == 1:
             price = round(order.krakenPrice(currency),1)
-            openorder = order.trade(order._BUY_,price,ordervol,currency,order._LIMIT_))
+            openorder = order.trade(order._BUY_,price,ordervol,currency,order._LIMIT_)
             print(openorder)
             order.sendMessage("Prediction confident, long position opened")
             print('sleeping for 58 mins until time to close order...')
