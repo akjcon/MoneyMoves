@@ -66,11 +66,11 @@ def trade(percentage):
             order.sendMessage("Prediction confident, short position opened")
             print('sleeping for 58 mins until time to close order...')
             time.sleep(3420)
-            if openorder not order._ERROR_:
+            if openorder != order._ERROR_:
                 print(order.trade(order._BUY_,price,ordervol,currency,order._MARKET_))
                 # closing order enters orderbooks 58 minutes after opening order does
                 return "closed trade"
-            else return openorder
+            else: return openorder
         elif sign == 1:
             price = round(order.krakenPrice(currency),1)
             openorder = order.trade(order._BUY_,price,ordervol,currency,order._LIMIT_)
@@ -78,10 +78,11 @@ def trade(percentage):
             order.sendMessage("Prediction confident, long position opened")
             print('sleeping for 58 mins until time to close order...')
             time.sleep(3420)
-            if openorder not order._ERROR_:
+            if openorder != order._ERROR_:
                 print(order.trade(order._SELL_,price,ordervol,currency,order._MARKET_))
                 # closing order enters orderbooks 58 minutes after opening order does
                 return "closed trade"
+            else: return openorder
     else: return "Prediction not confident enough to trade" + str(percentage)
 
 def timer():
