@@ -114,8 +114,7 @@ def main():
         time.sleep(0.2)
         sys.stdout.write('\b')
         if timer() == '01' and triggered == False: #if beginning of the hour and no trade
-            print("trade triggered")
-            print(get_next_move(format_data()))
+            get_next_move(format_data())
             print(trade(ML_percent)) #get prediction and trade
             triggered = True
         if timer() == '00': triggered = False
