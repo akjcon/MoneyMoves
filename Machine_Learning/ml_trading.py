@@ -9,8 +9,16 @@ import numpy as np
 import csv
 import datetime
 import itertools, sys #for spinner
-#OHLCFT then same from GDAX
-# add in percent profit calculator after 58 minute sleep
+
+'''
+TODO:
+High Priority: Implement check if order actually went through, if not then no close order
+                - Don't want to use an API call, too slow
+                - use REGEX to check whether trade return is trade ID or error??
+Low Priority: Random Forest should learn from every tick
+                - add prediction + all tick data to csv and run machinelearning.py
+                  generator with warm-start == True to add the data to the model
+'''
 
 
 
@@ -18,8 +26,8 @@ ML_percent = 0
 actual_percent = 0
 data = 0
 currency = 'XXBTZUSD'
-capital = 500
-ordervol = 500/order.krakenPrice(currency)
+capital = 200
+ordervol = capital/order.krakenPrice(currency)
 fees = 0
 
 def hourly_price_historical(symbol, comparison_symbol, limit, aggregate, exchange=''):

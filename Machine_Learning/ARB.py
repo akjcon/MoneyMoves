@@ -211,7 +211,7 @@ def lastOrderTXID():
 
 def sendMessage(messagebody):
     return client.messages.create(to='+19079030789',
-                           from_='+17042702244',
+                           from_='+17606385256',
                            body=messagebody)
 
 def krakenEthPrice():
@@ -492,21 +492,7 @@ def balanceCheck(currency):
             return
 
 
+
+
 if __name__ == '__main__':
-    _TRADE_VOLUME_ = .25 #(availablecapital/krakenEthPrice())
-    while True:
-        printTXIDs()
-        #balanceCheck("XETH")
-        makeTrade(_TRADE_VOLUME_,round(krakenBTCETHPrice(),5),round(krakencalcprice(),5))
-        print("BTC/ETH diff: " + str(BTCETHpercent()))
-        print("Close direction: " + str(closedirection))
-        loopnum += 4
-        print("Loop number:" + str(loopnum))
-        if loopnum > stoplossTime:
-            print("Order didn't close, stoploss triggered")
-            print(cancelOrder(closeTXID))
-            print(trade(str(closedirection),round(krakenBTCETHPrice(),5),_TRADE_VOLUME_,_K_CURR_))
-            loopnum = 0
-        elif ordersClosed():
-            loopnum = 0
-        time.sleep(4)
+    print(sendMessage('test'))

@@ -7,8 +7,8 @@ from sklearn.linear_model import SGDRegressor
 from sklearn.neighbors import KNeighborsRegressor
 
 # Other useful stuff importing #
-import matplotlib
-matplotlib.use('TkAgg') #for working on school computers
+#import matplotlib
+#matplotlib.use('TkAgg') #for working on school computers
 import pickle
 import requests
 import datetime
@@ -17,7 +17,7 @@ import pandas as pd
 from random import sample
 from sklearn.model_selection import train_test_split
 import numpy as np
-import pylab as pl
+#import pylab as pl
 
 # String Constants #
 score = ''
