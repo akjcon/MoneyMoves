@@ -85,6 +85,30 @@ loopnum = 0
 stoplossTime = 200
 
 
+def krakenPrice(currency):
+    while True:
+        try:
+            firstPrice_Kraken = kpublic.query_public(_DEPTH_, {_PAIR_:currency,_COUNT_:_COUNT_VALUE_})
+            if _RESULT_ not in firstPrice_Kraken:
+                print(firstPrice_Kraken)
+                continue
+            else: break
+        except ValueError:
+            print('[krakenPrice] JSON error in price, retrying...')
+        except socket.timeout:
+            print('[krakenPrice] Timeout error in price, retrying...')
+        except ConnectionResetError:
+            print('[krakenPrice] Connection Reset Error')
+        except KeyboardInterrupt:
+            raise
+        except:
+            print("Unexpected error")
+    #get ask and bid, average and return number
+    bestbid = float(firstPrice_Kraken[_RESULT_][currency][_BIDS_][0][0])
+    bestask = float(firstPrice_Kraken[_RESULT_][currency][_ASKS_][0][0])
+    return (bestask+bestbid)/2
+
+
 
 def orderFillCheck(txid):
     #returns true if order has filled, false if not
@@ -298,4 +322,4 @@ def balanceCheck(currency):
 
 
 if __name__ == '__main__':
-    return "test"
+    print("test")
