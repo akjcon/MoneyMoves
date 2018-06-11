@@ -11,10 +11,6 @@ but that difference is now gone so it's just used as an interface for other trad
 take methods from
 '''
 
-#known issues:
-# - none as of now
-# TODO: print PNL after position is closed
-
 #for twilio
 client = Client("AC1c40800c09f14885137023f22ac618b6","264ebf359aedd9157f654f160ca22eb7")
 
@@ -90,11 +86,11 @@ stoplossTime = 200
 
 
 
-def orderFillCheck():
-    #returns true if main order has filled, false if not
+def orderFillCheck(txid):
+    #returns true if order has filled, false if not
     while True:
         try:
-            mainorder = k.query_private(_QUERY_ORDERS_, {_TXID_: mainTXID})
+            mainorder = k.query_private(_QUERY_ORDERS_, {_TXID_: txid})
             if _RESULT_ in mainorder:
                 mTXID = mainorder[_RESULT_][mainTXID]
                 print("order fill check: ")
@@ -111,6 +107,7 @@ def orderFillCheck():
             print('[orderFillCheck] JSON error')
 
 def stopLoss():
+    # DEPRECIATED #
     #requires getMain() to have been run first
     global stoplosscount
     if main and (stoplosscount == 0) and not positionsClosed():
@@ -134,52 +131,6 @@ def stopLoss():
         else:
             print("not buy or sell? what..?")
 
-def getMain():
-    global main
-    while True:
-        try:
-            mainquery = k.query_private(_CLOSED_ORDERS_)
-            if _RESULT_ in mainquery:
-                main = mainquery[_RESULT_][_CLOSED_][mainTXID]
-                print(main)
-                break
-            else:
-                print(mainquery)
-                continue
-        except ValueError:
-            print('[getMain] JSON Error')
-            continue
-        except socket.timeout:
-            print('[getMain] Timeout Error')
-            continue
-
-def closeMain():
-    volume = main['vol']
-    direction = main['descr'][_TYPE_]
-    closedirection = ''
-    if direction == 'buy':
-        closedirection = 'sell'
-    else: closedirection = 'buy'
-    while True:
-        try:
-            closingmain = k.query_private(_ADD_ORDER_, {
-                                          _PAIR_: _ETH_CURRENCY_,
-                                          _TYPE_: closedirection,
-                                          _ORDER_TYPE_: _MARKET_,
-                                          _VOLUME_: volume,
-                                          _LEVERAGE_: _LEVERAGE_VALUE_,
-                                         # 'validate': 'True'
-                                          })
-            print('Closing main:')
-            print(closingmain)
-            break
-        except ValueError:
-            print('[closePositionTimer] JSON Error')
-            continue
-        except socket.timeout:
-            print('[closePositionTimer] Timeout Error')
-            continue
-
 def getCurrBalance():
     while True:
         try:
@@ -193,16 +144,20 @@ def getCurrBalance():
         except:
             print("Unexpected error")
 
-def lastOrderTXID():
+def getLastOrder(ordertype):
+    # takes _OPEN_ORDERS_ or _CLOSED_ORDERS_ as argument
+    if ordertype == _OPEN_ORDERS_:
+         otype = _OPEN_
+    else: otype = _CLOSED_
     while True:
         try:
-            openorders = k.query_private(_OPEN_ORDERS_)
-            if _RESULT_ not in openorders:
-                print(openorders)
+            orders = k.query_private(ordertype)
+            if _RESULT_ not in orders:
+                print(orders)
                 continue
-            if openorders[_RESULT_][_OPEN_]:
-                print(openorders)
-                return next(iter(openorders[_RESULT_][_OPEN_]))
+            if orders[_RESULT_][otype]:
+                print(orders)
+                return next(iter(orders[_RESULT_][otype]))
             else: continue
         except socket.timeout:
             print('[lastOrderTXID] Socket Timeout on getting TXID')
@@ -214,81 +169,7 @@ def sendMessage(messagebody):
                            from_='+17606385256',
                            body=messagebody)
 
-def krakenEthPrice():
-    while True:
-        try:
-            firstPrice_Kraken = k.query_public(_DEPTH_, {_PAIR_:_K_CURR_,_COUNT_:_COUNT_VALUE_})
-            if _RESULT_ not in firstPrice_Kraken:
-                print(firstPrice_Kraken)
-                continue
-            else: break
-        except ValueError:
-            print('[krakenEthPrice] JSON error in price, retrying...')
-        except socket.timeout:
-            print('[krakenEthPrice] Timeout error in price, retrying...')
-        except ConnectionResetError:
-            print('[krakenEthPrice] Connection Reset Error')
-        except KeyboardInterrupt:
-            raise
-        except:
-            print("Unexpected error")
-    #get ask and bid, average and return number
-    bestbid = float(firstPrice_Kraken[_RESULT_][_K_CURR_][_BIDS_][0][0])
-    bestask = float(firstPrice_Kraken[_RESULT_][_K_CURR_][_ASKS_][0][0])
-    return (bestask+bestbid)/2
-
-def krakenPrice(currency):
-    while True:
-        try:
-            firstPrice_Kraken = kpublic.query_public(_DEPTH_, {_PAIR_:currency,_COUNT_:_COUNT_VALUE_})
-            if _RESULT_ not in firstPrice_Kraken:
-                print(firstPrice_Kraken)
-                continue
-            else: break
-        except ValueError:
-            print('[krakenPrice] JSON error in price, retrying...')
-        except socket.timeout:
-            print('[krakenPrice] Timeout error in price, retrying...')
-        except ConnectionResetError:
-            print('[krakenPrice] Connection Reset Error')
-        except KeyboardInterrupt:
-            raise
-        except:
-            print("Unexpected error")
-    #get ask and bid, average and return number
-    bestbid = float(firstPrice_Kraken[_RESULT_][currency][_BIDS_][0][0])
-    bestask = float(firstPrice_Kraken[_RESULT_][currency][_ASKS_][0][0])
-    return (bestask+bestbid)/2
-
-def krakenBTCPrice():
-    while True:
-        try:
-            firstPrice_Kraken = k.query_public(_DEPTH_, {_PAIR_:"XXBTZUSD",_COUNT_:_COUNT_VALUE_})
-            if _RESULT_ not in firstPrice_Kraken:
-                print(firstPrice_Kraken)
-                continue
-            else: break
-        except ValueError:
-            print('[krakenBTCPrice] JSON error in price, retrying...')
-        except socket.timeout:
-            print('[krakenBTCPrice] Timeout error in price, retrying...')
-        except ConnectionResetError:
-            print('[krakenBTCPrice] Connection Reset Error')
-        except KeyboardInterrupt:
-            raise
-        except:
-            print("Unexpected error")
-    #get ask and bid, average and return number
-    bestbid = float(firstPrice_Kraken[_RESULT_]["XXBTZUSD"][_BIDS_][0][0])
-    bestask = float(firstPrice_Kraken[_RESULT_]["XXBTZUSD"][_ASKS_][0][0])
-    return (bestask+bestbid)/2
-
-def krakencalcprice():
-    btc = krakenBTCPrice()
-    eth = krakenEthPrice()
-    return eth/btc
-
-def getBidAsk(ticker): #returns two values: (bid,ask)
+def getBidAsk(ticker): #returns four values: (bid,ask,bidvol,bidask) for specified pair
     while True:
         try:
             firstPrice_Kraken = kpublic.query_public(_DEPTH_, {_PAIR_:ticker,_COUNT_:_COUNT_VALUE_})
@@ -312,37 +193,8 @@ def getBidAsk(ticker): #returns two values: (bid,ask)
     askvol = float(firstPrice_Kraken[_RESULT_][ticker][_ASKS_][0][1])
     return bestbid,bestask,bidvol,askvol
 
-def krakenBTCETHPrice():
-    while True:
-        try:
-            firstPrice_Kraken = k.query_public(_DEPTH_, {_PAIR_:"XETHXXBT",_COUNT_:_COUNT_VALUE_})
-            if _RESULT_ not in firstPrice_Kraken:
-                print(firstPrice_Kraken)
-                continue
-            else: break
-        except ValueError:
-            print('[krakenBTCPrice] JSON error in price, retrying...')
-        except socket.timeout:
-            print('[krakenBTCPrice] Timeout error in price, retrying...')
-        except ConnectionResetError:
-            print('[krakenBTCPrice] Connection Reset Error')
-        except KeyboardInterrupt:
-            raise
-        except:
-            print("Unexpected error")
-    #get ask and bid, average and return number
-    bestbid = float(firstPrice_Kraken[_RESULT_]["XETHXXBT"][_BIDS_][0][0])
-    bestask = float(firstPrice_Kraken[_RESULT_]["XETHXXBT"][_ASKS_][0][0])
-    return (bestask+bestbid)/2
-
-def BTCETHpercent():
-    btc = krakenBTCPrice()
-    eth = krakenEthPrice()
-    btceth = eth/btc
-    kbtceth = krakenBTCETHPrice()
-    return (btceth - kbtceth)/kbtceth*100
-
 def positionsClosed():
+    # returns True if no positions are currently open
     if not mainTXID: #if mainTXID is empty
         return True
     else:
@@ -359,7 +211,7 @@ def positionsClosed():
                 print('[positionsClosed] JSON Error. Retrying.')
 
 def ordersClosed():
-    global inPosition
+
     if not mainTXID: #if mainTXID is empty
         return True
     else:
@@ -409,40 +261,6 @@ def trade(direction,price,volume,ticker,ordertype):
             #sendMessage("Order probably didn't go but you should check")
             return lastOrderTXID()
 
-def main_position_trade(direction,avg_price,volume):
-    # returns main position TXID
-    price = avg_price
-    if direction not in [_BUY_,_SELL_]:
-        raise Exception('Invalid parameter')
-    return trade(direction,price,volume,_K_CURR_)
-
-def close_position_trade(direction,price,volume):
-    # returns closing order TXID
-    if direction not in [_BUY_,_SELL_]:
-        raise Exception('Invalid parameter')
-    return trade(direction,price,volume,_K_CURR_)
-
-def make_trade(direction,volume,price,calcprice):
-    global mainTXID,closeTXID, stoplosscount,closedirection
-    if direction == _BUY_:
-        opp_direction = _SELL_
-    else: # Must be _SELL_
-        opp_direction = _BUY_
-    closedirection = opp_direction
-    mainTXID = main_position_trade(direction,price,volume)
-    print('Main Position TXID: '+ str(mainTXID))
-    time.sleep(10)
-    if orderFillCheck() == True:
-        inPosition = True
-        closeTXID = close_position_trade(opp_direction,calcprice,volume)
-        print('Closing order TXID: '+ str(closeTXID))
-        sendMessage("Main order has been filled! Check Kraken!")
-        getMain()
-    else:
-        print('Main order did not fill, cancelling...')
-        sendMessage('Main order did not fill, cancelling...')
-        print(cancelOrder(mainTXID))
-
 def cancelOrder(orderTXID):
     print('Cancelling ' +str(orderTXID) + ' Order')
     while True:
@@ -462,21 +280,6 @@ def cancelOrder(orderTXID):
             return '[cancelOrder] JSON error. Check manually.'
             continue
 
-def makeTrade(volume,price,calcprice):
-    percent = BTCETHpercent()
-    if percent <= negPercent and ordersClosed():
-        print('Making trade...')
-        make_trade(_SELL_,volume,price,calcprice)
-    elif percent >= posPercent and ordersClosed():
-        print('Making trade...')
-        make_trade(_BUY_,volume,price,calcprice)
-
-def printTXIDs():
-    if mainTXID:
-        print("Main: " + str(mainTXID))
-    if closeTXID:
-        print("Close: " + str(closeTXID))
-
 def printTime():
     time.ctime()
     print(time.strftime('%I:%M%p %Z on %b %d')) # ' 1:36PM EDT on Oct 18, 2010'
@@ -495,4 +298,4 @@ def balanceCheck(currency):
 
 
 if __name__ == '__main__':
-    print(sendMessage('test'))
+    return "test"
