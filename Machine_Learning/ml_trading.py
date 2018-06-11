@@ -13,7 +13,9 @@ import itertools, sys #for spinner
 '''
 TODO:
 High Priority: Implement check if order actually went through, if not then no close order
-                - DONE
+                - DONE...need confirmation it works reliably
+               Cancel all orders at 00 in case original order never filled
+               - IN PROGRESS
 Low Priority: Random Forest should learn from every tick
                 - add prediction + all tick data to csv and run machinelearning.py
                   generator with warm-start == True to add the data to the model
@@ -23,7 +25,7 @@ ML_percent = 0
 actual_percent = 0
 data = 0
 currency = 'XXBTZUSD'
-capital = 200
+capital = 500
 ordervol = capital/order.krakenPrice(currency)
 fees = 0
 
@@ -56,17 +58,19 @@ def format_data():
     return formatted
 
 def trade(percentage):
-    # need to add stop losses to each order case
+    # need to add stop losses to each order case [LOW PRIORITY]
+    # whole function could be condensed into one chunk instead of two [LOW PRIORITY]
     if np.abs(percentage) > .5:
         sign = np.sign(percentage)
         if sign == -1:
             price = round(order.krakenPrice(currency),1)
             openorder = order.trade(order._SELL_,price,ordervol,currency,order._LIMIT_)
+            print("Prediction confident, short position opened: " + str(percentage))
             print(openorder)
-            order.sendMessage("Prediction confident, short position opened")
+            order.sendMessage("Prediction confident, short position opened: " + str(percentage))
             print('sleeping for 58 mins until time to close order...')
             time.sleep(3420)
-            if openorder != order._ERROR_:
+            if openorder != order._ERROR_: #checking if order filled or was cancelled
                 print(order.trade(order._BUY_,price,ordervol,currency,order._MARKET_))
                 # closing order enters orderbooks 58 minutes after opening order does
                 return "closed trade"
@@ -74,15 +78,18 @@ def trade(percentage):
         elif sign == 1:
             price = round(order.krakenPrice(currency),1)
             openorder = order.trade(order._BUY_,price,ordervol,currency,order._LIMIT_)
+            print("Prediction confident, long position opened: " + str(percentage))
             print(openorder)
-            order.sendMessage("Prediction confident, long position opened")
+            order.sendMessage("Prediction confident, long position opened: " + str(percentage))
             print('sleeping for 58 mins until time to close order...')
             time.sleep(3420)
-            if openorder != order._ERROR_:
+            if openorder != order._ERROR_: #checking if order filled or was cancelled
                 print(order.trade(order._SELL_,price,ordervol,currency,order._MARKET_))
                 # closing order enters orderbooks 58 minutes after opening order does
                 return "closed trade"
-            else: return openorder
+            else:
+                print("trade did not ever fill so no closing order necessary")
+                return openorder
     else: return "Prediction not confident enough to trade" + str(percentage)
 
 def timer():
@@ -93,16 +100,6 @@ def get_next_move(hourdata):
     global ML_percent
     ML_percent = ml.next_value('RandomForestRegressor.sav',[hourdata])
     return ML_percent
-
-def data_writer(): #depreciated, doesn't work accurately past 4 or 5 hours
-    global actual_percent
-    get_next_move(format_data()) #populates ML_percent
-    time.sleep(3480) #sleep for 58 minutes
-    actual_percent = ((data['close']-data['open'])/data['open'])*100 #gets actual change
-    with open('MLpercentages.csv', 'a') as csvfile:
-        datawriter = csv.writer(csvfile, delimiter=',')
-        datawriter.writerow([ML_percent,actual_percent]) #write them side by side
-    return
 
 def main():
     spinner = itertools.cycle(['-', '/', '|', '\\'])
@@ -116,7 +113,10 @@ def main():
             get_next_move(format_data())
             print(trade(ML_percent)) #get prediction and trade
             triggered = True
-        if timer() == '00': triggered = False
+        if timer() == '00':
+             triggered = False
+             # check if any open orders, if True, get TXID and cancelOrder()
+             # implement here... I'm lazy so I do it later
 
 if __name__ == '__main__':
         main()
