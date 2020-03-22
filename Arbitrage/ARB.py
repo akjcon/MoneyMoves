@@ -20,7 +20,7 @@ client = Client("AC7ce4b6445b3aa408e94c7b78a4099b2d","98552e5ecbb877566e98cd3efb
 
 #for Kraken
 k = krakenex.API() #private methods
-k.load_key('kraken.key')
+#k.load_key('kraken.key')
 kpublic = krakenex.API() # public methods
 
 
@@ -288,7 +288,7 @@ def krakencalcprice():
     eth = krakenEthPrice()
     return eth/btc
 
-def getBidAsk(ticker): #returns two values: (bid,ask)
+def getBidAsk(ticker): #returns 4 values: (bid,bidvol,ask,askvol)
     while True:
         try:
             firstPrice_Kraken = kpublic.query_public(_DEPTH_, {_PAIR_:ticker,_COUNT_:_COUNT_VALUE_})
@@ -310,7 +310,7 @@ def getBidAsk(ticker): #returns two values: (bid,ask)
     bidvol = float(firstPrice_Kraken[_RESULT_][ticker][_BIDS_][0][1])
     bestask = float(firstPrice_Kraken[_RESULT_][ticker][_ASKS_][0][0])
     askvol = float(firstPrice_Kraken[_RESULT_][ticker][_ASKS_][0][1])
-    return bestbid,bestask,bidvol,askvol
+    return bestbid,bidvol,bestask,askvol
 
 def krakenBTCETHPrice():
     while True:
