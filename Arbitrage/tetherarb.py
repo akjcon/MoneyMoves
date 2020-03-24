@@ -1,6 +1,9 @@
 import ARB as c
 import time
 import csv
+import pickle
+from decimal import Decimal
+from pprint import pprint
 
 '''
 Simple Version:
@@ -71,18 +74,19 @@ def paper_trade(margin):
         net += tradeprofit
         print('closing short')
         data_writer("closing short, total profit: {}".format(net))
-    else: print('not profitable to trade')
-
-
-
-
-
+    else:
+        i = 3
+    #else: print('not profitable to trade')
 
 def main():
-    while True:
-        print(margin_check())
-        paper_trade(margin_check())
-        time.sleep(2)
+    tether_history_raw = pickle.load(open('HistoricalData.txt', 'rb'))
+    tether_history = []
+
+    for d in tether_history_raw:
+        tether_history.append(1-Decimal(d[0]))
+    
+    for d in tether_history:
+        paper_trade(d)
 
 if __name__ == '__main__':
     main()

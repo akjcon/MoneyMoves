@@ -1,6 +1,7 @@
 import krakenex #pip install krakenex
 import time
 import socket
+from datetime import datetime
 #import gdax #pip install gdax
 from twilio.rest import Client #pip install twilio
 #from bitfinex.client import Client as bfxClient
@@ -65,12 +66,14 @@ _CLOSED_ = 'closed'
 _CANCELLED_ = 'canceled' #stupid Kraken doesnt know how to spell...
 _TYPE_ = 'type'
 _ALL_ = 'all'
-_TRADES_ = 'trades'
+_TRADES_ = 'Trades'
 _OPEN_ = 'open'
 _ERROR_ = 'error'
 _OPEN_ORDERS_ = 'OpenOrders'
 _CLOSED_ORDERS_ = 'ClosedOrders'
 _MARKET_ = 'market'
+_SINCE_ = 'since'
+_LAST_ = 'last'
 
 # API Values
 _LEVERAGE_VALUE_ = 5
@@ -236,6 +239,32 @@ def krakenEthPrice():
     bestbid = float(firstPrice_Kraken[_RESULT_][_K_CURR_][_BIDS_][0][0])
     bestask = float(firstPrice_Kraken[_RESULT_][_K_CURR_][_ASKS_][0][0])
     return (bestask+bestbid)/2
+
+def getHistoricalData(currency):
+    since = 1546300800000000000 # 1/1/2019
+    all_trades = []
+    wait = 10
+    while True:
+        try:
+            data = kpublic.query_public(_TRADES_, {_PAIR_:currency,_SINCE_:since})
+            if (_RESULT_ not in data):
+                print(data)
+                time.sleep(wait)
+                wait += 1
+            elif (currency not in data[_RESULT_] or len(data[_RESULT_][currency]) == 0):
+                return all_trades
+            else:
+                new_since = int(data[_RESULT_][_LAST_])
+                new_trades = data[_RESULT_][currency]   
+                all_trades.extend(data[_RESULT_][currency])
+                print(len(all_trades))
+            since = new_since
+            print(since)
+            print(datetime.utcfromtimestamp(int(str(since)[0:10])).strftime('%Y-%m-%d %H:%M:%S'))
+            time.sleep(5)
+        except:
+            time.sleep(20)
+    return all_trades
 
 def krakenPrice(currency):
     while True:
