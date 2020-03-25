@@ -1,0 +1,3057 @@
+17:49:00: opening short
+17:49:00: closing short, total profit: 0.00120000
+17:49:00: opening long
+17:49:00: closing long, total profit: 0.00210000
+17:49:00: opening long
+17:49:00: closing long, total profit: 0.00300000
+17:49:00: opening short
+17:49:00: closing short, total profit: 0.00390000
+17:49:00: opening long
+17:49:00: closing long, total profit: 0.00480000
+17:49:00: opening short
+17:49:00: closing short, total profit: 0.00570000
+17:49:00: opening short
+17:49:00: closing short, total profit: 0.00680000
+17:49:00: opening long
+17:49:00: closing long, total profit: 0.00780000
+17:49:00: opening short
+17:49:00: closing short, total profit: 0.00900000
+17:49:00: opening short
+17:49:00: closing short, total profit: 0.00980000
+17:49:00: opening long
+17:49:00: closing long, total profit: 0.01130000
+17:49:00: opening short
+17:49:00: closing short, total profit: 0.01280000
+17:49:00: opening long
+17:49:00: closing long, total profit: 0.01440000
+17:49:00: opening short
+17:49:00: closing short, total profit: 0.01560000
+17:49:00: opening long
+17:49:00: closing long, total profit: 0.01640000
+17:49:00: opening long
+17:49:00: closing long, total profit: 0.01760000
+17:49:00: opening long
+17:49:00: closing long, total profit: 0.01820000
+17:49:00: opening long
+17:49:00: closing long, total profit: 0.02140000
+17:49:00: opening long
+17:49:01: closing long, total profit: 0.02450000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.02580000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.02720000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.02870000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.03010000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.03330000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.03440000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.03510000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.03660000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.03810000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.03870000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.03950000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.04060000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.04140000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.04220000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.04370000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.04500000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.04650000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.04810000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.04980000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.05120000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.05200000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.05300000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.05410000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.05490000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.05640000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.05880000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.06220000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.06530000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.06760000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.07960000
+17:49:01: opening long
+17:49:01: closing long, total profit: 0.09140000
+17:49:01: opening short
+17:49:01: closing short, total profit: 0.10820000
+17:49:01: opening long
+17:49:02: closing long, total profit: 0.12280000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.12530000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.12830000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.13300000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.13790000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.14020000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.14310000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.14590000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.14980000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.15320000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.15450000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.15750000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.16050000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.16350000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.16530000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.16600000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.16790000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.16980000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.17060000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.17150000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.17370000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.17460000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.17620000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.17770000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.17920000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.18140000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.18280000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.18460000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.18650000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.18840000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.19040000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.19180000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.19370000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.19540000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.19730000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.19930000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.20230000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.20480000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.20700000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.20950000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.21170000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.21300000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.21510000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.21640000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.21820000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.22100000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.22260000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.22450000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.22660000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.22860000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.23050000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.23150000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.23300000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.23440000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.23510000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.23620000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.23760000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.23850000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.23980000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.24130000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.24270000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.24330000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.24490000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.24690000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.24890000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.25050000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.25270000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.25470000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.25570000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.25670000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.25840000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.26530000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.27400000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.27810000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.27930000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.28440000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.29140000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.29740000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.30100000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.30670000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.31430000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.32180000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.32880000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.33810000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.34390000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.34840000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.35270000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.35720000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.36210000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.36690000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.37160000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.37640000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.38100000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.38360000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.38740000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.39060000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.39340000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.39440000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.39650000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.39920000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.40110000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.40240000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.40370000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.40500000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.40630000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.40750000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.40860000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.40950000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.41030000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.41110000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.41190000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.41270000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.41390000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.41500000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.41660000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.41790000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.41880000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.42040000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.42200000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.42430000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.42650000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.42910000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.42970000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.43200000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.43290000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.43390000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.43490000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.43670000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.43830000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.43960000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.44090000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.44240000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.44320000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.44380000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.44440000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.44500000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.44560000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.44670000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.44730000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.44840000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.44910000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.44990000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.45070000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.45160000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.45230000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.45300000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.45370000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.45450000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.45540000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.45640000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.45710000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.45770000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.45830000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.45890000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.45970000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.46050000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.46130000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.46230000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.46340000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.46550000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.46840000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.46980000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.47070000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.47250000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.47470000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.47590000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.47780000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.48040000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.48300000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.48550000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.48770000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.48980000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.49240000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.49470000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.49650000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.49840000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.50020000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.50210000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.50410000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.50550000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.50630000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.50710000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.50790000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.50870000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.50970000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.51140000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.51290000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.51450000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.51570000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.51780000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.51980000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.52220000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.52360000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.52450000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.52560000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.52690000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.52830000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.52990000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.53150000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.53350000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.53520000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.53720000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.53920000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.54120000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.54300000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.54490000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.54660000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.54840000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.54980000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.55080000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.55180000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.55340000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.55420000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.55530000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.55640000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.55760000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.55870000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.56000000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.56100000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.56220000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.56300000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.56360000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.56450000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.56570000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.56690000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.56790000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.56860000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.56920000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.57060000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.57130000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.57200000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.57270000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.57370000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.57450000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.57530000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.57590000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.57660000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.57760000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.57890000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.58040000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.58170000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.58240000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.58310000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.58450000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.58580000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.58690000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.58830000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.58950000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.59070000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.59190000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.59300000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.59410000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.59480000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.59550000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.59610000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.59670000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.59750000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.59980000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.60060000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.60230000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.60350000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.60460000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.60540000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.60640000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.60740000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.60900000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.61070000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.61240000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.61400000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.61530000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.61640000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.61740000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.61810000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.61880000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.61950000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.62010000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.62120000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.62220000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.62310000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.62400000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.62500000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.62620000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.62720000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.62790000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.62860000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.62930000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.63140000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.63210000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.63280000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.63340000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.63400000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.63460000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.63520000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.63580000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.63650000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.63710000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.63770000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.63840000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.63900000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.63970000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.64030000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.64090000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.64150000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.64210000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.64270000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.64330000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.64440000
+17:49:02: opening short
+17:49:02: closing short, total profit: 0.64550000
+17:49:02: opening long
+17:49:02: closing long, total profit: 0.64610000
+17:49:02: opening short
+17:49:03: closing short, total profit: 0.64670000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.64730000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.64790000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.64850000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.64910000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.64990000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.65050000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.65110000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.65170000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.65230000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.65290000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.65350000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.65410000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.65470000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.65530000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.65610000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.65680000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.65740000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.65810000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.65920000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.66250000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.66600000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.66760000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.66920000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.67050000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.67150000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.67210000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.67270000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.67330000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.67390000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.67460000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.67540000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.67670000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.67740000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.67810000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.67870000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.67930000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.67990000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.68050000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.68110000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.68180000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.68250000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.68340000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.68430000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.68520000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.68580000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.68750000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.68820000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.68880000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.68940000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.69010000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.69070000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.69150000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.69260000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.69320000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.69390000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.69460000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.69540000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.69650000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.69720000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.69850000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.70010000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.70090000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.70160000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.70220000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.70300000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.70370000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.70550000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.70740000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.70950000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.71150000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.71310000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.71450000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.71570000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.71660000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.71730000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.71810000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.71900000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.72040000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.72200000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.72280000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.72350000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.72410000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.72470000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.72530000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.72590000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.72650000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.72710000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.72770000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.72830000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.72890000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.72950000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.73030000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.73110000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.73170000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.73240000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.73320000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.73380000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.73440000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.73540000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.73640000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.73720000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.73800000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.73930000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.74020000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.74090000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.74170000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.74240000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.74300000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.74360000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.74420000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.74480000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.74550000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.74650000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.74710000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.74770000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.74830000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.74890000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.74960000
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.75030000
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.75090004
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.75150685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.75220685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.75280685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.75360685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.75460685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.75560685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.75640685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.75700685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.75760685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.75820685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.75890685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.75950685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.76010685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.76070685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.76130685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.76190685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.76270685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.76410685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.76550685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.76660685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.76750685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.76860685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.77030685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.77230685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.77340685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.77440685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.77630685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.77790685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.77890685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.78000685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.78400685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.78790685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.79120685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.79420685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.79530685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.79800685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.80070685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.80180685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.80250685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.80380685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.80590685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.80810685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.80970685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.81100685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.81290685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.81450685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.81610685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.81770685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.82020685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.82250685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.82490685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.82620685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.82700685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.82770685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.82900685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.83070685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.83190685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.83250685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.83330685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.83420685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.83500685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.83560685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.83670685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.83800685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.83920685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.84000685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.84070685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.84130685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.84190685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.84250685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.84340685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.84430685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.84500685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.84560685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.84640685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.84720685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.84780685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.84840685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.84900685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.85040685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.85250685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.85620685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.85900685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.86050685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.86160685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.86250685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.86340685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.86400685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.86470685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.86530685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.86590685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.86660685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.86730685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.86790685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.86860685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.86930685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.86990685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.87050685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.87110685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.87170685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.87230685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.87290685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.87350685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.87410685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.87500685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.87580685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.87650685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.87730685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.87800685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.87870685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.87930685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.88040685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.88300685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.88610685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.88780685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.89020685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.89180685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.89440685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.89720685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.89790685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.89860685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.89920685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.89980685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.90040685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.90110685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.90190685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.90270685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.90330685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.90400685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.90460685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.90520685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.90600685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.90680685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.90740685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.90800685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.90860685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.90920685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.90980685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.91040685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.91110685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.91200685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.91320685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.91400685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.91470685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.91530685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.91600685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.91790685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.91860685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.91920685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.91980685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.92040685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.92100685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.92170685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.92230685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.92290685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.92350685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.92440685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.92560685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.92620685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.93010685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.93090685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.93280685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.93340685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.93400685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.93470685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.93530685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.93590685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.93650685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.93710685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.93770685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.93830685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.93890685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.93950685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.94010685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.94070685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.94220685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.94330685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.94450685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.94580685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.94700685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.94810685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.94920685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.95020685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.95140685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.95250685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.95360685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.95480685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.95590685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.95650685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.95720685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.95780685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.95840685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.95910685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.95970685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.96030685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.96090685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.96160685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.96260685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.96320685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.96380685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.96440685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.96600685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.96760685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.96820685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.96880685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.96940685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.97000685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.97060685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.97170685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.97250685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.97320685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.97390685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.97460685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.97520685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.97580685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.97640685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.97700685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.97760685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.97830685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.97900685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.97960685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.98020685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.98080685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.98140685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.98200685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.98260685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.98320685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.98380685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.98440685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.98500685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.98560685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.98620685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.98680685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.98740685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.98800685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.98860685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.98920685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.98980685
+17:49:03: opening long
+17:49:03: closing long, total profit: 0.99070685
+17:49:03: opening short
+17:49:03: closing short, total profit: 0.99130685
+17:49:03: opening long
+17:49:04: closing long, total profit: 0.99190685
+17:49:04: opening short
+17:49:04: closing short, total profit: 0.99260685
+17:49:04: opening long
+17:49:04: closing long, total profit: 0.99340685
+17:49:04: opening short
+17:49:04: closing short, total profit: 0.99410685
+17:49:04: opening long
+17:49:04: closing long, total profit: 0.99470685
+17:49:04: opening short
+17:49:04: closing short, total profit: 0.99530685
+17:49:04: opening long
+17:49:04: closing long, total profit: 0.99590685
+17:49:04: opening short
+17:49:04: closing short, total profit: 0.99650685
+17:49:04: opening short
+17:49:04: closing short, total profit: 0.99710685
+17:49:04: opening long
+17:49:04: closing long, total profit: 0.99770685
+17:49:04: opening short
+17:49:04: closing short, total profit: 0.99840685
+17:49:04: opening long
+17:49:04: closing long, total profit: 0.99900685
+17:49:04: opening short
+17:49:04: closing short, total profit: 0.99960685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.00020685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.00080685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.00140685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.00200685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.00260685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.00320685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.00380685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.00440685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.00500685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.00560685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.00630685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.00690685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.00750685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.00810685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.00870685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.00930685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.00990685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.01050685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.01110685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.01170685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.01230685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.01290685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.01360685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.01420685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.01480685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.01540685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.01600685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.01660685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.01720685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.01780685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.01840685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.01900685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.01960685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.02020685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.02080685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.02140685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.02200685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.02340685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.02470685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.02530685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.02590685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.02650685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.02720685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.02800685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.02860685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.02920685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.02980685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.03040685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.03100685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.03160685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.03220685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.03280685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.03340685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.03400685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.03460685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.03530685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.03640685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.03790685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.03970685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.04140685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.04200685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.04260685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.04320685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.04380685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.04440685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.04550685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.04610685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.04680685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.04760685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.04850685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.04910685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.04970685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.05040685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.05110685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.05170685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.05230685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.05300685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.05380685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.05500685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.05590685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.05680685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.05740685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.05800685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.05860685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.05960685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.06050685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.06150685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.06230685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.06350685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.06460685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.06550685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.06650685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.06750685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.06900685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.07020685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.07170685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.07300685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.07430685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.07550685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.07610685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.07670685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.07750685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.07810685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.07870685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.07930685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.07990685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.08050685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.08140685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.08200685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.08260685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.08320685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.08380685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.08440685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.08500685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.08560685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.08620685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.08710685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.08900685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.08990685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.09070685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.09160685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.09220685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.09280685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.09400685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.09460685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.09520685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.09580685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.09690685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.09800685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.09860685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.09920685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.09980685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.10040685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.10100685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.10160685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.10220685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.10280685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.10340685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.10400685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.10460685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.10520685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.10580685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.10670685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.10730685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.10790685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.10850685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.10910685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.10970685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.11030685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.11170685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.11260685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.11370685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.11460685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.11550685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.11640685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.11700685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.11780685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.11870685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.11930685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.11990685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.12050685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.12110685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.12170685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.12230685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.12290685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.12350685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.12410685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.12470685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.12530685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.12590685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.12650685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.12720685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.12780685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.12840685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.12900685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.12960685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.13170685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.13280685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.13370685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.13450685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.13510685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.13570685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.13630685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.13690685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.13750685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.13810685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.13870685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.13930685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.13990685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.14050685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.14110685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.14170685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.14230685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.14290685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.14350685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.14410685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.14470685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.14530685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.14590685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.14650685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.14710685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.14770685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.14840685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.14900685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.14960685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.15020685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.15080685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.15140685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.15200685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.15260685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.15320685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.15380685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.15440685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.15500685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.15640685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.15780685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.15840685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.15900685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.15990685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.16080685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.16180685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.16290685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.16350685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.16410685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.16470685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.16530685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.16620685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.16710685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.16770685
+17:49:04: opening short
+17:49:04: closing short, total profit: 1.16830685
+17:49:04: opening long
+17:49:04: closing long, total profit: 1.16890685
+17:49:04: opening short
+17:49:05: closing short, total profit: 1.16950685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.17010685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.17070685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.17130685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.17190685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.17250685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.17310685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.17370685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.17430685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.17490685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.17550685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.17620685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.17690685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.17780685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.17840685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.17900685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.17970685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.18030685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.18090685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.18150685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.18210685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.18270685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.18330685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.18390685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.18470685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.18530685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.18590685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.18650685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.18710685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.18780685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.18840685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.18900685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.18960685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.19020685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.19080685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.19140685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.19200685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.19270685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.19350685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.19410685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.19470685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.19540685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.19600685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.19660685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.19720685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.19780685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.19840685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.19900685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.19960685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.20020685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.20080685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.20140685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.20200685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.20260685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.20320685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.20380685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.20440685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.20500685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.20560685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.20620685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.20680685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.20740685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.20800685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.20860685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.20920685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.20980685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.21040685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.21100685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.21170685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.21240685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.21300685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.21360685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.21420685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.21480685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.21540685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.21600685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.21660685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.21720685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.21780685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.21840685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.21910685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.21970685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.22030685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.22090685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.22150685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.22210685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.22470685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.22730685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.22920685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.23110685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.23170685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.23230685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.23300685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.23370685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.23430685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.23510685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.23580685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.23640685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.23710685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.23810685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.23910685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.23980685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.24050685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.24140685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.24240685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.24310685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.24390685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.24470685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.24580685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.24660685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.24760685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.24870685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.24970685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.25070685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.25160685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.25260685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.25360685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.25470685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.25560685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.25660685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.25770685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.25880685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.25940685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.26000685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.26070685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.26130685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.26190685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.26260685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.26330685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.26400685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.26490685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.26580685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.26650685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.26720685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.26780685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.26840685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.26910685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.26980685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.27040685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.27100685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.27160685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.27220685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.27280685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.27340685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.27400685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.27460685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.27530685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.27610685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.27690685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.27770685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.27840685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.27910685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.27980685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.28050685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.28140685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.28210685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.28270685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.28330685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.28390685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.28450685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.28510685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.28640685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.28700685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.28760685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.28830685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.28900685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.28980685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.29070685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.29130685
+17:49:05: opening long
+17:49:05: closing long, total profit: 1.29200685
+17:49:05: opening short
+17:49:05: closing short, total profit: 1.29280685
+17:49:05: opening long
+17:49:06: closing long, total profit: 1.29340685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.29400685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.29460685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.29520685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.29590685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.29660685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.29730685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.29800685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.29870685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.29940685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.30000685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.30060685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.30140685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.30210685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.30280685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.30350685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.30410685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.30470685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.30530685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.30600685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.30660685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.30740685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.30800685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.30870685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.30940685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.31010685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.31070685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.31130685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.31190685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.31250685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.31320685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.31390685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.31450685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.31540685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.31610685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.31690685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.31760685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.31820685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.31880685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.31960685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.32030685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.32100685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.32170685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.32240685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.32300685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.32370685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.32440685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.32510685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.32580685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.32640685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.32710685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.32780685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.32850685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.32930685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.33000685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.33070685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.33130685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.33190685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.33250685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.33320685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.33380685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.33450685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.33510685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.33570685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.33630685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.33700685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.33760685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.33820685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.33880685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.33940685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.34000685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.34070685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.34130685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.34200685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.34280685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.34350685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.34420685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.34490685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.34550685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.34610685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.34670685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.34730685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.34790685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.34860685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.34920685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.34980685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.35040685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.35100685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.35160685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.35220685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.35280685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.35340685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.35400685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.35460685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.35540685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.35600685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.35660685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.35720685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.35780685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.35840685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.35910685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.35980685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.36040685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.36100685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.36170685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.36240685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.36310685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.36370685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.36460685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.36550685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.36610685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.36670685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.36750685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.36820685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.37000685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.37180685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.37250685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.37310685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.37370685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.37440685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.37520685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.37590685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.37650685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.37710685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.37770685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.37830685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.37890685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.37950685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.38010685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.38070685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.38130685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.38190685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.38250685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.38310685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.38370685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.38430685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.38490685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.38550685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.38610685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.38670685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.38740685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.38810685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.38870685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.38940685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.39010685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.39070685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.39140685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.39200685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.39260685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.39330685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.39390685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.39460685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.39570685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.39630685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.39700685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.39770685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.39830685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.39890685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.39950685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.40010685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.40080685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.40150685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.40220685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.40300685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.40370685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.40440685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.40510685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.40580685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.40660685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.40740685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.40820685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.40890685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.40960685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.41030685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.41100685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.41170685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.41230685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.41290685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.41350685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.41410685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.41470685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.41530685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.41590685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.41650685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.41710685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.41770685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.41830685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.41890685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.41950685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.42010685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.42070685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.42130685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.42190685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.42250685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.42310685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.42370685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.42430685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.42490685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.42550685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.42610685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.42670685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.42730685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.42790685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.42850685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.42910685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.42970685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.43030685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.43090685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.43160685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.43280685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.43480685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.43640685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.43770685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.43990685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.44050685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.44190685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.44300685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.44390685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.44460685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.44530685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.44590685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.44720685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.44850685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.44930685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.45010685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.45120685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.45230685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.45370685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.45450685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.45530685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.45620685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.45730685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.45800685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.45880685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.45950685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.46030685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.46130685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.46210685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.46280685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.46390685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.46490685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.46580685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.46660685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.46720685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.46800685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.46870685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.46970685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.47070685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.47180685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.47260685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.47330685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.47430685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.47510685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.47590685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.47680685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.47750685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.47820685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.47900685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.47990685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.48080685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.48160685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.48230685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.48310685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.48380685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.48450685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.48530685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.48680685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.48830685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.48890685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.48960685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.49040685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.49110685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.49180685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.49250685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.49310685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.49370685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.49430685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.49490685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.49550685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.49620685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.49710685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.49800685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.49880685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.49940685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.50000685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.50080685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.50150685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.50220685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.50310685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.50380685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.50450685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.50620685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.50710685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.50900685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.51110685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.51290685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.51500685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.51770685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.52040685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.52400685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.52740685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.53070685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.53350685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.53550685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.53690685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.53820685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.53950685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.54090685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.54220685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.54350685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.54430685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.54530685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.54590685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.54650685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.54740685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.54830685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.54900685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.54970685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.55040685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.55120685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.55190685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.55260685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.55340685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.55420685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.55510685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.55590685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.55660685
+17:49:06: opening long
+17:49:06: closing long, total profit: 1.55780685
+17:49:06: opening short
+17:49:06: closing short, total profit: 1.55910685
+17:49:06: opening long
+17:49:07: closing long, total profit: 1.56020685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.56120685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.56240685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.56360685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.56440685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.56520685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.56600685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.56670685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.56740685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.56840685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.56950685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.57110685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.57280685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.57360685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.57420685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.57500685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.57570685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.57650685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.57810685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.57960685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.58170685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.58370685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.58490685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.58600685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.58660685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.58720685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.58780685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.58880685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.58960685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.59030685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.59120685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.59220685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.59290685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.59350685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.59420685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.59480685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.59560685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.59660685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.59720685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.59810685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.59890685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.59960685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.60030685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.60110685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.60190685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.60290685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.60350685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.60410685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.60470685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.60530685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.60590685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.60650685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.60720685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.60790685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.60850685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.60910685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.60970685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.61030685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.61090685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.61160685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.61220685
+17:49:07: opening long
+17:49:07: closing long, total profit: 1.61280685
+17:49:07: opening short
+17:49:07: closing short, total profit: 1.61340685
+17:49:07: opening long

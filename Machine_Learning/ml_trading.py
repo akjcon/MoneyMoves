@@ -19,6 +19,7 @@ High Priority: Implement check if order actually went through, if not then no cl
 Low Priority: Random Forest should learn from every tick
                 - add prediction + all tick data to csv and run machinelearning.py
                   generator with warm-start == True to add the data to the model
+                  - IN PROGRESS
 '''
 
 ML_percent = 0
