@@ -4,7 +4,10 @@ import csv
 import pickle
 from decimal import Decimal
 from pprint import pprint
-
+from pos_class import Position
+import numpy
+import requests
+import bitmex_and_binance as bin
 '''
 Simple Version:
 If no open orders & price is lower than 1-fee-percent_gain, enter long position.
@@ -20,13 +23,14 @@ point, but will likely increase profit from strategy.
 TODO: make a class for an open position, would make things simpler overall
 '''
 
-_FEE_ = 0.0001
-_PROFIT_ = 0.0001
+_FEE_ = 0.001
+_PROFIT_ = 0.001
 
 openpos = False
-postype = 'long'
-posentry = 0
+pos = Position('null',-99,-99)
 net = 0
+capital = 1000
+count = 0
 
 def data_writer(data):
     t = time.localtime()
@@ -45,48 +49,71 @@ def margin_check():
     else: return 0
 
 def paper_trade(margin):
-    global openpos,posentry,postype,net
-    if margin > (_FEE_ + _PROFIT_) and not openpos:
-        #price above 1 enough,no positions,so enter short
-        openpos = True
-        posentry = 1+margin
-        postype = 'short'
-        print('opening short')
-        data_writer("opening short")
-    elif margin < (0-(_FEE_+_PROFIT_)) and not openpos:
-        #price below 1 enough, no positions, so enter long
-        openpos = True
-        posentry = 1+margin
-        postype = 'long'
-        print('opening long')
-        data_writer("opening long")
-    elif margin > (_FEE_ + _PROFIT_) and openpos and postype == 'long':
-        #price above 1 enough, in current long, so close position
-        openpos = False
-        tradeprofit = (1+margin) - posentry
-        net += tradeprofit
-        print('closing long')
-        data_writer("closing long, total profit: {}".format(net))
-    elif margin < (0-(_FEE_ + _PROFIT_)) and openpos and postype == 'short':
-        #price below 1 enough, in current short, so close position
-        openpos = False
-        tradeprofit = posentry - (1+margin)
-        net += tradeprofit
-        print('closing short')
-        data_writer("closing short, total profit: {}".format(net))
+    global openpos,net,pos
+    stdsize = 1000
+    if not openpos:
+        if margin > (_FEE_ + _PROFIT_):
+            #price above 1 enough,no positions,so enter short
+            openpos = True
+            pos = Position('short',1+margin,stdsize)
+            #print('opening short')
+            data_writer("opening short")
+        elif margin < (0-(_FEE_+_PROFIT_)):
+            #price below 1 enough, no positions, so enter long
+            openpos = True
+            pos = Position('long',1+margin,stdsize)
+            #print('opening long')
+            data_writer("opening long")
+    if openpos:
+        if margin > (_FEE_ + _PROFIT_) and pos.type == 'long':
+            #price above 1 enough, in current long, so close position
+            openpos = False
+            pos.close = 1+margin
+            net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
+            #print('closing long')
+            data_writer("closing long, total profit: {}".format(net))
+        elif margin < (0-(_FEE_ + _PROFIT_)) and openpos and pos.type == 'short':
+            #price below 1 enough, in current short, so close position
+            openpos = False
+            pos.close = 1+margin
+            net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
+            #print('closing short')
+            data_writer("closing short, total profit: {}".format(net))
     else:
-        i = 3
+        return
     #else: print('not profitable to trade')
 
+def read_csv():
+    opens = []
+    with open('PAXUSDT-1m-data.csv') as f:
+        csvread = csv.reader(f, delimiter=',')
+        line_count = 0
+        for row in csvread:
+            if line_count == 0:
+                line_count += 1
+                pass
+            else: opens.append(row[1])
+    return opens
+
+
+
+
 def main():
-    tether_history_raw = pickle.load(open('HistoricalData.txt', 'rb'))
-    tether_history = []
+    #global _PROFIT_,net
+    #tether_history_raw = pickle.load(open('HistoricalData.txt', 'rb'))
+    #tether_history = []
 
-    for d in tether_history_raw:
-        tether_history.append(1-Decimal(d[0]))
-    
-    for d in tether_history:
-        paper_trade(d)
+    #for d in tether_history_raw:
+    #    tether_history.append(1-float(d[0]))
 
+#    arr = numpy.linspace(0.0001,0.001,num=10)
+#    for num in arr:
+#        _PROFIT_ = num
+#        print(_PROFIT_)
+    for d in read_csv():
+        paper_trade(1-float(d))
+    print(net)
 if __name__ == '__main__':
+    #data = bin.get_all_binance("PAXUSDT","1m",save = True)
     main()
+    print(net)

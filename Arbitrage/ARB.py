@@ -5,6 +5,7 @@ from datetime import datetime
 #import gdax #pip install gdax
 from twilio.rest import Client #pip install twilio
 #from bitfinex.client import Client as bfxClient
+import requests
 
 '''
 This used to be a program that would trade the time delay between Kraken and GDAX/Bitfinex
@@ -255,7 +256,7 @@ def getHistoricalData(currency):
                 return all_trades
             else:
                 new_since = int(data[_RESULT_][_LAST_])
-                new_trades = data[_RESULT_][currency]   
+                new_trades = data[_RESULT_][currency]
                 all_trades.extend(data[_RESULT_][currency])
                 print(len(all_trades))
             since = new_since
@@ -265,6 +266,13 @@ def getHistoricalData(currency):
         except:
             time.sleep(20)
     return all_trades
+
+def hourly_price_historical(symbol, comparison_symbol, limit, exchange):
+    url = 'https://min-api.cryptocompare.com/data/v2/histohour?fsym={}&tsym={}&limit={}&e={}'\
+            .format(symbol.upper(), comparison_symbol.upper(), limit, exchange)
+    page = requests.get(url)
+    data = page.json()['Data']
+    return data
 
 def krakenPrice(currency):
     while True:
