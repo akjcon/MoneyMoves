@@ -240,15 +240,13 @@ def krakenEthPrice():
     bestask = float(firstPrice_Kraken[_RESULT_][_K_CURR_][_ASKS_][0][0])
     return (bestask+bestbid)/2
 
-def getHistoricalData(currency):
-    since = 1546300800000000000 # 1/1/2019
+def getHistoricalData(currency, since):
     all_trades = []
     wait = 10
     while True:
         try:
             data = kpublic.query_public(_TRADES_, {_PAIR_:currency,_SINCE_:since})
             if (_RESULT_ not in data):
-                print(data)
                 time.sleep(wait)
                 wait += 1
             elif (currency not in data[_RESULT_] or len(data[_RESULT_][currency]) == 0):
@@ -257,9 +255,8 @@ def getHistoricalData(currency):
                 new_since = int(data[_RESULT_][_LAST_])
                 new_trades = data[_RESULT_][currency]   
                 all_trades.extend(data[_RESULT_][currency])
-                print(len(all_trades))
+                print("Collected " + str(len(all_trades)) + " trade records")
             since = new_since
-            print(since)
             print(datetime.utcfromtimestamp(int(str(since)[0:10])).strftime('%Y-%m-%d %H:%M:%S'))
             time.sleep(5)
         except:
