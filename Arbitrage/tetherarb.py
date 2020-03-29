@@ -2,12 +2,17 @@ import ARB as c
 import time
 import csv
 import pickle
-from decimal import Decimal
+import matplotlib.pyplot as plt
+from decimal import *
 from pprint import pprint
 from pos_class import Position
-import numpy
 import requests
 import bitmex_and_binance as bin
+from dbmanager import DbManager
+from scipy.stats import zscore
+import numpy as np
+import pandas as pd
+
 '''
 Simple Version:
 If no open orders & price is lower than 1-fee-percent_gain, enter long position.
@@ -26,11 +31,18 @@ TODO: make a class for an open position, would make things simpler overall
 _FEE_ = 0.001
 _PROFIT_ = 0.001
 
+decimal_precision = 1000000 # 6
+
 openpos = False
 pos = Position('null',-99,-99)
 net = 0
 capital = 1000
 count = 0
+
+manager = DbManager()
+manager.connect('kraken.db')
+
+pd.options.display.width = 0
 
 def data_writer(data):
     t = time.localtime()
@@ -48,7 +60,8 @@ def margin_check():
         return askmargin
     else: return 0
 
-def paper_trade(margin):
+def paper_trade(row):
+    margin = 1-row['price']
     global openpos,net,pos
     stdsize = 1000
     if not openpos:
@@ -69,6 +82,7 @@ def paper_trade(margin):
             #price above 1 enough, in current long, so close position
             openpos = False
             pos.close = 1+margin
+            data_writer("{} {} {} {}".format(pos.open, pos.close, capital, net))
             net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
             #print('closing long')
             data_writer("closing long, total profit: {}".format(net))
@@ -77,11 +91,11 @@ def paper_trade(margin):
             openpos = False
             pos.close = 1+margin
             net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
+            data_writer("{} {} {} {}".format(pos.open, pos.close, capital, net))
+
             #print('closing short')
             data_writer("closing short, total profit: {}".format(net))
-    else:
-        return
-    #else: print('not profitable to trade')
+
 
 def read_csv():
     opens = []
@@ -95,24 +109,47 @@ def read_csv():
             else: opens.append(row[1])
     return opens
 
-
+def complete_trade_history():
+    df = manager.query("SELECT * FROM trade_history WHERE timestamp = (SELECT MAX(timestamp) FROM trade_history);")
+    since = df.get('timestamp').iloc[0]
+    # since must be in nanoseconds 
+    result = c.getHistoricalData("USDTZUSD", since * 100000)
+    to_insert = []
+    for trade in result:
+        to_insert.append((int(str(trade[2]).replace(".","")), int(Decimal(trade[0])*decimal_precision), int(Decimal(trade[1])*decimal_precision), trade[3], trade[4]))
+    manager.insert_many_trade_records(to_insert)
 
 
 def main():
-    #global _PROFIT_,net
-    #tether_history_raw = pickle.load(open('HistoricalData.txt', 'rb'))
-    #tether_history = []
+    df = manager.query("SELECT * FROM trade_history")
+    df['price'] = df['price'].astype(Decimal)
+    df['volume'] = df['volume'].astype(Decimal)
+    df['price'] /= decimal_precision
+    df['volume'] /= decimal_precision
+    prices = df['price']
+    df['zscores'] = zscore(prices.astype(float))
+    #print(df[abs(df['zscores']) > 3])
 
-    #for d in tether_history_raw:
-    #    tether_history.append(1-float(d[0]))
+    for index, row in df.iterrows():
+        paper_trade(row)
 
-#    arr = numpy.linspace(0.0001,0.001,num=10)
-#    for num in arr:
-#        _PROFIT_ = num
-#        print(_PROFIT_)
-    for d in read_csv():
-        paper_trade(1-float(d))
-    print(net)
+    #complete_trade_history()
+    """to_insert = []
+    for d in tether_history_raw:
+        t = (int(str(d[2]).replace(".","")), d[0], d[1], d[3], d[4])
+        to_insert.append(t)
+    
+    manager.insert_many_trade_records(to_insert)"""
+    """df = manager.query("SELECT * FROM trade_history")
+    col = df[['price']].head(1000)
+    print(col)
+    print(list(col))"""
+
+#    df_zscore = (col - col.mean())/col.std()
+    #for d in read_csv():
+    #    paper_trade(1-float(d))
+    #print(net)
+
 if __name__ == '__main__':
     #data = bin.get_all_binance("PAXUSDT","1m",save = True)
     main()

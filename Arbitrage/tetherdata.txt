@@ -1,3275 +1,952 @@
-14:12:38: opening long
-14:12:38: closing long, total profit: 4.599999999999939
-14:12:38: opening short
-14:12:38: closing short, total profit: 7.513340000000066
-14:12:38: opening long
-14:12:38: closing long, total profit: 10.737382687999936
-14:12:38: opening short
-14:12:38: closing short, total profit: 21.35012520622389
-14:12:38: opening long
-14:12:38: closing long, total profit: 31.35935643324492
-14:12:38: opening short
-14:12:38: closing short, total profit: 36.61928915105458
-14:12:38: opening long
-14:12:38: closing long, total profit: 38.38154194261141
-14:12:38: opening short
-14:12:38: closing short, total profit: 40.56214318069089
-14:12:38: opening long
-14:12:38: closing long, total profit: 42.955436110006445
-14:12:38: opening short
-14:12:38: closing short, total profit: 46.60578013639153
-14:12:38: opening long
-14:12:38: closing long, total profit: 48.280349384609806
-14:12:38: opening short
-14:12:38: closing short, total profit: 50.48173811831748
-14:12:38: opening short
-14:12:38: closing short, total profit: 52.05746072549502
-14:12:38: opening long
-14:12:38: closing long, total profit: 54.58239863123617
-14:12:38: opening long
-14:12:38: closing long, total profit: 56.375188708909306
-14:12:38: opening short
-14:12:38: closing short, total profit: 57.748476454230975
-14:12:38: opening long
-14:12:38: closing long, total profit: 59.22932432126697
-14:12:38: opening short
-14:12:38: closing short, total profit: 65.16100853746612
-14:12:38: opening long
-14:12:38: closing long, total profit: 80.60584316125933
-14:12:38: opening short
-14:12:38: closing short, total profit: 83.30735776916242
-14:12:38: opening long
-14:12:38: closing long, total profit: 92.62380104597716
-14:12:38: opening short
-14:12:38: closing short, total profit: 94.1534743674416
-14:12:38: opening short
-14:12:38: closing short, total profit: 95.46645853668264
-14:12:38: opening short
-14:12:38: closing short, total profit: 101.49152405863445
-14:12:38: opening long
-14:12:38: closing long, total profit: 105.45689354524559
-14:12:38: opening short
-14:12:38: closing short, total profit: 111.75799783845353
-14:12:38: opening long
-14:12:38: closing long, total profit: 116.20502982980736
-14:12:38: opening short
-14:12:38: closing short, total profit: 117.65609636858619
-14:12:38: opening long
-14:12:38: closing long, total profit: 119.10904929386544
-14:12:38: opening short
-14:12:38: closing short, total profit: 120.7877128678063
-14:12:38: opening long
-14:12:38: closing long, total profit: 122.58097320839485
-14:12:38: opening short
-14:12:38: closing short, total profit: 124.37710276552833
-14:12:38: opening long
-14:12:38: closing long, total profit: 128.76217346631393
-14:12:38: opening short
-14:12:38: closing short, total profit: 130.22956429182022
-14:12:38: opening long
-14:12:38: closing long, total profit: 132.0379315946872
-14:12:38: opening short
-14:12:38: closing short, total profit: 134.1888036647171
-14:12:38: opening short
-14:12:38: closing short, total profit: 140.08658544377374
-14:12:38: opening long
-14:12:38: closing long, total profit: 142.59477593175004
-14:12:38: opening short
-14:12:38: closing short, total profit: 144.19440861805455
-14:12:38: opening long
-14:12:38: closing long, total profit: 148.77118625252677
-14:12:38: opening short
-14:12:38: closing short, total profit: 150.60922015053086
-14:12:38: opening long
-14:12:38: closing long, total profit: 152.56525582478682
-14:12:38: opening short
-14:12:38: closing short, total profit: 154.75512981085393
-14:12:38: opening long
-14:12:38: closing long, total profit: 157.52654212239995
-14:12:38: opening long
-14:12:38: closing long, total profit: 159.49433724400808
-14:12:38: opening short
-14:12:38: closing short, total profit: 162.16117421966928
-14:12:38: opening long
-14:12:38: closing long, total profit: 164.13684821584275
-14:12:38: opening short
-14:12:38: closing short, total profit: 165.76663980334502
-14:12:38: opening long
-14:12:38: closing long, total profit: 167.39871309906977
-14:12:38: opening short
-14:12:38: closing short, total profit: 168.91633142609865
-14:12:38: opening long
-14:12:38: closing long, total profit: 170.90348918952307
-14:12:38: opening short
-14:12:38: closing short, total profit: 172.3085733765506
-14:12:38: opening long
-14:12:38: closing long, total profit: 174.887652237979
-14:12:38: opening short
-14:12:38: closing short, total profit: 178.52980395991662
-14:12:38: opening short
-14:12:38: closing short, total profit: 180.0618927050646
-14:12:38: opening long
-14:12:38: closing long, total profit: 181.83198554412226
-14:12:38: opening short
-14:12:38: closing short, total profit: 183.7229167209929
-14:12:38: opening long
-14:12:38: closing long, total profit: 185.2617565127303
-14:12:38: opening short
-14:12:38: closing short, total profit: 186.80259679619695
-14:12:38: opening long
-14:12:38: closing long, total profit: 188.3454401720321
-14:12:38: opening short
-14:12:38: closing short, total profit: 190.12795833229023
-14:12:38: opening long
-14:12:38: closing long, total profit: 192.03216306562194
-14:12:38: opening short
-14:12:38: closing short, total profit: 193.4626016613008
-14:12:38: opening long
-14:12:38: closing long, total profit: 194.89475678329447
-14:12:38: opening short
-14:12:38: closing short, total profit: 196.32863049143452
-14:12:38: opening long
-14:12:38: closing long, total profit: 197.8838577110735
-14:12:38: opening short
-14:12:38: closing short, total profit: 200.04004865495344
-14:12:38: opening short
-14:12:38: closing short, total profit: 225.24088967670735
-14:12:38: opening long
-14:12:38: closing long, total profit: 241.04649715353676
-14:12:38: opening short
-14:12:38: closing short, total profit: 245.2660552438586
-14:12:38: opening long
-14:12:38: closing long, total profit: 250.12259285930966
-14:12:38: opening short
-14:12:38: closing short, total profit: 254.998070971461
-14:12:38: opening long
-14:12:38: closing long, total profit: 257.8845665346956
-14:12:38: opening short
-14:12:38: closing short, total profit: 261.28085486433946
-14:12:38: opening long
-14:12:38: closing long, total profit: 263.4250323176089
-14:12:38: opening short
-14:13:51: opening long
-14:13:51: closing long, total profit: 3.800000000000029
-14:13:51: opening short
-14:13:51: closing short, total profit: 5.506460000000068
-14:13:51: opening long
-14:13:51: closing long, total profit: 7.718574211999828
-14:13:51: opening short
-14:13:51: closing short, total profit: 22.229721680652595
-14:13:51: opening long
-14:13:51: closing long, total profit: 42.1632012534254
-14:13:51: opening short
-14:13:51: closing short, total profit: 47.26980093956732
-14:13:51: opening long
-14:13:51: closing long, total profit: 49.88797544191642
-14:13:51: opening short
-14:13:51: closing short, total profit: 51.46280740507935
-14:13:51: opening short
-14:13:51: closing short, total profit: 54.19661070433249
-14:13:51: opening short
-14:13:51: closing short, total profit: 59.36217409678386
-14:13:51: opening long
-14:13:51: closing long, total profit: 73.45169101227094
-14:13:51: opening short
-14:13:51: closing short, total profit: 81.82461420216646
-14:13:51: opening long
-14:13:51: closing long, total profit: 83.98826343057104
-14:13:51: opening short
-14:13:51: closing short, total profit: 88.75781178966575
-14:13:51: opening long
-14:13:51: closing long, total profit: 90.71757585088743
-14:13:51: opening short
-14:13:51: closing short, total profit: 92.68086748741881
-14:13:51: opening long
-14:13:51: closing long, total profit: 94.97549730914263
-14:13:51: opening short
-14:13:51: closing short, total profit: 99.02690664918626
-14:13:51: opening long
-14:13:51: closing long, total profit: 100.89525239049016
-14:13:51: opening short
-14:13:51: closing short, total profit: 105.62910197576923
-14:13:51: opening long
-14:13:51: closing long, total profit: 107.28754562873296
-14:13:51: opening short
-14:13:51: closing short, total profit: 111.05232328387048
-14:13:51: opening long
-14:13:51: closing long, total profit: 113.27442793043822
-14:13:51: opening short
-14:13:51: closing short, total profit: 114.83301212954092
-14:13:51: opening long
-14:13:51: closing long, total profit: 116.39377834652235
-14:13:51: opening short
-14:13:51: closing short, total profit: 118.1800083918766
-14:13:51: opening long
-14:13:51: closing long, total profit: 119.63364240278612
-14:13:51: opening short
-14:13:51: closing short, total profit: 121.31309286639036
-14:13:51: opening long
-14:13:51: closing long, total profit: 124.00424428926941
-14:13:51: opening short
-14:13:51: closing short, total profit: 127.03905574885036
-14:13:51: opening long
-14:13:52: closing long, total profit: 128.9550221436237
-14:13:52: opening short
-14:13:52: closing short, total profit: 130.8742456812679
-14:13:52: opening long
-14:13:52: closing long, total profit: 132.34438220065363
-14:13:52: opening short
-14:13:52: closing short, total profit: 136.08111866191564
-14:13:52: opening long
-14:13:52: closing long, total profit: 149.48687586212603
-14:13:52: opening short
-14:13:52: closing short, total profit: 153.62502861522975
-14:13:52: opening long
-14:13:52: closing long, total profit: 157.77807871824464
-14:13:52: opening short
-14:13:52: closing short, total profit: 163.1038578803485
-14:13:52: opening long
-14:13:52: closing long, total profit: 165.19744482453316
-14:13:52: opening short
-14:14:15: opening long
-14:14:15: closing long, total profit: 4.599999999999939
-14:14:15: opening short
-14:14:15: closing short, total profit: 6.910580000000133
-14:14:15: opening short
-14:14:15: closing short, total profit: 8.018181638000236
-14:14:15: opening long
-14:14:15: closing long, total profit: 11.647047091896862
-14:14:15: opening short
-14:14:15: closing short, total profit: 22.269341086361734
-14:14:15: opening long
-14:14:15: closing long, total profit: 30.345268880944012
-14:14:15: opening long
-14:14:15: closing long, total profit: 35.187891644684605
-14:14:15: opening short
-14:14:15: closing short, total profit: 40.36383110290815
-14:14:15: opening long
-14:14:15: closing long, total profit: 41.50823131712146
-14:14:15: opening short
-14:14:15: closing short, total profit: 43.591247779755705
-14:14:15: opening long
-14:14:15: closing long, total profit: 45.991507649649115
-14:14:15: opening short
-14:14:15: closing short, total profit: 49.65247792642295
-14:14:15: opening long
-14:14:15: closing long, total profit: 51.331921891105274
-14:14:15: opening short
-14:14:15: closing short, total profit: 53.539718927076585
-14:14:15: opening short
-14:14:15: closing short, total profit: 54.80396658978918
-14:14:15: opening long
-14:14:15: closing long, total profit: 57.33549610960463
-14:14:15: opening long
-14:14:15: closing long, total profit: 58.7100322545472
-14:14:15: opening short
-14:14:15: closing short, total profit: 59.87461329002731
-14:14:15: opening long
-14:14:15: closing long, total profit: 61.35843774863343
-14:14:15: opening short
-14:14:15: closing short, total profit: 67.08977331247613
-14:14:15: opening long
-14:14:15: closing long, total profit: 82.56257502550699
-14:14:15: opening short
-14:14:15: closing short, total profit: 84.94421269056308
-14:14:15: opening long
-14:14:15: closing long, total profit: 86.3546401670609
-14:14:15: opening long
-14:14:15: closing long, total profit: 87.76690119927817
-14:14:15: opening short
-14:14:15: closing short, total profit: 89.28977486095724
-14:14:15: opening long
-14:14:15: closing long, total profit: 90.37906463581832
-14:14:15: opening short
-14:14:15: closing short, total profit: 92.23270904569925
-14:14:15: opening short
-14:14:15: closing short, total profit: 98.02154240364155
-14:14:15: opening long
-14:14:15: closing long, total profit: 101.97441995629471
-14:14:15: opening short
-14:14:15: closing short, total profit: 108.25567415004564
-14:14:15: opening long
-14:14:15: closing long, total profit: 112.46704571181584
-14:14:15: opening short
-14:14:15: closing short, total profit: 113.69075946209895
-14:14:15: opening long
-14:14:15: closing long, total profit: 114.80445022156118
-14:14:15: opening short
-14:14:15: closing short, total profit: 116.47665689689359
-14:14:15: opening long
-14:14:15: closing long, total profit: 117.70478121948028
-14:14:15: opening short
-14:14:15: closing short, total profit: 119.49310886943151
-14:14:15: opening long
-14:14:15: closing long, total profit: 123.8591319940223
-14:14:15: opening short
-14:14:15: closing short, total profit: 125.09537703921585
-14:14:15: opening long
-14:14:15: closing long, total profit: 126.67051056707083
-14:14:15: opening short
-14:14:15: closing short, total profit: 128.6985174860916
-14:14:15: opening long
-14:14:15: closing long, total profit: 130.5044351140694
-14:14:15: opening short
-14:14:15: closing short, total profit: 132.65239354078614
-14:14:15: opening short
-14:14:15: closing short, total profit: 138.42892074784427
-14:14:15: opening long
-14:14:15: closing long, total profit: 140.9334643734895
-14:14:15: opening short
-14:14:15: closing short, total profit: 141.96030449142577
-14:14:15: opening short
-14:14:15: closing short, total profit: 143.44485288726472
-14:14:15: opening long
-14:14:15: closing long, total profit: 144.70264222544083
-14:14:15: opening short
-14:14:15: closing short, total profit: 145.8473448676664
-14:14:15: opening long
-14:14:15: closing long, total profit: 147.7952853539415
-14:14:15: opening short
-14:14:15: closing short, total profit: 149.976096396114
-14:14:15: opening long
-14:14:15: closing long, total profit: 152.73603902746464
-14:14:15: opening long
-14:14:15: closing long, total profit: 154.69569029381137
-14:14:15: opening short
-14:14:15: closing short, total profit: 156.88961210536962
-14:14:15: opening long
-14:14:15: closing long, total profit: 158.8563244459488
-14:14:15: opening short
-14:14:15: closing short, total profit: 160.24695203528404
-14:14:15: opening long
-14:14:15: closing long, total profit: 161.40719898731945
-14:14:15: opening short
-14:14:15: closing short, total profit: 162.45246546640817
-14:14:15: opening long
-14:14:15: closing long, total profit: 163.49867268532807
-14:14:15: opening short
-14:14:15: closing short, total profit: 165.0112209598191
-14:14:15: opening long
-14:14:15: closing long, total profit: 166.17623218077904
-14:14:15: opening short
-14:14:15: closing short, total profit: 167.2257907897419
-14:14:15: opening long
-14:14:15: closing long, total profit: 169.32679721316345
-14:14:15: opening short
-14:14:15: closing short, total profit: 172.8347776048028
-14:14:15: opening long
-14:14:15: closing long, total profit: 174.00761238240776
-14:14:15: opening short
-14:14:15: closing short, total profit: 176.23822684593435
-14:14:15: opening long
-14:14:15: closing long, total profit: 177.76733654083415
-14:14:15: opening short
-14:14:15: closing short, total profit: 179.29843407833732
-14:14:15: opening long
-14:14:15: closing long, total profit: 180.35980266900796
-14:14:15: opening short
-14:14:15: closing short, total profit: 181.4221264914102
-14:14:15: opening long
-14:14:15: closing long, total profit: 182.48540640525263
-14:14:15: opening long
-14:14:15: closing long, total profit: 183.78614035229853
-14:14:15: opening short
-14:14:15: closing short, total profit: 185.3250623347566
-14:14:15: opening long
-14:14:15: closing long, total profit: 186.5103873970915
-14:14:15: opening short
-14:14:15: closing short, total profit: 187.69689778448873
-14:14:15: opening short
-14:14:15: closing short, total profit: 188.7658249924949
-14:14:15: opening long
-14:14:15: closing long, total profit: 189.95459081748754
-14:14:15: opening short
-14:14:15: closing short, total profit: 191.14454540830516
-14:14:15: opening long
-14:14:15: closing long, total profit: 192.3356899537136
-14:14:15: opening short
-14:14:15: closing short, total profit: 194.4818941956303
-14:14:15: opening short
-14:14:15: closing short, total profit: 219.56601397373842
-14:14:15: opening long
-14:14:15: closing long, total profit: 235.29841555399955
-14:14:15: opening short
-14:14:15: closing short, total profit: 239.49843016688297
-14:14:15: opening long
-14:14:15: closing long, total profit: 244.33247404453383
-14:14:15: opening short
-14:14:15: closing short, total profit: 249.06093744590308
-14:14:15: opening long
-14:14:15: closing long, total profit: 251.68396541453976
-14:14:15: opening short
-14:14:15: closing short, total profit: 254.437670138452
-14:14:15: opening long
-14:14:15: closing long, total profit: 256.4447704106736
-14:14:15: opening short
-14:14:33: opening long
-14:14:33: closing long, total profit: 5.800000000000029
-14:14:33: opening short
-14:14:33: closing short, total profit: 8.917980000000135
-14:14:33: opening long
-14:14:33: closing long, total profit: 12.348301131999984
-14:14:33: opening short
-14:14:33: closing short, total profit: 22.97795829388594
-14:14:33: opening long
-14:14:33: closing long, total profit: 33.00314228516606
-14:14:33: opening short
-14:14:33: closing short, total profit: 38.684659567734535
-14:14:33: opening long
-14:14:33: closing long, total profit: 40.762028886870006
-14:14:33: opening short
-14:14:33: closing short, total profit: 43.468010161975805
-14:14:33: opening long
-14:14:33: closing long, total profit: 48.16361620770464
-14:14:33: opening short
-14:14:33: closing short, total profit: 50.57439252498233
-14:14:33: opening long
-14:14:33: closing long, total profit: 53.51600082405219
-14:14:33: opening long
-14:14:33: closing long, total profit: 55.517681225617906
-14:14:33: opening short
-14:14:33: closing short, total profit: 59.52864841427505
-14:14:33: opening long
-14:14:33: closing long, total profit: 62.60128149467634
-14:14:33: opening short
-14:14:33: closing short, total profit: 69.93323033698975
-14:14:33: opening long
-14:14:33: closing long, total profit: 85.44726217687605
-14:14:33: opening short
-14:14:33: closing short, total profit: 95.86755589377388
-14:14:33: opening long
-14:14:33: closing long, total profit: 99.48391882822342
-14:14:33: opening short
-14:14:33: closing short, total profit: 105.97087394930996
-14:14:33: opening long
-14:14:33: closing long, total profit: 109.95236909552753
-14:14:33: opening short
-14:14:33: closing short, total profit: 116.27909759937208
-14:14:33: opening long
-14:14:33: closing long, total profit: 120.96746980928943
-14:14:33: opening short
-14:14:33: closing short, total profit: 123.65779173683167
-14:14:33: opening long
-14:14:33: closing long, total profit: 126.46693621617369
-14:14:33: opening short
-14:14:33: closing short, total profit: 128.71987008860606
-14:14:33: opening long
-14:14:33: closing long, total profit: 130.97730982878326
-14:14:33: opening short
-14:14:33: closing short, total profit: 135.61431679908128
-14:14:33: opening long
-14:14:33: closing long, total profit: 138.56691402275882
-14:14:33: opening short
-14:14:33: closing short, total profit: 140.84404785080434
-14:14:33: opening short
-14:14:33: closing short, total profit: 147.2327745187689
-14:14:33: opening long
-14:14:33: closing long, total profit: 150.21557973251763
-14:14:33: opening short
-14:14:33: closing short, total profit: 155.04648516739417
-14:14:33: opening long
-14:14:33: closing long, total profit: 157.70309208327913
-14:14:33: opening short
-14:14:33: closing short, total profit: 160.25003888586232
-14:14:33: opening long
-14:14:33: closing long, total profit: 162.45451395974547
-14:14:33: opening short
-14:14:33: closing short, total profit: 165.0119138904569
-14:14:33: opening long
-14:14:33: closing long, total profit: 167.80794248379394
-14:14:33: opening long
-14:14:33: closing long, total profit: 170.02677757451318
-14:14:33: opening short
-14:14:33: closing short, total profit: 172.71783916293452
-14:14:33: opening long
-14:14:33: closing long, total profit: 175.29781840909297
-14:14:33: opening short
-14:14:33: closing short, total profit: 177.64841404591115
-14:14:33: opening long
-14:14:33: closing long, total profit: 179.76818119119383
-14:14:33: opening short
-14:14:33: closing short, total profit: 182.00974073545711
-14:14:33: opening long
-14:14:33: closing long, total profit: 184.49196119100156
-14:14:33: opening short
-14:14:33: closing short, total profit: 186.74249591726448
-14:14:33: opening long
-14:14:33: closing long, total profit: 189.47200365787415
-14:14:33: opening short
-14:14:33: closing short, total profit: 193.51620847031074
-14:14:33: opening short
-14:14:33: closing short, total profit: 195.66453764555735
-14:14:33: opening long
-14:14:33: closing long, total profit: 197.8167338133194
-14:14:33: opening short
-14:14:33: closing short, total profit: 200.33214895432735
-14:14:33: opening short
-14:14:33: closing short, total profit: 202.49274682244518
-14:14:33: opening long
-14:14:33: closing long, total profit: 205.378729414819
-14:14:33: opening short
-14:14:33: closing short, total profit: 207.78948687364863
-14:14:33: opening short
-14:14:33: closing short, total profit: 233.15306609799515
-14:14:33: opening long
-14:14:33: closing long, total profit: 249.06074065065917
-14:14:33: opening short
-14:14:33: closing short, total profit: 253.30754716887122
-14:14:33: opening long
-14:14:33: closing long, total profit: 258.19544660282986
-14:14:33: opening short
-14:14:33: closing short, total profit: 263.605687023222
-14:14:33: opening long
-14:14:33: closing long, total profit: 266.76470124078025
-14:14:33: opening short
-14:14:33: closing short, total profit: 270.18496593413056
-14:14:33: opening long
-14:14:33: closing long, total profit: 272.59831736940544
-14:14:33: opening short
-14:14:46: opening long
-14:14:46: closing long, total profit: 6.000000000000007
-14:14:46: opening short
-14:14:46: closing short, total profit: 11.734200000000047
-14:14:46: opening long
-14:14:46: closing long, total profit: 16.489350739999974
-14:14:46: opening short
-14:14:46: closing short, total profit: 33.15977609213594
-14:14:46: opening long
-14:14:46: closing long, total profit: 55.37271127811694
-14:14:46: opening short
-14:14:46: closing short, total profit: 62.65478298593608
-14:14:46: opening long
-14:14:46: closing long, total profit: 67.86179142256731
-14:14:46: opening short
-14:14:46: closing short, total profit: 75.23003778338317
-14:14:46: opening long
-14:14:46: closing long, total profit: 92.11114937658209
-14:14:46: opening short
-14:14:46: closing short, total profit: 103.14147198528556
-14:14:46: opening long
-14:14:46: closing long, total profit: 107.99529446202102
-14:14:46: opening short
-14:14:46: closing short, total profit: 116.08366011159363
-14:14:46: opening long
-14:14:46: closing long, total profit: 120.77121148406255
-14:14:46: opening short
-14:14:46: closing short, total profit: 125.47845057229559
-14:14:46: opening long
-14:14:46: closing long, total profit: 130.3180079097567
-14:14:46: opening short
-14:14:46: closing short, total profit: 136.7608205548421
-14:14:46: opening long
-14:14:46: closing long, total profit: 141.64889208322813
-14:14:46: opening short
-14:14:46: closing short, total profit: 149.18377477097764
-14:14:46: opening short
-14:14:46: closing short, total profit: 155.38936715474074
-14:14:46: opening long
-14:14:46: closing long, total profit: 160.12646356007542
-14:14:46: opening short
-14:14:46: closing short, total profit: 166.5071591096559
-14:14:46: opening long
-14:14:46: closing long, total profit: 171.9897427574712
-14:14:46: opening short
-14:14:46: closing short, total profit: 177.02929865132853
-14:14:46: opening long
-14:14:46: closing long, total profit: 182.09052463552948
-14:14:46: opening short
-14:14:46: closing short, total profit: 186.9370957865354
-14:14:46: opening long
-14:14:46: closing long, total profit: 191.80353787926043
-14:14:46: opening short
-14:14:46: closing short, total profit: 201.81468759744618
-14:14:46: opening long
-14:14:46: closing long, total profit: 218.39973028629072
-14:14:46: opening short
-14:14:46: closing short, total profit: 225.222768775894
-14:14:46: opening long
-14:14:46: closing long, total profit: 232.08401628103906
-14:14:46: opening short
-14:14:46: closing short, total profit: 240.83181279663455
-14:14:46: opening long
-14:14:46: closing long, total profit: 245.91922322910102
-14:14:46: opening short
-14:15:00: opening long
-14:15:00: closing long, total profit: 5.800000000000029
-14:15:00: opening short
-14:15:00: closing short, total profit: 9.521460000000069
-14:15:00: opening long
-14:15:00: closing long, total profit: 13.66049798599984
-14:15:00: opening short
-14:15:00: closing short, total profit: 30.284530152970206
-14:15:00: opening long
-14:15:00: closing long, total profit: 52.43564755125914
-14:15:00: opening short
-14:15:00: closing short, total profit: 58.855505001321816
-14:15:00: opening long
-14:15:00: closing long, total profit: 63.090927021327346
-14:15:00: opening short
-14:15:00: closing short, total profit: 66.70543617319993
-14:15:00: opening long
-14:15:00: closing long, total profit: 71.61228117959658
-14:15:00: opening short
-14:15:00: closing short, total profit: 75.25576293560705
-14:15:00: opening long
-14:15:00: closing long, total profit: 79.1266836821753
-14:15:00: opening short
-14:15:00: closing short, total profit: 86.35683246284603
-14:15:00: opening long
-14:15:00: closing long, total profit: 102.97809199952744
-14:15:00: opening short
-14:15:00: closing short, total profit: 113.7872773011226
-14:15:00: opening long
-14:15:00: closing long, total profit: 118.24242641032734
-14:15:00: opening short
-14:15:00: closing short, total profit: 125.39917793935365
-14:15:00: opening long
-14:15:00: closing long, total profit: 129.67569481552349
-14:15:00: opening short
-14:15:00: closing short, total profit: 133.96846245582225
-14:15:00: opening long
-14:15:00: closing long, total profit: 138.61773315189137
-14:15:00: opening short
-14:15:00: closing short, total profit: 143.28606585781387
-14:15:00: opening short
-14:15:00: closing short, total profit: 148.77383897393153
-14:15:00: opening long
-14:15:00: closing long, total profit: 152.44991525864822
-14:15:00: opening short
-14:15:00: closing short, total profit: 159.71034972477767
-14:15:00: opening long
-14:15:00: closing long, total profit: 163.653364913842
-14:15:00: opening short
-14:15:00: closing short, total profit: 169.93709308437658
-14:15:00: opening long
-14:15:00: closing long, total profit: 174.6168414567141
-14:15:00: opening short
-14:15:00: closing short, total profit: 178.610538717667
-14:15:00: opening long
-14:15:00: closing long, total profit: 182.61781454930716
-14:15:00: opening short
-14:15:00: closing short, total profit: 186.87523868168446
-14:15:00: opening long
-14:15:00: closing long, total profit: 190.79192696933413
-14:15:00: opening short
-14:15:00: closing short, total profit: 194.6024611356361
-14:15:00: opening long
-14:15:00: closing long, total profit: 199.8587119646326
-14:15:00: opening short
-14:15:00: closing short, total profit: 205.4980479108663
-14:15:00: opening long
-14:15:00: closing long, total profit: 209.9583906881368
-14:15:00: opening short
-14:15:00: closing short, total profit: 214.43523673368296
-14:15:00: opening long
-14:15:00: closing long, total profit: 218.44287301490422
-14:15:00: opening short
-14:15:00: closing short, total profit: 224.90062024188305
-14:15:00: opening long
-14:15:00: closing long, total profit: 241.8042488012208
-14:15:00: opening short
-14:15:00: closing short, total profit: 248.7583525945077
-14:15:00: opening long
-14:15:00: closing long, total profit: 255.75139936903702
-14:15:00: opening short
-14:15:00: closing short, total profit: 263.9137834649357
-14:15:00: opening short
-14:15:00: closing short, total profit: 268.0846989503701
-14:15:00: opening long
-14:15:00: closing long, total profit: 272.9034208063816
-14:15:00: opening short
-14:17:32: opening long
-14:17:32: closing long, total profit: 7.599999999999831
-14:17:32: opening short
-14:17:32: closing short, total profit: 13.847119999999816
-14:17:32: opening long
-14:17:32: closing long, total profit: 26.013285439999827
-14:17:32: opening short
-14:17:32: closing short, total profit: 47.96996974841591
-14:17:32: opening long
-14:17:32: closing long, total profit: 72.70206103447859
-14:17:32: opening short
-14:17:32: closing short, total profit: 79.78189463730608
-14:17:32: opening long
-14:17:32: closing long, total profit: 87.77228065762223
-14:17:32: opening short
-14:17:32: closing short, total profit: 96.80079058708047
-14:17:32: opening long
-14:17:32: closing long, total profit: 115.00768371082594
-14:17:32: opening short
-14:17:32: closing short, total profit: 127.27276823164492
-14:17:32: opening long
-14:17:32: closing long, total profit: 134.0364048410348
-14:17:32: opening short
-14:17:32: closing short, total profit: 142.8818887987949
-14:17:32: opening long
-14:17:32: closing long, total profit: 150.88206202038634
-14:17:32: opening short
-14:17:32: closing short, total profit: 157.78735439250866
-14:17:32: opening long
-14:17:32: closing long, total profit: 165.42875093149914
-14:17:32: opening short
-14:17:32: closing short, total profit: 172.6544091872744
-14:17:32: opening long
-14:17:32: closing long, total profit: 180.0421319651542
-14:17:32: opening short
-14:17:32: closing short, total profit: 189.71847744726844
-14:17:32: opening long
-14:17:32: closing long, total profit: 197.68959124616507
-14:17:32: opening short
-14:17:32: closing short, total profit: 205.71411150751427
-14:17:32: opening long
-14:17:32: closing long, total profit: 215.23925298842366
-14:17:32: opening short
-14:17:32: closing short, total profit: 222.8952602822507
-14:17:32: opening long
-14:17:32: closing long, total profit: 230.3549213699724
-14:17:32: opening short
-14:17:32: closing short, total profit: 237.73705089819225
-14:17:32: opening long
-14:17:32: closing long, total profit: 247.3913998951982
-14:17:32: opening short
-14:17:32: closing short, total profit: 256.74683539441224
-14:17:32: opening long
-14:17:32: closing long, total profit: 275.0953391911706
-14:17:32: opening long
-14:17:32: closing long, total profit: 284.40353516726594
-14:17:32: opening short
-14:17:32: closing short, total profit: 294.5503230950874
-14:17:32: opening long
-14:17:32: closing long, total profit: 302.8354451628959
-14:17:32: opening short
-14:19:07: opening long
-14:19:08: closing long, total profit: 4.399999999999739
-14:19:08: opening short
-14:19:08: closing short, total profit: 5.504839999999842
-14:19:08: opening short
-14:19:08: closing short, total profit: 6.610895323999944
-14:19:08: opening long
-14:19:08: closing long, total profit: 7.315522950726669
-14:19:08: opening short
-14:19:08: closing short, total profit: 8.222106921382224
-14:19:08: opening long
-14:19:08: closing long, total profit: 11.04512882076201
-14:19:08: opening short
-14:19:08: closing short, total profit: 21.661102673379965
-14:19:08: opening long
-14:19:08: closing long, total profit: 29.732225384499685
-14:19:08: opening long
-14:19:08: closing long, total profit: 34.57196684380699
-14:19:08: opening short
-14:19:08: closing short, total profit: 39.74482667802614
-14:19:08: opening long
-14:19:08: closing long, total profit: 40.57662253936871
-14:19:08: opening short
-14:19:08: closing short, total profit: 42.34560279768544
-14:19:08: opening long
-14:19:08: closing long, total profit: 44.742997684120084
-14:19:08: opening short
-14:19:08: closing short, total profit: 48.399598176014564
-14:19:08: opening long
-14:19:08: closing long, total profit: 49.55283773400805
-14:19:08: opening short
-14:19:08: closing short, total profit: 51.23212227438251
-14:19:08: opening short
-14:19:08: closing short, total profit: 52.49360082111187
-14:19:08: opening long
-14:19:08: closing long, total profit: 55.01958546308249
-14:19:08: opening long
-14:19:08: closing long, total profit: 56.39111092418459
-14:19:08: opening short
-14:19:08: closing short, total profit: 57.447502035108656
-14:19:08: opening long
-14:19:08: closing long, total profit: 58.92792853795788
-14:19:08: opening short
-14:19:08: closing short, total profit: 64.64613935206293
-14:19:08: opening long
-14:19:08: closing long, total profit: 80.0835083726678
-14:19:08: opening short
-14:19:08: closing short, total profit: 82.45969209108765
-14:19:08: opening long
-14:19:08: closing long, total profit: 83.86688969080615
-14:19:08: opening short
-14:19:08: closing short, total profit: 84.62559651358963
-14:19:08: opening long
-14:19:08: closing long, total profit: 85.7102221101031
-14:19:08: opening short
-14:19:08: closing short, total profit: 86.79593233221333
-14:19:08: opening long
-14:19:08: closing long, total profit: 87.99140785777863
-14:19:08: opening short
-14:19:08: closing short, total profit: 89.29699754720806
-14:19:08: opening short
-14:19:08: closing short, total profit: 95.07027163420835
-14:19:08: opening long
-14:19:08: closing long, total profit: 99.01252461209155
-14:19:08: opening short
-14:19:08: closing short, total profit: 105.27689600238052
-14:19:08: opening long
-14:19:08: closing long, total profit: 109.4769482071896
-14:19:08: opening short
-14:19:08: closing short, total profit: 110.25358207093454
-14:19:08: opening long
-14:19:08: closing long, total profit: 111.58588636941977
-14:19:08: opening short
-14:19:08: closing short, total profit: 112.36399648987828
-14:19:08: opening long
-14:19:08: closing long, total profit: 113.81006968531521
-14:19:08: opening short
-14:19:08: closing short, total profit: 115.59216579681177
-14:19:08: opening short
-14:19:08: closing short, total profit: 119.6082975936801
-14:19:08: opening long
-14:19:08: closing long, total profit: 121.84751418886722
-14:19:08: opening long
-14:19:08: closing long, total profit: 123.19373120589397
-14:19:08: opening short
-14:19:08: closing short, total profit: 124.31692493709974
-14:19:08: opening long
-14:19:08: closing long, total profit: 125.89096863201176
-14:19:08: opening short
-14:19:08: closing short, total profit: 127.91757237554941
-14:19:08: opening long
-14:19:08: closing long, total profit: 129.72224049135033
-14:19:08: opening short
-14:19:08: closing short, total profit: 131.8687127482839
-14:19:08: opening short
-14:19:08: closing short, total profit: 137.64124318330028
-14:19:08: opening long
-14:19:08: closing long, total profit: 139.91652566966664
-14:19:08: opening short
-14:19:08: closing short, total profit: 140.82845889020228
-14:19:08: opening short
-14:19:08: closing short, total profit: 141.62703881142534
-14:19:08: opening long
-14:19:08: closing long, total profit: 142.42617773859325
-14:19:08: opening short
-14:19:08: closing short, total profit: 143.79708915187942
-14:19:08: opening long
-14:19:08: closing long, total profit: 144.71212682320083
-14:19:08: opening short
-14:19:08: closing short, total profit: 146.0857813753888
-14:19:08: opening long
-14:19:08: closing long, total profit: 147.69030146931416
-14:19:08: opening short
-14:19:08: closing short, total profit: 148.4936846803426
-14:19:08: opening short
-14:19:08: closing short, total profit: 150.56097331276723
-14:19:08: opening long
-14:19:08: closing long, total profit: 153.32231964871784
-14:19:08: opening long
-14:19:08: closing long, total profit: 155.2829675921207
-14:19:08: opening short
-14:19:08: closing short, total profit: 156.09166566943512
-14:19:08: opening long
-14:19:08: closing long, total profit: 157.13214816853775
-14:19:08: opening short
-14:19:08: closing short, total profit: 158.5207067463401
-14:19:08: opening long
-14:19:08: closing long, total profit: 159.44752331173706
-14:19:08: opening short
-14:19:08: closing short, total profit: 160.25913657805518
-14:19:08: opening short
-14:19:08: closing short, total profit: 161.07131797365972
-14:19:08: opening short
-14:19:08: closing short, total profit: 162.0001750280388
-14:19:08: opening long
-14:19:08: closing long, total profit: 162.92977516806113
-14:19:08: opening short
-14:19:08: closing short, total profit: 164.20899792074584
-14:19:08: opening long
-14:19:08: closing long, total profit: 165.2567860188744
-14:19:08: opening short
-14:19:08: closing short, total profit: 166.07246576908753
-14:19:08: opening long
-14:19:08: closing long, total profit: 168.05478896089502
-14:19:08: opening short
-14:19:08: closing short, total profit: 171.55895332777757
-14:19:08: opening long
-14:19:08: closing long, total profit: 172.7305122811055
-14:19:08: opening short
-14:19:08: closing short, total profit: 173.66869669093026
-14:19:08: opening long
-14:19:08: closing long, total profit: 175.19446599662857
-14:19:08: opening short
-14:19:08: closing short, total profit: 176.60469935582464
-14:19:08: opening short
-14:19:08: closing short, total profit: 177.4283226453736
-14:19:08: opening long
-14:19:08: closing long, total profit: 178.2525224712253
-14:19:08: opening short
-14:19:08: closing short, total profit: 179.07729923695507
-14:19:08: opening long
-14:19:08: closing long, total profit: 180.0205610763448
-14:19:08: opening short
-14:19:08: closing short, total profit: 180.84657546909816
-14:19:08: opening long
-14:19:08: closing long, total profit: 181.67316807192643
-14:19:08: opening long
-14:19:08: closing long, total profit: 182.5003392895767
-14:19:08: opening short
-14:19:08: closing short, total profit: 183.56458959493744
-14:19:08: opening short
-14:19:08: closing short, total profit: 184.39308480765382
-14:19:08: opening long
-14:19:08: closing long, total profit: 185.34059927549984
-14:19:08: opening short
-14:19:08: closing short, total profit: 186.28887175492014
-14:19:08: opening short
-14:19:08: closing short, total profit: 187.23790285232423
-14:19:08: opening long
-14:19:08: closing long, total profit: 188.30641696489147
-14:19:08: opening short
-14:19:08: closing short, total profit: 189.37589274016003
-14:19:08: opening long
-14:19:08: closing long, total profit: 190.32739345435206
-14:19:08: opening short
-14:19:08: closing short, total profit: 191.99385180518797
-14:19:08: opening short
-14:19:08: closing short, total profit: 217.0257226930968
-14:19:08: opening long
-14:19:08: closing long, total profit: 232.72535451583767
-14:19:08: opening short
-14:19:08: closing short, total profit: 236.91662072119132
-14:19:08: opening long
-14:19:08: closing long, total profit: 241.740595542004
-14:19:08: opening short
-14:19:08: closing short, total profit: 246.21086168595528
-14:19:08: opening long
-14:19:08: closing long, total profit: 248.82790449549606
-14:19:08: opening short
-14:19:08: closing short, total profit: 251.5753258853864
-14:19:08: opening long
-14:19:08: closing long, total profit: 253.57784640680308
-14:19:08: opening short
-14:19:21: opening long
-14:19:21: closing long, total profit: 4.399999999999739
-14:19:21: opening short
-14:19:21: closing short, total profit: 4.902199999999908
-14:19:21: opening long
-14:19:21: closing long, total profit: 5.203670659999877
-14:19:21: opening short
-14:19:21: closing short, total profit: 6.0078335965280125
-14:19:21: opening short
-14:19:21: closing short, total profit: 6.611438296685865
-14:19:21: opening long
-14:19:21: closing long, total profit: 7.316066303493469
-14:19:21: opening short
-14:19:21: closing short, total profit: 7.718992730015048
-14:19:21: opening long
-14:19:21: closing long, total profit: 10.742149708204986
-14:19:21: opening short
-14:19:21: closing short, total profit: 21.354942280141096
-14:19:21: opening long
-14:19:21: closing long, total profit: 29.42364632415423
-14:19:21: opening long
-14:19:21: closing long, total profit: 34.26193746187791
-14:19:21: opening short
-14:19:21: closing short, total profit: 39.01954237420272
-14:19:21: opening long
-14:19:21: closing long, total profit: 39.43515019115236
-14:19:21: opening short
-14:19:21: closing short, total profit: 40.99430291643892
-14:19:21: opening long
-14:19:21: closing long, total profit: 43.388589813146694
-14:19:21: opening short
-14:19:21: closing short, total profit: 44.327639543978655
-14:19:21: opening long
-14:19:21: closing long, total profit: 45.47639994747691
-14:19:21: opening short
-14:19:21: closing short, total profit: 47.14916218739292
-14:19:21: opening long
-14:19:21: closing long, total profit: 48.19631134958043
-14:19:21: opening short
-14:19:21: closing short, total profit: 50.187884341144645
-14:19:21: opening long
-14:19:21: closing long, total profit: 52.07822253295873
-14:19:21: opening long
-14:19:21: closing long, total profit: 53.235508577745094
-14:19:21: opening short
-14:19:21: closing short, total profit: 53.97277343374967
-14:19:21: opening long
-14:19:21: closing long, total profit: 54.815951652496814
-14:19:21: opening short
-14:19:21: closing short, total profit: 60.51195779142037
-14:19:21: opening long
-14:19:21: closing long, total profit: 75.25307400472114
-14:19:21: opening long
-14:19:21: closing long, total profit: 76.86595361572829
-14:19:21: opening short
-14:19:21: closing short, total profit: 79.23505871368288
-14:19:21: opening long
-14:19:21: closing long, total profit: 80.42221727826804
-14:19:21: opening long
-14:19:21: closing long, total profit: 80.9624283869071
-14:19:21: opening short
-14:19:21: closing short, total profit: 81.61100584393942
-14:19:21: opening long
-14:19:21: closing long, total profit: 82.04365024627695
-14:19:21: opening short
-14:19:21: closing short, total profit: 82.80108080144926
-14:19:21: opening long
-14:19:21: closing long, total profit: 83.88388188225083
-14:19:21: opening short
-14:19:21: closing short, total profit: 84.96776576413296
-14:19:21: opening short
-14:19:21: closing short, total profit: 90.39260459295352
-14:19:21: opening long
-14:19:21: closing long, total profit: 94.31801796948821
-14:19:21: opening short
-14:19:21: closing short, total profit: 100.55563067191434
-14:19:21: opening long
-14:19:21: closing long, total profit: 104.73774206846765
-14:19:21: opening short
-14:19:21: closing short, total profit: 105.06916339108815
-14:19:21: opening long
-14:19:21: closing long, total profit: 105.62169797278364
-14:19:21: opening short
-14:19:21: closing short, total profit: 106.61675750095928
-14:19:21: opening long
-14:19:21: closing long, total profit: 107.05940420395986
-14:19:21: opening short
-14:19:21: closing short, total profit: 107.5022279656414
-14:19:21: opening short
-14:19:21: closing short, total profit: 109.05273108479336
-14:19:21: opening short
-14:19:21: closing short, total profit: 112.93441564359021
-14:19:21: opening long
-14:19:21: closing long, total profit: 115.16028447487714
-14:19:21: opening short
-14:19:21: closing short, total profit: 116.0524127024572
-14:19:21: opening long
-14:19:21: closing long, total profit: 116.7220441500786
-14:19:21: opening short
-14:19:21: closing short, total profit: 117.72709398981381
-14:19:21: opening long
-14:19:21: closing long, total profit: 118.62127566500557
-14:19:21: opening short
-14:19:21: closing short, total profit: 120.6347939612026
-14:19:21: opening long
-14:19:21: closing long, total profit: 121.86749223455979
-14:19:21: opening short
-14:19:21: closing short, total profit: 123.10154647601767
-14:19:21: opening short
-14:19:21: closing short, total profit: 128.6047440537503
-14:19:21: opening long
-14:19:21: closing long, total profit: 130.86195354185756
-14:19:21: opening short
-14:19:21: closing short, total profit: 131.76664310469096
-14:19:21: opening short
-14:19:21: closing short, total profit: 132.44570309055396
-14:19:21: opening long
-14:19:21: closing long, total profit: 133.23841508271727
-14:19:21: opening short
-14:19:21: closing short, total profit: 133.80503429025856
-14:19:21: opening short
-14:19:21: closing short, total profit: 134.9388393245487
-14:19:21: opening long
-14:19:21: closing long, total profit: 135.73329651207604
-14:19:21: opening short
-14:19:21: closing short, total profit: 136.4147364899832
-14:19:21: opening long
-14:19:21: closing long, total profit: 137.32386827917534
-14:19:21: opening short
-14:19:21: closing short, total profit: 138.00626260014303
-14:19:21: opening short
-14:19:21: closing short, total profit: 139.8270726203033
-14:19:21: opening long
-14:19:21: closing long, total profit: 142.562657594592
-14:19:21: opening short
-14:19:21: closing short, total profit: 143.01968265763003
-14:19:21: opening long
-14:19:21: closing long, total profit: 143.93409840375628
-14:19:21: opening short
-14:19:21: closing short, total profit: 144.5060654529581
-14:19:21: opening long
-14:19:21: closing long, total profit: 145.07831848568452
-14:19:21: opening short
-14:19:21: closing short, total profit: 145.536349813079
-14:19:21: opening long
-14:19:21: closing long, total profit: 145.99456435300445
-14:19:21: opening short
-14:19:21: closing short, total profit: 146.7967605480517
-14:19:21: opening long
-14:19:21: closing long, total profit: 147.25547925227087
-14:19:21: opening short
-14:19:21: closing short, total profit: 147.82910699189694
-14:19:21: opening long
-14:19:21: closing long, total profit: 148.28823863469364
-14:19:21: opening short
-14:19:21: closing short, total profit: 148.86238275401092
-14:19:21: opening short
-14:19:21: closing short, total profit: 149.43681394538785
-14:19:21: opening long
-14:19:21: closing long, total profit: 150.2414197151498
-14:19:21: opening short
-14:19:21: closing short, total profit: 150.8165404250073
-14:19:21: opening long
-14:19:21: closing long, total profit: 151.8522753113897
-14:19:21: opening short
-14:19:21: closing short, total profit: 152.31301622151446
-14:19:21: opening long
-14:19:21: closing long, total profit: 152.65871012638087
-14:19:21: opening short
-14:19:21: closing short, total profit: 154.848761675621
-14:19:21: opening long
-14:19:21: closing long, total profit: 156.00361043729677
-14:19:21: opening short
-14:19:21: closing short, total profit: 156.58161224251535
-14:19:21: opening long
-14:19:21: closing long, total profit: 156.92858672618806
-14:19:21: opening short
-14:19:21: closing short, total profit: 157.73843673689655
-14:19:21: opening long
-14:19:21: closing long, total profit: 158.20153211159126
-14:19:21: opening short
-14:19:21: closing short, total profit: 158.6648127244361
-14:19:21: opening long
-14:19:21: closing long, total profit: 159.0124121682534
-14:19:21: opening short
-14:19:21: closing short, total profit: 159.36011589190383
-14:19:21: opening long
-14:19:21: closing long, total profit: 159.82385993826054
-14:19:21: opening short
-14:19:21: closing short, total profit: 160.40377186822985
-14:19:21: opening long
-14:19:21: closing long, total profit: 161.21605450853752
-14:19:21: opening short
-14:19:21: closing short, total profit: 161.56441932489005
-14:19:21: opening long
-14:19:21: closing long, total profit: 161.91288865068748
-14:19:21: opening short
-14:19:21: closing short, total profit: 162.26146251728264
-14:19:21: opening long
-14:19:21: closing long, total profit: 162.95881939479293
-14:19:21: opening short
-14:19:21: closing short, total profit: 163.30770704061132
-14:19:21: opening short
-14:19:21: closing short, total profit: 163.7730301234275
-14:19:21: opening long
-14:19:21: closing long, total profit: 164.5876712445138
-14:19:21: opening short
-14:19:21: closing short, total profit: 165.51934138150932
-14:19:21: opening long
-14:19:21: closing long, total profit: 165.98554911806187
-14:19:21: opening short
-14:19:21: closing short, total profit: 166.33534478279725
-14:19:21: opening long
-14:19:21: closing long, total profit: 167.15177952414538
-14:19:21: opening short
-14:19:21: closing short, total profit: 168.08550094776487
-14:19:21: opening long
-14:19:21: closing long, total profit: 168.55273514814394
-14:19:21: opening short
-14:19:21: closing short, total profit: 168.90330096868834
-14:19:21: opening long
-14:19:21: closing long, total profit: 189.35910873564046
-14:19:21: opening short
-14:19:21: closing short, total profit: 199.46866115989334
-14:19:21: opening long
-14:19:21: closing long, total profit: 214.94180688885587
-14:19:21: opening short
-14:19:21: closing short, total profit: 219.0726090322778
-14:19:21: opening long
-14:19:21: closing long, total profit: 223.8269922075037
-14:19:21: opening short
-14:19:21: closing short, total profit: 227.9880039810093
-14:19:21: opening long
-14:19:21: closing long, total profit: 228.60199798300002
-14:19:21: opening short
-14:19:21: closing short, total profit: 231.05920197896629
-14:19:21: opening long
-14:19:21: closing long, total profit: 232.413367101143
-14:19:21: opening short
-14:21:58: opening long
-14:21:58: closing long, total profit: 4.399999999999739
-14:21:58: opening short
-14:21:58: closing short, total profit: 4.902199999999908
-14:21:58: opening long
-14:21:58: closing long, total profit: 5.203670659999877
-14:21:58: opening short
-14:21:58: closing short, total profit: 6.0078335965280125
-14:21:58: opening short
-14:21:58: closing short, total profit: 6.611438296685865
-14:21:58: opening long
-14:21:58: closing long, total profit: 7.316066303493469
-14:21:58: opening short
-14:21:58: closing short, total profit: 7.718992730015048
-14:21:58: opening long
-14:21:58: closing long, total profit: 10.742149708204986
-14:21:58: opening short
-14:21:58: closing short, total profit: 21.354942280141096
-14:21:58: opening long
-14:21:58: closing long, total profit: 29.42364632415423
-14:21:58: opening long
-14:21:58: closing long, total profit: 34.26193746187791
-14:21:58: opening short
-14:21:58: closing short, total profit: 39.01954237420272
-14:21:58: opening long
-14:21:58: closing long, total profit: 39.227346282677544
-14:21:58: opening short
-14:21:58: closing short, total profit: 40.78618730210139
-14:21:58: opening long
-14:21:58: closing long, total profit: 42.555523820515
-14:21:58: opening short
-14:21:58: closing short, total profit: 43.91084600148175
-14:21:58: opening long
-14:21:58: closing long, total profit: 44.64158359368271
-14:21:58: opening long
-14:21:58: closing long, total profit: 45.477296860557566
-14:21:58: opening short
-14:21:58: closing short, total profit: 47.15006053553451
-14:21:58: opening long
-14:21:58: closing long, total profit: 48.197210596070164
-14:21:58: opening short
-14:21:58: closing short, total profit: 50.18878529620271
-14:21:58: opening long
-14:21:58: closing long, total profit: 52.0791251097359
-14:21:58: opening long
-14:21:58: closing long, total profit: 53.02599632233479
-14:21:58: opening short
-14:21:58: closing short, total profit: 53.552509320496135
-14:21:58: opening long
-14:21:58: closing long, total profit: 53.65786457142818
-14:21:58: opening short
-14:21:58: closing short, total profit: 59.55834861302823
-14:21:58: opening long
-14:21:58: closing long, total profit: 73.96834215416524
-14:21:58: opening long
-14:21:58: closing long, total profit: 74.61272315945791
-14:21:58: opening long
-14:21:58: closing long, total profit: 76.22464224419717
-14:21:58: opening short
-14:21:58: closing short, total profit: 78.59233645713438
-14:21:58: opening long
-14:21:58: closing long, total profit: 79.77878802723734
-14:21:58: opening long
-14:21:58: closing long, total profit: 80.3186774212509
-14:21:58: opening short
-14:21:58: closing short, total profit: 80.96686862770382
-14:21:58: opening long
-14:21:58: closing long, total profit: 81.39925537515485
-14:21:58: opening short
-14:21:58: closing short, total profit: 82.15623485391738
-14:21:58: opening long
-14:21:58: closing long, total profit: 83.23839108877142
-14:21:58: opening short
-14:21:58: closing short, total profit: 84.32162947986008
-14:21:58: opening short
-14:21:58: closing short, total profit: 89.74323762725926
-14:21:58: opening long
-14:21:58: closing long, total profit: 93.66631328271745
-14:21:58: opening short
-14:21:58: closing short, total profit: 99.90021126842899
-14:21:58: opening long
-14:21:58: closing long, total profit: 103.52988196561465
-14:21:58: opening short
-14:21:58: closing short, total profit: 104.1919998947942
-14:21:58: opening long
-14:21:58: closing long, total profit: 104.63367669475231
-14:21:58: opening long
-14:21:58: closing long, total profit: 104.9650667977607
-14:21:58: opening short
-14:21:58: closing short, total profit: 105.51754933115951
-14:21:58: opening long
-14:21:58: closing long, total profit: 105.62810108609263
-14:21:58: opening short
-14:21:58: closing short, total profit: 106.18091513663586
-14:21:58: opening short
-14:21:58: closing short, total profit: 107.72956841782722
-14:21:58: opening short
-14:21:58: closing short, total profit: 111.60662190728969
-14:21:58: opening long
-14:21:58: closing long, total profit: 113.82983515110404
-14:21:58: opening short
-14:21:58: closing short, total profit: 114.72089901922507
-14:21:58: opening long
-14:21:58: closing long, total profit: 115.16678737883271
-14:21:58: opening short
-14:21:58: closing short, total profit: 115.6128540937842
-14:21:58: opening long
-14:21:58: closing long, total profit: 116.39378309165001
-14:21:58: opening short
-14:21:58: closing short, total profit: 118.0683737662873
-14:21:58: opening long
-14:21:58: closing long, total profit: 119.07463530267684
-14:21:58: opening short
-14:21:58: closing short, total profit: 120.30561740150965
-14:21:58: opening short
-14:21:58: closing short, total profit: 125.79511492677719
-14:21:58: opening long
-14:21:58: closing long, total profit: 127.59638711065983
-14:21:58: opening short
-14:21:58: closing short, total profit: 128.49846422034827
-14:21:58: opening short
-14:21:58: closing short, total profit: 129.17556329888066
-14:21:58: opening long
-14:21:58: closing long, total profit: 129.5143159678703
-14:21:58: opening short
-14:21:58: closing short, total profit: 130.07907312585417
-14:21:58: opening short
-14:21:58: closing short, total profit: 131.2091521989799
-14:21:58: opening long
-14:21:58: closing long, total profit: 131.77475677507957
-14:21:58: opening short
-14:21:58: closing short, total profit: 132.3406441534673
-14:21:58: opening long
-14:21:58: closing long, total profit: 132.906814475544
-14:21:58: opening long
-14:21:58: closing long, total profit: 133.47326788278195
-14:21:58: opening short
-14:21:58: closing short, total profit: 134.1533518435118
-14:21:58: opening short
-14:21:58: closing short, total profit: 135.9679972064615
-14:21:58: opening long
-14:21:58: closing long, total profit: 138.69432039975695
-14:21:58: opening short
-14:21:58: closing short, total profit: 139.14979812791705
-14:21:58: opening long
-14:21:58: closing long, total profit: 140.06111796641954
-14:21:58: opening short
-14:21:59: closing short, total profit: 140.6311485254027
-14:21:59: opening long
-14:21:59: closing long, total profit: 140.9733378699603
-14:21:59: opening short
-14:21:59: closing short, total profit: 141.31562987132125
-14:21:59: opening long
-14:21:59: closing long, total profit: 141.42976143430838
-14:21:59: opening short
-14:21:59: closing short, total profit: 141.8863333388823
-14:21:59: opening long
-14:21:59: closing long, total profit: 142.11471060555007
-14:21:59: opening short
-14:21:59: closing short, total profit: 142.6857679608528
-14:21:59: opening long
-14:21:59: closing long, total profit: 142.91430511444494
-14:21:59: opening short
-14:21:59: closing short, total profit: 143.48576226700212
-14:21:59: opening short
-14:21:59: closing short, total profit: 144.05750514813556
-14:21:59: opening long
-14:21:59: closing long, total profit: 144.51512815019476
-14:21:59: opening short
-14:21:59: closing short, total profit: 144.97293420145505
-14:21:59: opening long
-14:21:59: closing long, total profit: 145.77441525539598
-14:21:59: opening short
-14:21:59: closing short, total profit: 146.11814757997257
-14:21:59: opening long
-14:21:59: closing long, total profit: 146.46198302424654
-14:21:59: opening short
-14:21:59: closing short, total profit: 148.64026079199263
-14:21:59: opening long
-14:21:59: closing long, total profit: 149.0997168963094
-14:21:59: opening short
-14:21:59: closing short, total profit: 149.90408669813698
-14:21:59: opening long
-14:21:59: closing long, total profit: 150.01907710680678
-14:21:59: opening short
-14:21:59: closing short, total profit: 150.36408282993878
-14:21:59: opening long
-14:21:59: closing long, total profit: 150.59415564650473
-14:21:59: opening short
-14:21:59: closing short, total profit: 150.93933389319864
-14:21:59: opening long
-14:21:59: closing long, total profit: 151.05442782658795
-14:21:59: opening short
-14:21:59: closing short, total profit: 151.3997441549359
-14:21:59: opening long
-14:21:59: closing long, total profit: 151.7451640781826
-14:21:59: opening short
-14:21:59: closing short, total profit: 152.20586214381382
-14:21:59: opening long
-14:21:59: closing long, total profit: 152.55152390245692
-14:21:59: opening long
-14:21:59: closing long, total profit: 152.66677905484715
-14:21:59: opening long
-14:21:59: closing long, total profit: 152.89731241065834
-14:21:59: opening short
-14:21:59: closing short, total profit: 153.4737610668636
-14:21:59: opening long
-14:21:59: closing long, total profit: 153.58910844297029
-14:21:59: opening short
-14:21:59: closing short, total profit: 153.93518517550314
-14:21:59: opening long
-14:21:59: closing long, total profit: 154.62754628660835
-14:21:59: opening short
-14:21:59: closing short, total profit: 154.9739345504943
-14:21:59: opening short
-14:21:59: closing short, total profit: 155.43592412431445
-14:21:59: opening long
-14:21:59: closing long, total profit: 155.8980984939644
-14:21:59: opening short
-14:21:59: closing short, total profit: 156.82281697275948
-14:21:59: opening long
-14:21:59: closing long, total profit: 157.054181536154
-14:21:59: opening short
-14:21:59: closing short, total profit: 157.40129779061482
-14:21:59: opening long
-14:21:59: closing long, total profit: 158.2114786990684
-14:21:59: opening short
-14:21:59: closing short, total profit: 159.13804788202782
-14:21:59: opening long
-14:21:59: closing long, total profit: 159.3698754916042
-14:21:59: opening short
-14:21:59: closing short, total profit: 159.71768645425166
-14:21:59: opening long
-14:21:59: closing long, total profit: 180.01274596720114
-14:21:59: opening short
-14:21:59: closing short, total profit: 190.0428543079223
-14:21:59: opening long
-14:21:59: closing long, total profit: 205.3944071284944
-14:21:59: opening short
-14:21:59: closing short, total profit: 209.4927481127311
-14:21:59: opening long
-14:21:59: closing long, total profit: 214.2097698303708
-14:21:59: opening short
-14:21:59: closing short, total profit: 218.33808304779413
-14:21:59: opening long
-14:21:59: closing long, total profit: 218.94725208931823
-14:21:59: opening short
-14:21:59: closing short, total profit: 221.38514659349713
-14:21:59: opening long
-14:21:59: closing long, total profit: 222.60653174009076
-14:21:59: opening short
-14:22:11: opening long
-14:22:11: closing long, total profit: 4.399999999999739
-14:22:11: opening short
-14:22:11: closing short, total profit: 5.203519999999875
-14:22:11: opening long
-14:22:11: closing long, total profit: 5.907162463999799
-14:22:11: opening short
-14:22:11: closing short, total profit: 6.711888193971135
-14:22:11: opening short
-14:22:11: closing short, total profit: 7.718600082165221
-14:22:11: opening long
-14:22:11: closing long, total profit: 9.230177982288303
-14:22:11: opening long
-14:22:11: closing long, total profit: 12.25786851623506
-14:22:11: opening short
-14:22:11: closing short, total profit: 22.88657613565548
-14:22:11: opening long
-14:22:11: closing long, total profit: 30.967380087127182
-14:22:11: opening long
-14:22:12: closing long, total profit: 35.81292677353684
-14:22:12: opening short
-14:22:12: closing short, total profit: 40.57766623669527
-14:22:12: opening long
-14:22:12: closing long, total profit: 41.097955069813565
-14:22:12: opening short
-14:22:12: closing short, total profit: 43.1801509799532
-14:22:12: opening long
-14:22:12: closing long, total profit: 44.953557236619154
-14:22:12: opening short
-14:22:12: closing short, total profit: 46.31199686102684
-14:22:12: opening long
-14:22:12: closing long, total profit: 47.04441525882948
-14:22:12: opening short
-14:22:12: closing short, total profit: 48.71968632324366
-14:22:12: opening short
-14:22:12: closing short, total profit: 49.97814994683164
-14:22:12: opening long
-14:22:12: closing long, total profit: 52.498097506704
-14:22:12: opening long
-14:22:12: closing long, total profit: 53.44534579446017
-14:22:12: opening short
-14:22:12: closing short, total profit: 54.60413567483418
-14:22:12: opening long
-14:22:12: closing long, total profit: 55.236898156239015
-14:22:12: opening short
-14:22:12: closing short, total profit: 61.14622478591401
-14:22:12: opening long
-14:22:12: closing long, total profit: 75.57781344300227
-14:22:12: opening long
-14:22:12: closing long, total profit: 78.15920019526567
-14:22:12: opening long
-14:22:12: closing long, total profit: 79.77643899555864
-14:22:12: opening short
-14:22:12: closing short, total profit: 82.15194716134884
-14:22:12: opening long
-14:22:12: closing long, total profit: 83.34231430322644
-14:22:12: opening long
-14:22:12: closing long, total profit: 84.20898815466893
-14:22:12: opening short
-14:22:12: closing short, total profit: 85.29319714282373
-14:22:12: opening long
-14:22:12: closing long, total profit: 86.37849033996667
-14:22:12: opening short
-14:22:12: closing short, total profit: 87.68214452837474
-14:22:12: opening short
-14:22:12: closing short, total profit: 93.66439632328087
-14:22:12: opening long
-14:22:12: closing long, total profit: 97.60158815004473
-14:22:12: opening short
-14:22:12: closing short, total profit: 103.85791720250003
-14:22:12: opening long
-14:22:12: closing long, total profit: 107.50064832926813
-14:22:12: opening short
-14:22:12: closing short, total profit: 108.3866488479317
-14:22:12: opening long
-14:22:12: closing long, total profit: 109.1625195021254
-14:22:12: opening long
-14:22:12: closing long, total profit: 110.60443077747802
-14:22:12: opening short
-14:22:12: closing short, total profit: 111.60397476517788
-14:22:12: opening long
-14:22:12: closing long, total profit: 112.38209754751342
-14:22:12: opening short
-14:22:12: closing short, total profit: 113.27200322555159
-14:22:12: opening short
-14:22:12: closing short, total profit: 114.83058403006744
-14:22:12: opening long
-14:22:12: closing long, total profit: 118.8439741325755
-14:22:12: opening long
-14:22:12: closing long, total profit: 119.40339611964173
-14:22:12: opening short
-14:22:12: closing short, total profit: 120.41085917614954
-14:22:12: opening long
-14:22:12: closing long, total profit: 121.19514677757302
-14:22:12: opening long
-14:22:12: closing long, total profit: 122.6527004683837
-14:22:12: opening short
-14:22:12: closing short, total profit: 124.44894478913317
-14:22:12: opening short
-14:22:12: closing short, total profit: 130.29607930203676
-14:22:12: opening long
-14:22:12: closing long, total profit: 132.1045530289198
-14:22:12: opening short
-14:22:12: closing short, total profit: 133.23665758194886
-14:22:12: opening short
-14:22:12: closing short, total profit: 134.93651256832186
-14:22:12: opening long
-14:22:12: closing long, total profit: 138.79529671105422
-14:22:12: opening short
-14:22:12: closing short, total profit: 139.8202124780943
-14:22:12: opening long
-14:22:12: closing long, total profit: 140.39012258433328
-14:22:12: opening long
-14:22:12: closing long, total profit: 141.3024346824009
-14:22:12: opening short
-14:22:12: closing short, total profit: 142.44373711708343
-14:22:12: opening short
-14:22:12: closing short, total profit: 144.7286245913176
-14:22:12: opening long
-14:22:12: closing long, total profit: 147.47597329033673
-14:22:12: opening long
-14:22:12: closing long, total profit: 149.42668244493035
-14:22:12: opening short
-14:22:12: closing short, total profit: 150.57610912737542
-14:22:12: opening long
-14:22:12: closing long, total profit: 152.18691568015356
-14:22:12: opening long
-14:22:12: closing long, total profit: 153.3391025958336
-14:22:12: opening short
-14:22:12: closing short, total profit: 154.14643996765085
-14:22:12: opening long
-14:22:12: closing long, total profit: 154.7235131876346
-14:22:12: opening short
-14:22:12: closing short, total profit: 155.7627643495036
-14:22:12: opening short
-14:22:12: closing short, total profit: 156.8029508374183
-14:22:12: opening short
-14:22:12: closing short, total profit: 157.84407349317212
-14:22:12: opening long
-14:22:12: closing long, total profit: 158.42299552991864
-14:22:12: opening short
-14:22:12: closing short, total profit: 159.23389162678976
-14:22:12: opening long
-14:22:12: closing long, total profit: 160.04535535092842
-14:22:12: opening short
-14:22:12: closing short, total profit: 161.32140524181455
-14:22:12: opening long
-14:22:12: closing long, total profit: 162.2504623660079
-14:22:12: opening short
-14:22:12: closing short, total profit: 164.45873824450334
-14:22:12: opening long
-14:22:12: closing long, total profit: 165.15741348744996
-14:22:12: opening short
-14:22:12: closing short, total profit: 165.97302367689133
-14:22:12: opening long
-14:22:12: closing long, total profit: 166.78920479346507
-14:22:12: opening short
-14:22:12: closing short, total profit: 167.60595723682067
-14:22:12: opening short
-14:22:12: closing short, total profit: 168.42328140688662
-14:22:12: opening long
-14:22:12: closing long, total profit: 169.00749304759
-14:22:12: opening short
-14:22:12: closing short, total profit: 169.94269904202824
-14:22:12: opening long
-14:22:12: closing long, total profit: 170.878653201262
-14:22:12: opening long
-14:22:12: closing long, total profit: 171.4640925278626
-14:22:12: opening long
-14:22:12: closing long, total profit: 172.04982457412646
-14:22:12: opening long
-14:22:12: closing long, total profit: 172.8702594513285
-14:22:12: opening long
-14:22:12: closing long, total profit: 173.4566945810541
-14:22:12: opening short
-14:22:12: closing short, total profit: 174.27811426726103
-14:22:12: opening short
-14:22:12: closing short, total profit: 175.68724800438184
-14:22:12: opening short
-14:22:12: closing short, total profit: 176.6277978027855
-14:22:12: opening long
-14:22:12: closing long, total profit: 177.33377448146734
-14:22:12: opening short
-14:22:12: closing short, total profit: 178.51110825594895
-14:22:12: opening short
-14:22:12: closing short, total profit: 179.33606603172828
-14:22:12: opening long
-14:22:12: closing long, total profit: 180.6333357043633
-14:22:12: opening short
-14:22:12: closing short, total profit: 181.57784237292697
-14:22:12: opening long
-14:22:12: closing long, total profit: 182.28678907835064
-14:22:12: opening short
-14:22:12: closing short, total profit: 183.11438983070565
-14:22:12: opening long
-14:22:12: closing long, total profit: 204.88369460359058
-14:22:12: opening short
-14:22:12: closing short, total profit: 215.12520600772106
-14:22:12: opening long
-14:22:12: closing long, total profit: 230.80032116522057
-14:22:12: opening short
-14:22:12: closing short, total profit: 234.98504225718213
-14:22:12: opening long
-14:22:12: closing long, total profit: 239.80148392198515
-14:22:12: opening short
-14:22:12: closing short, total profit: 244.01680896732
-14:22:12: opening long
-14:22:12: closing long, total profit: 245.01202241449403
-14:22:12: opening short
-14:22:12: closing short, total profit: 247.50204645932328
-14:22:12: opening long
-14:22:12: closing long, total profit: 248.74954850578274
-14:22:12: opening short
-14:22:25: opening long
-14:22:25: closing long, total profit: 4.399999999999739
-14:22:25: opening short
-14:22:25: closing short, total profit: 6.408799999999966
-14:22:25: opening short
-14:22:25: closing short, total profit: 7.515849680000069
-14:22:25: opening long
-14:22:25: closing long, total profit: 9.027123454519904
-14:22:25: opening long
-14:22:25: closing long, total profit: 12.558718386610561
-14:22:25: opening short
-14:22:25: closing short, total profit: 23.190584929669924
-14:22:25: opening long
-14:22:25: closing long, total profit: 31.273790550614336
-14:22:25: opening long
-14:22:25: closing long, total profit: 36.120777366202375
-14:22:25: opening short
-14:22:25: closing short, total profit: 40.88693294208707
-14:22:25: opening long
-14:22:25: closing long, total profit: 41.927819875029044
-14:22:25: opening short
-14:22:25: closing short, total profit: 44.32425386074158
-14:22:25: opening long
-14:22:25: closing long, total profit: 46.09960509230488
-14:22:25: opening short
-14:22:25: closing short, total profit: 49.76095371012801
-14:22:25: opening short
-14:22:25: closing short, total profit: 51.96545171291927
-14:22:25: opening short
-14:22:25: closing short, total profit: 53.96418607117383
-14:22:25: opening long
-14:22:25: closing long, total profit: 57.02068221078013
-14:22:25: opening long
-14:22:25: closing long, total profit: 58.1834049612121
-14:22:25: opening short
-14:22:25: closing short, total profit: 60.82886347361507
-14:22:25: opening long
-14:22:25: closing long, total profit: 62.42010676882532
-14:22:25: opening short
-14:22:25: closing short, total profit: 68.90086942011516
-14:22:25: opening long
-14:22:25: closing long, total profit: 83.43792124422855
-14:22:25: opening long
-14:22:25: closing long, total profit: 86.03817225521489
-14:22:25: opening long
-14:22:25: closing long, total profit: 88.10164478249982
-14:22:25: opening short
-14:22:25: closing short, total profit: 90.4954684010213
-14:22:25: opening long
-14:22:25: closing long, total profit: 99.43753124190965
-14:22:25: opening long
-14:22:25: closing long, total profit: 100.7568562793998
-14:22:25: opening short
-14:22:25: closing short, total profit: 102.62814293507482
-14:22:25: opening long
-14:22:25: closing long, total profit: 109.46443742127227
-14:22:25: opening short
-14:22:25: closing short, total profit: 115.78838471457357
-14:22:25: opening long
-14:22:25: closing long, total profit: 119.4704863841315
-14:22:25: opening short
-14:22:25: closing short, total profit: 121.03774506506937
-14:22:25: opening long
-14:22:25: closing long, total profit: 122.38299035914756
-14:22:25: opening long
-14:22:25: closing long, total profit: 123.84208824661428
-14:22:25: opening short
-14:22:25: closing short, total profit: 125.86500400545822
-14:22:25: opening long
-14:22:25: closing long, total profit: 126.99086900946355
-14:22:25: opening short
-14:22:25: closing short, total profit: 128.34325805227502
-14:22:25: opening short
-14:22:25: closing short, total profit: 130.37427591676914
-14:22:25: opening long
-14:22:25: closing long, total profit: 134.4436233100693
-14:22:25: opening long
-14:22:25: closing long, total profit: 135.69151129571026
-14:22:25: opening long
-14:22:25: closing long, total profit: 137.3950485626539
-14:22:25: opening long
-14:22:25: closing long, total profit: 138.8736621257852
-14:22:25: opening short
-14:22:25: closing short, total profit: 141.0375220838242
-14:22:25: opening short
-14:22:25: closing short, total profit: 147.42733220749366
-14:22:25: opening long
-14:22:25: closing long, total profit: 149.26321593902546
-14:22:25: opening short
-14:22:25: closing short, total profit: 151.33188972771572
-14:22:25: opening long
-14:22:25: closing long, total profit: 155.24641815279003
-14:22:25: opening short
-14:22:25: closing short, total profit: 156.74823849638875
-14:22:25: opening long
-14:22:25: closing long, total profit: 157.90498673488503
-14:22:25: opening long
-14:22:25: closing long, total profit: 160.3365872070283
-14:22:25: opening short
-14:22:25: closing short, total profit: 161.84502477039752
-14:22:25: opening short
-14:22:25: closing short, total profit: 164.63345282984642
-14:22:25: opening long
-14:22:25: closing long, total profit: 167.428573116638
-14:22:25: opening long
-14:22:25: closing long, total profit: 169.41320169093635
-14:22:25: opening short
-14:22:25: closing short, total profit: 170.93343885313465
-14:22:25: opening long
-14:22:25: closing long, total profit: 172.57274566752886
-14:22:25: opening long
-14:22:25: closing long, total profit: 173.74531841319626
-14:22:25: opening short
-14:22:25: closing short, total profit: 175.1538127952922
-14:22:25: opening long
-14:22:25: closing long, total profit: 176.5639973706464
-14:22:25: opening short
-14:22:25: closing short, total profit: 178.32884336670244
-14:22:25: opening short
-14:22:25: closing short, total profit: 179.86067086307926
-14:22:25: opening short
-14:22:25: closing short, total profit: 181.39448973520138
-14:22:25: opening short
-14:22:25: closing short, total profit: 182.81216312288373
-14:22:25: opening long
-14:22:25: closing long, total profit: 183.99497528600648
-14:22:25: opening short
-14:22:25: closing short, total profit: 185.29736975882122
-14:22:25: opening long
-14:22:25: closing long, total profit: 186.71972660253164
-14:22:25: opening short
-14:22:25: closing short, total profit: 188.97449408307645
-14:22:25: opening short
-14:22:25: closing short, total profit: 190.87685327360944
-14:22:25: opening short
-14:22:25: closing short, total profit: 192.18681781221053
-14:22:25: opening short
-14:22:25: closing short, total profit: 193.49822331180408
-14:22:25: opening long
-14:22:25: closing long, total profit: 195.2884706467716
-14:22:25: opening long
-14:22:25: closing long, total profit: 196.60328796448317
-14:22:25: opening long
-14:22:25: closing long, total profit: 197.79989125244754
-14:22:25: opening long
-14:22:25: closing long, total profit: 199.23725112195032
-14:22:25: opening long
-14:22:25: closing long, total profit: 200.67633582329677
-14:22:25: opening long
-14:22:25: closing long, total profit: 201.87701215911994
-14:22:25: opening short
-14:22:25: closing short, total profit: 203.319264573711
-14:22:25: opening long
-14:22:25: closing long, total profit: 204.6429157647422
-14:22:25: opening short
-14:22:25: closing short, total profit: 206.32941584681294
-14:22:25: opening short
-14:22:25: closing short, total profit: 207.89764408741388
-14:22:25: opening long
-14:22:25: closing long, total profit: 210.3134393755887
-14:22:25: opening short
-14:22:25: closing short, total profit: 211.76581550283953
-14:22:25: opening short
-14:22:25: closing short, total profit: 213.09875789989277
-14:22:25: opening long
-14:22:25: closing long, total profit: 235.41977504525076
-14:22:25: opening short
-14:22:25: closing short, total profit: 245.92084313313532
-14:22:25: opening long
-14:22:25: closing long, total profit: 261.99322200955265
-14:22:25: opening short
-14:22:25: closing short, total profit: 266.2839989643849
-14:22:25: opening long
-14:22:25: closing long, total profit: 271.22250656034606
-14:22:25: opening short
-14:22:25: closing short, total profit: 275.5446630826513
-14:22:25: opening long
-14:22:25: closing long, total profit: 277.20287114465884
-14:22:25: opening short
-14:22:25: closing short, total profit: 279.75727688694843
-14:22:25: opening long
-14:22:25: closing long, total profit: 281.1650098915242
-14:22:25: opening short
-14:23:46: opening long
-14:23:46: closing long, total profit: 4.399999999999739
-14:23:46: opening short
-14:23:46: closing short, total profit: 6.408799999999966
-14:23:46: opening short
-14:23:46: closing short, total profit: 7.515849680000069
-14:23:46: opening long
-14:23:46: closing long, total profit: 9.027123454519904
-14:23:46: opening long
-14:23:46: closing long, total profit: 12.558718386610561
-14:23:46: opening short
-14:23:46: closing short, total profit: 23.190584929669924
-14:23:46: opening long
-14:23:46: closing long, total profit: 31.273790550614336
-14:23:46: opening long
-14:23:46: closing long, total profit: 36.120777366202375
-14:23:46: opening short
-14:23:46: closing short, total profit: 40.88693294208707
-14:23:46: opening long
-14:23:46: closing long, total profit: 41.927819875029044
-14:23:46: opening short
-14:23:46: closing short, total profit: 44.32425386074158
-14:23:46: opening long
-14:23:46: closing long, total profit: 46.09960509230488
-14:23:46: opening short
-14:23:46: closing short, total profit: 49.76095371012801
-14:23:46: opening short
-14:23:46: closing short, total profit: 51.96545171291927
-14:23:46: opening short
-14:23:46: closing short, total profit: 53.96418607117383
-14:23:46: opening long
-14:23:46: closing long, total profit: 57.02068221078013
-14:23:46: opening long
-14:23:46: closing long, total profit: 58.1834049612121
-14:23:46: opening short
-14:23:46: closing short, total profit: 60.82886347361507
-14:23:46: opening long
-14:23:46: closing long, total profit: 62.42010676882532
-14:23:46: opening short
-14:23:46: closing short, total profit: 68.90086942011516
-14:23:46: opening long
-14:23:46: closing long, total profit: 83.43792124422855
-14:23:46: opening long
-14:23:46: closing long, total profit: 86.03817225521489
-14:23:46: opening long
-14:23:46: closing long, total profit: 88.10164478249982
-14:23:46: opening short
-14:23:46: closing short, total profit: 90.4954684010213
-14:23:46: opening long
-14:23:46: closing long, total profit: 99.43753124190965
-14:23:46: opening long
-14:23:46: closing long, total profit: 100.7568562793998
-14:23:46: opening short
-14:23:46: closing short, total profit: 102.62814293507482
-14:23:46: opening long
-14:23:46: closing long, total profit: 109.46443742127227
-14:23:46: opening short
-14:23:46: closing short, total profit: 115.78838471457357
-14:23:46: opening long
-14:23:46: closing long, total profit: 119.4704863841315
-14:23:46: opening short
-14:23:46: closing short, total profit: 121.03774506506937
-14:23:46: opening long
-14:23:46: closing long, total profit: 122.38299035914756
-14:23:46: opening long
-14:23:46: closing long, total profit: 123.84208824661428
-14:23:46: opening short
-14:23:46: closing short, total profit: 125.86500400545822
-14:23:46: opening long
-14:23:46: closing long, total profit: 126.99086900946355
-14:23:46: opening short
-14:23:46: closing short, total profit: 128.34325805227502
-14:23:46: opening short
-14:23:46: closing short, total profit: 130.37427591676914
-14:23:46: opening long
-14:23:46: closing long, total profit: 134.4436233100693
-14:23:46: opening long
-14:23:46: closing long, total profit: 135.69151129571026
-14:23:46: opening long
-14:23:46: closing long, total profit: 137.3950485626539
-14:23:46: opening long
-14:23:46: closing long, total profit: 138.8736621257852
-14:23:46: opening short
-14:23:46: closing short, total profit: 141.0375220838242
-14:23:46: opening short
-14:23:46: closing short, total profit: 147.42733220749366
-14:23:46: opening long
-14:23:46: closing long, total profit: 149.26321593902546
-14:23:46: opening short
-14:23:46: closing short, total profit: 151.33188972771572
-14:23:46: opening long
-14:23:46: closing long, total profit: 155.24641815279003
-14:23:46: opening short
-14:23:46: closing short, total profit: 156.74823849638875
-14:23:46: opening long
-14:23:46: closing long, total profit: 157.90498673488503
-14:23:46: opening long
-14:23:46: closing long, total profit: 160.3365872070283
-14:23:46: opening short
-14:23:46: closing short, total profit: 161.84502477039752
-14:23:46: opening short
-14:23:46: closing short, total profit: 164.63345282984642
-14:23:46: opening long
-14:23:46: closing long, total profit: 167.428573116638
-14:23:46: opening long
-14:23:46: closing long, total profit: 169.41320169093635
-14:23:46: opening short
-14:23:46: closing short, total profit: 170.93343885313465
-14:23:46: opening long
-14:23:46: closing long, total profit: 172.57274566752886
-14:23:46: opening long
-14:23:46: closing long, total profit: 173.74531841319626
-14:23:46: opening short
-14:23:46: closing short, total profit: 175.1538127952922
-14:23:46: opening long
-14:23:46: closing long, total profit: 176.5639973706464
-14:23:46: opening short
-14:23:46: closing short, total profit: 178.32884336670244
-14:23:46: opening short
-14:23:46: closing short, total profit: 179.86067086307926
-14:23:46: opening short
-14:23:46: closing short, total profit: 181.39448973520138
-14:23:46: opening short
-14:23:46: closing short, total profit: 182.81216312288373
-14:23:46: opening long
-14:23:46: closing long, total profit: 183.99497528600648
-14:23:46: opening short
-14:23:46: closing short, total profit: 185.29736975882122
-14:23:46: opening long
-14:23:46: closing long, total profit: 186.71972660253164
-14:23:46: opening short
-14:23:46: closing short, total profit: 188.97449408307645
-14:23:46: opening short
-14:23:46: closing short, total profit: 190.87685327360944
-14:23:46: opening short
-14:23:46: closing short, total profit: 192.18681781221053
-14:23:46: opening short
-14:23:46: closing short, total profit: 193.49822331180408
-14:23:46: opening long
-14:23:46: closing long, total profit: 195.2884706467716
-14:23:46: opening long
-14:23:46: closing long, total profit: 196.60328796448317
-14:23:46: opening long
-14:23:46: closing long, total profit: 197.79989125244754
-14:23:46: opening long
-14:23:46: closing long, total profit: 199.23725112195032
-14:23:46: opening long
-14:23:46: closing long, total profit: 200.67633582329677
-14:23:46: opening long
-14:23:46: closing long, total profit: 201.87701215911994
-14:23:46: opening short
-14:23:46: closing short, total profit: 203.319264573711
-14:23:46: opening long
-14:23:46: closing long, total profit: 204.6429157647422
-14:23:46: opening short
-14:23:46: closing short, total profit: 206.32941584681294
-14:23:46: opening short
-14:23:46: closing short, total profit: 207.89764408741388
-14:23:46: opening long
-14:23:46: closing long, total profit: 210.3134393755887
-14:23:46: opening short
-14:23:46: closing short, total profit: 211.76581550283953
-14:23:46: opening short
-14:23:46: closing short, total profit: 213.09875789989277
-14:23:46: opening long
-14:23:46: closing long, total profit: 235.41977504525076
-14:23:46: opening short
-14:23:46: closing short, total profit: 245.92084313313532
-14:23:46: opening long
-14:23:46: closing long, total profit: 261.99322200955265
-14:23:46: opening short
-14:23:46: closing short, total profit: 266.2839989643849
-14:23:46: opening long
-14:23:46: closing long, total profit: 271.22250656034606
-14:23:46: opening short
-14:23:46: closing short, total profit: 275.5446630826513
-14:23:46: opening long
-14:23:46: closing long, total profit: 277.20287114465884
-14:23:46: opening short
-14:23:46: closing short, total profit: 279.75727688694843
-14:23:46: opening long
-14:23:46: closing long, total profit: 281.1650098915242
-14:23:46: opening short
-14:24:03: opening long
-14:24:03: closing long, total profit: 4.399999999999739
-14:24:03: opening short
-14:24:03: closing short, total profit: 4.902199999999908
-14:24:03: opening long
-14:24:03: closing long, total profit: 5.203670659999877
-14:24:03: opening short
-14:24:03: closing short, total profit: 6.0078335965280125
-14:24:03: opening short
-14:24:03: closing short, total profit: 6.611438296685865
-14:24:03: opening long
-14:24:03: closing long, total profit: 7.316066303493469
-14:24:03: opening short
-14:24:03: closing short, total profit: 7.718992730015048
-14:24:03: opening long
-14:24:03: closing long, total profit: 10.742149708204986
-14:24:03: opening short
-14:24:03: closing short, total profit: 21.354942280141096
-14:24:03: opening long
-14:24:03: closing long, total profit: 29.42364632415423
-14:24:03: opening long
-14:24:03: closing long, total profit: 34.26193746187791
-14:24:03: opening short
-14:24:03: closing short, total profit: 39.01954237420272
-14:24:03: opening long
-14:24:03: closing long, total profit: 39.43515019115236
-14:24:03: opening short
-14:24:03: closing short, total profit: 40.99430291643892
-14:24:03: opening long
-14:24:03: closing long, total profit: 43.388589813146694
-14:24:03: opening short
-14:24:03: closing short, total profit: 44.327639543978655
-14:24:03: opening long
-14:24:03: closing long, total profit: 45.47639994747691
-14:24:03: opening short
-14:24:03: closing short, total profit: 47.14916218739292
-14:24:03: opening long
-14:24:03: closing long, total profit: 48.19631134958043
-14:24:03: opening short
-14:24:03: closing short, total profit: 50.187884341144645
-14:24:03: opening long
-14:24:03: closing long, total profit: 52.07822253295873
-14:24:03: opening long
-14:24:03: closing long, total profit: 53.235508577745094
-14:24:03: opening short
-14:24:03: closing short, total profit: 53.97277343374967
-14:24:03: opening long
-14:24:03: closing long, total profit: 54.815951652496814
-14:24:03: opening short
-14:24:03: closing short, total profit: 60.51195779142037
-14:24:03: opening long
-14:24:03: closing long, total profit: 75.25307400472114
-14:24:03: opening long
-14:24:03: closing long, total profit: 76.86595361572829
-14:24:03: opening short
-14:24:03: closing short, total profit: 79.23505871368288
-14:24:03: opening long
-14:24:03: closing long, total profit: 80.42221727826804
-14:24:03: opening long
-14:24:03: closing long, total profit: 80.9624283869071
-14:24:03: opening short
-14:24:03: closing short, total profit: 81.61100584393942
-14:24:03: opening long
-14:24:03: closing long, total profit: 82.04365024627695
-14:24:03: opening short
-14:24:03: closing short, total profit: 82.80108080144926
-14:24:03: opening long
-14:24:03: closing long, total profit: 83.88388188225083
-14:24:03: opening short
-14:24:03: closing short, total profit: 84.96776576413296
-14:24:03: opening short
-14:24:03: closing short, total profit: 90.39260459295352
-14:24:03: opening long
-14:24:03: closing long, total profit: 94.31801796948821
-14:24:03: opening short
-14:24:03: closing short, total profit: 100.55563067191434
-14:24:03: opening long
-14:24:03: closing long, total profit: 104.73774206846765
-14:24:03: opening short
-14:24:03: closing short, total profit: 105.06916339108815
-14:24:03: opening long
-14:24:03: closing long, total profit: 105.62169797278364
-14:24:03: opening short
-14:24:03: closing short, total profit: 106.61675750095928
-14:24:03: opening long
-14:24:03: closing long, total profit: 107.05940420395986
-14:24:03: opening short
-14:24:03: closing short, total profit: 107.5022279656414
-14:24:03: opening short
-14:24:03: closing short, total profit: 109.05273108479336
-14:24:03: opening short
-14:24:03: closing short, total profit: 112.93441564359021
-14:24:03: opening long
-14:24:03: closing long, total profit: 115.16028447487714
-14:24:03: opening short
-14:24:03: closing short, total profit: 116.0524127024572
-14:24:03: opening long
-14:24:03: closing long, total profit: 116.7220441500786
-14:24:03: opening short
-14:24:03: closing short, total profit: 117.72709398981381
-14:24:03: opening long
-14:24:03: closing long, total profit: 118.62127566500557
-14:24:03: opening short
-14:24:03: closing short, total profit: 120.6347939612026
-14:24:03: opening long
-14:24:03: closing long, total profit: 121.86749223455979
-14:24:03: opening short
-14:24:03: closing short, total profit: 123.10154647601767
-14:24:03: opening short
-14:24:03: closing short, total profit: 128.6047440537503
-14:24:03: opening long
-14:24:03: closing long, total profit: 130.86195354185756
-14:24:03: opening short
-14:24:03: closing short, total profit: 131.76664310469096
-14:24:03: opening short
-14:24:03: closing short, total profit: 132.44570309055396
-14:24:03: opening long
-14:24:03: closing long, total profit: 133.23841508271727
-14:24:03: opening short
-14:24:03: closing short, total profit: 133.80503429025856
-14:24:03: opening short
-14:24:03: closing short, total profit: 134.9388393245487
-14:24:03: opening long
-14:24:03: closing long, total profit: 135.73329651207604
-14:24:03: opening short
-14:24:03: closing short, total profit: 136.4147364899832
-14:24:03: opening long
-14:24:03: closing long, total profit: 137.32386827917534
-14:24:03: opening short
-14:24:03: closing short, total profit: 138.00626260014303
-14:24:03: opening short
-14:24:03: closing short, total profit: 139.8270726203033
-14:24:03: opening long
-14:24:03: closing long, total profit: 142.562657594592
-14:24:03: opening short
-14:24:03: closing short, total profit: 143.01968265763003
-14:24:03: opening long
-14:24:03: closing long, total profit: 143.93409840375628
-14:24:03: opening short
-14:24:03: closing short, total profit: 144.5060654529581
-14:24:03: opening long
-14:24:03: closing long, total profit: 145.07831848568452
-14:24:03: opening short
-14:24:03: closing short, total profit: 145.536349813079
-14:24:03: opening long
-14:24:03: closing long, total profit: 145.99456435300445
-14:24:03: opening short
-14:24:03: closing short, total profit: 146.7967605480517
-14:24:03: opening long
-14:24:03: closing long, total profit: 147.25547925227087
-14:24:03: opening short
-14:24:03: closing short, total profit: 147.82910699189694
-14:24:03: opening long
-14:24:03: closing long, total profit: 148.28823863469364
-14:24:03: opening short
-14:24:03: closing short, total profit: 148.86238275401092
-14:24:03: opening short
-14:24:03: closing short, total profit: 149.43681394538785
-14:24:03: opening long
-14:24:03: closing long, total profit: 150.2414197151498
-14:24:03: opening short
-14:24:03: closing short, total profit: 150.8165404250073
-14:24:03: opening long
-14:24:03: closing long, total profit: 151.8522753113897
-14:24:03: opening short
-14:24:03: closing short, total profit: 152.31301622151446
-14:24:03: opening long
-14:24:03: closing long, total profit: 152.65871012638087
-14:24:03: opening short
-14:24:03: closing short, total profit: 154.848761675621
-14:24:03: opening long
-14:24:03: closing long, total profit: 156.00361043729677
-14:24:03: opening short
-14:24:03: closing short, total profit: 156.58161224251535
-14:24:03: opening long
-14:24:03: closing long, total profit: 156.92858672618806
-14:24:03: opening short
-14:24:03: closing short, total profit: 157.73843673689655
-14:24:03: opening long
-14:24:03: closing long, total profit: 158.20153211159126
-14:24:03: opening short
-14:24:03: closing short, total profit: 158.6648127244361
-14:24:03: opening long
-14:24:03: closing long, total profit: 159.0124121682534
-14:24:03: opening short
-14:24:03: closing short, total profit: 159.36011589190383
-14:24:03: opening long
-14:24:03: closing long, total profit: 159.82385993826054
-14:24:03: opening short
-14:24:03: closing short, total profit: 160.40377186822985
-14:24:03: opening long
-14:24:03: closing long, total profit: 161.21605450853752
-14:24:03: opening short
-14:24:03: closing short, total profit: 161.56441932489005
-14:24:03: opening long
-14:24:03: closing long, total profit: 161.91288865068748
-14:24:03: opening short
-14:24:03: closing short, total profit: 162.26146251728264
-14:24:03: opening long
-14:24:03: closing long, total profit: 162.95881939479293
-14:24:03: opening short
-14:24:03: closing short, total profit: 163.30770704061132
-14:24:03: opening short
-14:24:03: closing short, total profit: 163.7730301234275
-14:24:03: opening long
-14:24:03: closing long, total profit: 164.5876712445138
-14:24:03: opening short
-14:24:03: closing short, total profit: 165.51934138150932
-14:24:03: opening long
-14:24:03: closing long, total profit: 165.98554911806187
-14:24:03: opening short
-14:24:03: closing short, total profit: 166.33534478279725
-14:24:03: opening long
-14:24:03: closing long, total profit: 167.15177952414538
-14:24:03: opening short
-14:24:03: closing short, total profit: 168.08550094776487
-14:24:03: opening long
-14:24:03: closing long, total profit: 168.55273514814394
-14:24:03: opening short
-14:24:03: closing short, total profit: 168.90330096868834
-14:24:03: opening long
-14:24:03: closing long, total profit: 189.35910873564046
-14:24:03: opening short
-14:24:03: closing short, total profit: 199.46866115989334
-14:24:03: opening long
-14:24:03: closing long, total profit: 214.94180688885587
-14:24:03: opening short
-14:24:03: closing short, total profit: 219.0726090322778
-14:24:03: opening long
-14:24:03: closing long, total profit: 223.8269922075037
-14:24:03: opening short
-14:24:03: closing short, total profit: 227.9880039810093
-14:24:03: opening long
-14:24:03: closing long, total profit: 228.60199798300002
-14:24:03: opening short
-14:24:03: closing short, total profit: 231.05920197896629
-14:24:03: opening long
-14:24:03: closing long, total profit: 232.413367101143
-14:24:03: opening short
-14:24:22: opening long
-14:24:22: closing long, total profit: 4.599999999999939
-14:24:22: opening short
-14:24:22: closing short, total profit: 6.910580000000133
-14:24:22: opening short
-14:24:22: closing short, total profit: 8.018181638000236
-14:24:22: opening long
-14:24:22: closing long, total profit: 11.647047091896862
-14:24:22: opening short
-14:24:22: closing short, total profit: 22.269341086361734
-14:24:22: opening long
-14:24:22: closing long, total profit: 30.345268880944012
-14:24:22: opening long
-14:24:22: closing long, total profit: 35.187891644684605
-14:24:22: opening short
-14:24:22: closing short, total profit: 40.36383110290815
-14:24:22: opening long
-14:24:22: closing long, total profit: 41.50823131712146
-14:24:22: opening short
-14:24:22: closing short, total profit: 43.591247779755705
-14:24:22: opening long
-14:24:22: closing long, total profit: 45.991507649649115
-14:24:22: opening short
-14:24:22: closing short, total profit: 49.65247792642295
-14:24:22: opening long
-14:24:22: closing long, total profit: 51.331921891105274
-14:24:22: opening short
-14:24:22: closing short, total profit: 53.539718927076585
-14:24:22: opening short
-14:24:22: closing short, total profit: 54.80396658978918
-14:24:22: opening long
-14:24:22: closing long, total profit: 57.33549610960463
-14:24:22: opening long
-14:24:22: closing long, total profit: 58.7100322545472
-14:24:22: opening short
-14:24:22: closing short, total profit: 59.87461329002731
-14:24:22: opening long
-14:24:22: closing long, total profit: 61.35843774863343
-14:24:22: opening short
-14:24:22: closing short, total profit: 67.08977331247613
-14:24:22: opening long
-14:24:22: closing long, total profit: 82.56257502550699
-14:24:22: opening short
-14:24:22: closing short, total profit: 84.94421269056308
-14:24:22: opening long
-14:24:22: closing long, total profit: 86.3546401670609
-14:24:22: opening long
-14:24:22: closing long, total profit: 87.76690119927817
-14:24:22: opening short
-14:24:22: closing short, total profit: 89.28977486095724
-14:24:22: opening long
-14:24:22: closing long, total profit: 90.37906463581832
-14:24:22: opening short
-14:24:22: closing short, total profit: 92.23270904569925
-14:24:22: opening short
-14:24:22: closing short, total profit: 98.02154240364155
-14:24:22: opening long
-14:24:22: closing long, total profit: 101.97441995629471
-14:24:22: opening short
-14:24:22: closing short, total profit: 108.25567415004564
-14:24:22: opening long
-14:24:22: closing long, total profit: 112.46704571181584
-14:24:22: opening short
-14:24:22: closing short, total profit: 113.69075946209895
-14:24:22: opening long
-14:24:22: closing long, total profit: 114.80445022156118
-14:24:22: opening short
-14:24:22: closing short, total profit: 116.47665689689359
-14:24:22: opening long
-14:24:22: closing long, total profit: 117.70478121948028
-14:24:22: opening short
-14:24:22: closing short, total profit: 119.49310886943151
-14:24:22: opening long
-14:24:22: closing long, total profit: 123.8591319940223
-14:24:22: opening short
-14:24:22: closing short, total profit: 125.09537703921585
-14:24:22: opening long
-14:24:22: closing long, total profit: 126.67051056707083
-14:24:22: opening short
-14:24:22: closing short, total profit: 128.6985174860916
-14:24:22: opening long
-14:24:22: closing long, total profit: 130.5044351140694
-14:24:22: opening short
-14:24:22: closing short, total profit: 132.65239354078614
-14:24:22: opening short
-14:24:22: closing short, total profit: 138.42892074784427
-14:24:22: opening long
-14:24:22: closing long, total profit: 140.9334643734895
-14:24:22: opening short
-14:24:22: closing short, total profit: 141.96030449142577
-14:24:22: opening short
-14:24:22: closing short, total profit: 143.44485288726472
-14:24:22: opening long
-14:24:22: closing long, total profit: 144.70264222544083
-14:24:22: opening short
-14:24:22: closing short, total profit: 145.8473448676664
-14:24:22: opening long
-14:24:22: closing long, total profit: 147.7952853539415
-14:24:22: opening short
-14:24:22: closing short, total profit: 149.976096396114
-14:24:22: opening long
-14:24:22: closing long, total profit: 152.73603902746464
-14:24:22: opening long
-14:24:22: closing long, total profit: 154.69569029381137
-14:24:22: opening short
-14:24:22: closing short, total profit: 156.88961210536962
-14:24:22: opening long
-14:24:22: closing long, total profit: 158.8563244459488
-14:24:22: opening short
-14:24:22: closing short, total profit: 160.24695203528404
-14:24:22: opening long
-14:24:22: closing long, total profit: 161.40719898731945
-14:24:22: opening short
-14:24:22: closing short, total profit: 162.45246546640817
-14:24:22: opening long
-14:24:22: closing long, total profit: 163.49867268532807
-14:24:22: opening short
-14:24:22: closing short, total profit: 165.0112209598191
-14:24:22: opening long
-14:24:22: closing long, total profit: 166.17623218077904
-14:24:22: opening short
-14:24:22: closing short, total profit: 167.2257907897419
-14:24:22: opening long
-14:24:22: closing long, total profit: 169.32679721316345
-14:24:22: opening short
-14:24:22: closing short, total profit: 172.8347776048028
-14:24:22: opening long
-14:24:22: closing long, total profit: 174.00761238240776
-14:24:22: opening short
-14:24:22: closing short, total profit: 176.23822684593435
-14:24:22: opening long
-14:24:22: closing long, total profit: 177.76733654083415
-14:24:22: opening short
-14:24:22: closing short, total profit: 179.29843407833732
-14:24:22: opening long
-14:24:22: closing long, total profit: 180.35980266900796
-14:24:22: opening short
-14:24:22: closing short, total profit: 181.4221264914102
-14:24:22: opening long
-14:24:22: closing long, total profit: 182.48540640525263
-14:24:22: opening long
-14:24:22: closing long, total profit: 183.78614035229853
-14:24:22: opening short
-14:24:22: closing short, total profit: 185.3250623347566
-14:24:22: opening long
-14:24:22: closing long, total profit: 186.5103873970915
-14:24:22: opening short
-14:24:22: closing short, total profit: 187.69689778448873
-14:24:22: opening short
-14:24:22: closing short, total profit: 188.7658249924949
-14:24:22: opening long
-14:24:22: closing long, total profit: 189.95459081748754
-14:24:22: opening short
-14:24:22: closing short, total profit: 191.14454540830516
-14:24:22: opening long
-14:24:22: closing long, total profit: 192.3356899537136
-14:24:22: opening short
-14:24:22: closing short, total profit: 194.4818941956303
-14:24:22: opening short
-14:24:22: closing short, total profit: 219.56601397373842
-14:24:22: opening long
-14:24:22: closing long, total profit: 235.29841555399955
-14:24:22: opening short
-14:24:22: closing short, total profit: 239.49843016688297
-14:24:22: opening long
-14:24:22: closing long, total profit: 244.33247404453383
-14:24:22: opening short
-14:24:22: closing short, total profit: 249.06093744590308
-14:24:22: opening long
-14:24:22: closing long, total profit: 251.68396541453976
-14:24:22: opening short
-14:24:22: closing short, total profit: 254.437670138452
-14:24:22: opening long
-14:24:22: closing long, total profit: 256.4447704106736
-14:24:22: opening short
-14:24:35: opening long
-14:24:35: closing long, total profit: 4.399999999999739
-14:24:35: opening short
-14:24:35: closing short, total profit: 4.902199999999908
-14:24:35: opening long
-14:24:35: closing long, total profit: 6.10808264
-14:24:35: opening short
-14:24:35: closing short, total profit: 7.51663395569607
-14:24:35: opening long
-14:24:35: closing long, total profit: 8.221895599464982
-14:24:35: opening short
-14:24:35: closing short, total profit: 9.028473115944692
-14:24:35: opening long
-14:24:35: closing long, total profit: 11.752849993357668
-14:24:35: opening short
-14:24:35: closing short, total profit: 22.376254918287877
-14:24:35: opening long
-14:24:35: closing long, total profit: 30.45302733214237
-14:24:35: opening long
-14:24:35: closing long, total profit: 35.29615656060359
-14:24:35: opening short
-14:24:35: closing short, total profit: 40.16204849643859
-14:24:35: opening long
-14:24:35: closing long, total profit: 40.99417813523588
-14:24:35: opening short
-14:24:35: closing short, total profit: 42.867967655879326
-14:24:35: opening long
-14:24:35: closing long, total profit: 45.26656398148782
-14:24:35: opening short
-14:24:35: closing short, total profit: 46.20730388907129
-14:24:35: opening long
-14:24:35: closing long, total profit: 47.35813192334914
-14:24:35: opening short
-14:24:35: closing short, total profit: 49.03390493442655
-14:24:35: opening long
-14:24:35: closing long, total profit: 50.0829388393611
-14:24:35: opening short
-14:24:35: closing short, total profit: 52.0780964231559
-14:24:35: opening long
-14:24:35: closing long, total profit: 54.60308385457143
-14:24:35: opening long
-14:24:35: closing long, total profit: 55.76314724681157
-14:24:35: opening short
-14:24:35: closing short, total profit: 56.502181449884496
-14:24:35: opening long
-14:24:35: closing long, total profit: 57.87563428576943
-14:24:35: opening short
-14:24:35: closing short, total profit: 63.58816271091266
-14:24:35: opening long
-14:24:35: closing long, total profit: 78.37203817259437
-14:24:35: opening long
-14:24:35: closing long, total profit: 79.98959622985333
-14:24:35: opening short
-14:24:35: closing short, total profit: 82.36557334155899
-14:24:35: opening long
-14:24:35: closing long, total profit: 83.55617547223481
-14:24:35: opening long
-14:24:35: closing long, total profit: 84.42302041261274
-14:24:35: opening short
-14:24:35: closing short, total profit: 85.07367422486024
-14:24:35: opening long
-14:24:35: closing long, total profit: 85.83322579681756
-14:24:35: opening short
-14:24:35: closing short, total profit: 86.9190590226145
-14:24:35: opening long
-14:24:35: closing long, total profit: 88.00597808163724
-14:24:35: opening short
-14:24:35: closing short, total profit: 89.09398405971876
-14:24:35: opening short
-14:24:35: closing short, total profit: 94.64836337842344
-14:24:35: opening long
-14:24:35: closing long, total profit: 98.58909748658581
-14:24:35: opening short
-14:24:35: closing short, total profit: 104.8510553422594
-14:24:35: opening long
-14:24:35: closing long, total profit: 109.04948935256002
-14:24:35: opening short
-14:24:35: closing short, total profit: 109.71491904617173
-14:24:35: opening long
-14:24:35: closing long, total profit: 111.04657694902724
-14:24:35: opening short
-14:24:35: closing short, total profit: 111.82430955289148
-14:24:35: opening long
-14:24:35: closing long, total profit: 112.93613386244449
-14:24:35: opening short
-14:24:35: closing short, total profit: 113.82648276953459
-14:24:35: opening short
-14:24:35: closing short, total profit: 115.38583984541202
-14:24:35: opening short
-14:24:35: closing short, total profit: 119.28969028487103
-14:24:35: opening long
-14:24:35: closing long, total profit: 121.52826966544053
-14:24:35: opening short
-14:24:35: closing short, total profit: 122.42549228117304
-14:24:35: opening long
-14:24:35: closing long, total profit: 123.66016032268244
-14:24:35: opening short
-14:24:35: closing short, total profit: 124.22199040284397
-14:24:35: opening long
-14:24:35: closing long, total profit: 125.45863459228721
-14:24:35: opening short
-14:24:35: closing short, total profit: 127.25936840763492
-14:24:35: opening long
-14:24:35: closing long, total profit: 128.6120796497242
-14:24:35: opening short
-14:24:35: closing short, total profit: 130.4178589771638
-14:24:35: opening short
-14:24:35: closing short, total profit: 135.95690648615206
-14:24:35: opening long
-14:24:35: closing long, total profit: 138.22882029912412
-14:24:35: opening short
-14:24:35: closing short, total profit: 139.13940335536333
-14:24:35: opening short
-14:24:35: closing short, total profit: 139.8228869973767
-14:24:35: opening long
-14:24:35: closing long, total profit: 140.6207630182748
-14:24:35: opening short
-14:24:35: closing short, total profit: 141.9895079338966
-14:24:35: opening long
-14:24:35: closing long, total profit: 142.7889005894505
-14:24:35: opening short
-14:24:35: closing short, total profit: 143.47457392980408
-14:24:35: opening long
-14:24:35: closing long, total profit: 144.38935358894807
-14:24:35: opening short
-14:24:35: closing short, total profit: 145.0759872011016
-14:24:35: opening short
-14:24:35: closing short, total profit: 146.90810878062342
-14:24:35: opening long
-14:24:35: closing long, total profit: 149.66068824169687
-14:24:35: opening short
-14:24:35: closing short, total profit: 150.2355185858179
-14:24:35: opening long
-14:24:35: closing long, total profit: 152.19091896741384
-14:24:35: opening short
-14:24:35: closing short, total profit: 152.99745261069094
-14:24:35: opening long
-14:24:35: closing long, total profit: 153.68925108225753
-14:24:35: opening long
-14:24:35: closing long, total profit: 154.38146463290707
-14:24:35: opening short
-14:24:35: closing short, total profit: 155.30496980461356
-14:24:35: opening long
-14:24:35: closing long, total profit: 155.88262228951606
-14:24:35: opening short
-14:24:35: closing short, total profit: 156.57615186288996
-14:24:35: opening long
-14:24:35: closing long, total profit: 157.1544399388216
-14:24:35: opening short
-14:24:35: closing short, total profit: 157.9644480467787
-14:24:35: opening short
-14:24:35: closing short, total profit: 158.65922671560696
-14:24:35: opening long
-14:24:35: closing long, total profit: 159.47028817430805
-14:24:35: opening short
-14:24:35: closing short, total profit: 160.74570549129965
-14:24:35: opening long
-14:24:35: closing long, total profit: 161.67430205569283
-14:24:35: opening short
-14:24:35: closing short, total profit: 162.25513920672088
-14:24:35: opening long
-14:24:35: closing long, total profit: 164.11474742945168
-14:24:35: opening short
-14:24:35: closing short, total profit: 167.6070916717399
-14:24:35: opening long
-14:24:35: closing long, total profit: 168.77469876341178
-14:24:35: opening short
-14:24:35: closing short, total profit: 169.7097185224224
-14:24:35: opening long
-14:24:35: closing long, total profit: 171.23034115650165
-14:24:35: opening short
-14:24:35: closing short, total profit: 172.51869453177392
-14:24:35: opening long
-14:24:35: closing long, total profit: 173.22220574849317
-14:24:35: opening short
-14:24:35: closing short, total profit: 173.92613907194246
-14:24:35: opening long
-14:24:35: closing long, total profit: 174.6304947553858
-14:24:35: opening short
-14:24:35: closing short, total profit: 175.33527305223896
-14:24:35: opening long
-14:24:35: closing long, total profit: 175.92294068876527
-14:24:35: opening short
-14:24:35: closing short, total profit: 176.74608674724757
-14:24:35: opening long
-14:24:35: closing long, total profit: 177.56980900797055
-14:24:35: opening short
-14:24:35: closing short, total profit: 178.15859391247474
-14:24:35: opening long
-14:24:35: closing long, total profit: 178.86548906882214
-14:24:35: opening short
-14:24:35: closing short, total profit: 179.80858146007736
-14:24:35: opening long
-14:24:35: closing long, total profit: 180.51646660895332
-14:24:35: opening short
-14:24:35: closing short, total profit: 182.05113801554506
-14:24:35: opening long
-14:24:35: closing long, total profit: 182.87857381215585
-14:24:35: opening short
-14:24:35: closing short, total profit: 183.82487667120546
-14:24:35: opening long
-14:24:35: closing long, total profit: 184.41678910954127
-14:24:35: opening short
-14:24:35: closing short, total profit: 185.12743918300717
-14:24:35: opening long
-14:24:35: closing long, total profit: 186.07554113435373
-14:24:35: opening short
-14:24:35: closing short, total profit: 187.02440156726138
-14:24:35: opening long
-14:24:35: closing long, total profit: 187.73661620820167
-14:24:35: opening short
-14:24:35: closing short, total profit: 188.33048451630597
-14:24:35: opening long
-14:24:35: closing long, total profit: 209.24510104379303
-14:24:35: opening short
-14:24:35: closing short, total profit: 219.52368440266522
-14:24:35: opening long
-14:24:35: closing long, total profit: 235.2555399314595
-14:24:35: opening short
-14:24:35: closing short, total profit: 239.4554087672263
-14:24:35: opening long
-14:24:35: closing long, total profit: 244.28928486141848
-14:24:35: opening short
-14:24:35: closing short, total profit: 248.64429735843353
-14:24:35: opening long
-14:24:35: closing long, total profit: 249.39348393684878
-14:24:35: opening short
-14:24:35: closing short, total profit: 251.89227090472275
-14:24:35: opening long
-14:24:35: closing long, total profit: 253.39454162980854
-14:24:35: opening short
-14:41:03: opening long
-14:41:03: closing long, total profit: 4.399999999999739
-14:41:03: opening short
-14:41:03: closing short, total profit: 5.404399999999853
-14:41:03: opening long
-14:41:03: closing long, total profit: 5.907102200000023
-14:41:03: opening short
-14:41:03: closing short, total profit: 7.013600012420126
-14:41:03: opening long
-14:41:03: closing long, total profit: 7.718509532428744
-14:41:03: opening short
-14:41:03: closing short, total profit: 9.230087296727445
-14:41:03: opening long
-14:41:03: closing long, total profit: 10.34024039275395
-14:41:03: opening short
-14:41:03: closing short, total profit: 13.068159041814312
-14:41:03: opening long
-14:41:03: closing long, total profit: 15.094295359897943
-14:41:03: opening short
-14:41:03: closing short, total profit: 15.703351937113817
-14:41:03: opening long
-14:41:03: closing long, total profit: 18.54732132253765
-14:41:03: opening short
-14:41:03: closing short, total profit: 20.58441596518273
-14:41:03: opening long
-14:41:03: closing long, total profit: 21.400883497955014
-14:41:03: opening short
-14:41:03: closing short, total profit: 23.23940508825136
-14:41:03: opening long
-14:41:03: closing long, total profit: 24.87658813639261
-14:41:03: opening short
-14:41:03: closing short, total profit: 25.798977065715263
-14:41:03: opening long
-14:41:03: closing long, total profit: 26.61961624736775
-14:41:03: opening short
-14:41:03: closing short, total profit: 27.54357390199028
-14:41:03: opening long
-14:41:03: closing long, total profit: 29.084889262843323
-14:41:03: opening short
-14:41:03: closing short, total profit: 30.01106566318001
-14:41:03: opening long
-14:41:03: closing long, total profit: 31.041076728843308
-14:41:03: opening short
-14:41:03: closing short, total profit: 33.00005477462835
-14:41:03: opening long
-14:41:03: closing long, total profit: 33.61985480749306
-14:41:03: opening short
-14:41:03: closing short, total profit: 34.13666473489698
-14:41:03: opening long
-14:41:03: closing long, total profit: 34.96397406668504
-14:41:03: opening short
-14:41:03: closing short, total profit: 36.93040561741153
-14:41:03: opening long
-14:41:03: closing long, total profit: 38.58949426639944
-14:41:03: opening short
-14:41:03: closing short, total profit: 39.316506912386075
-14:41:03: opening long
-14:41:03: closing long, total profit: 40.563686720681034
-14:41:03: opening short
-14:41:03: closing short, total profit: 41.916419513418006
-14:41:03: opening long
-14:41:03: closing long, total profit: 43.06252757488287
-14:41:03: opening long
-14:41:03: closing long, total profit: 43.68836509142797
-14:41:03: opening short
-14:41:03: closing short, total profit: 44.21020927397386
-14:41:03: opening long
-14:41:03: closing long, total profit: 44.83673539953818
-14:41:03: opening short
-14:41:03: closing short, total profit: 45.46363744077783
-14:41:03: opening long
-14:41:03: closing long, total profit: 46.19546198698653
-14:41:03: opening short
-14:41:03: closing short, total profit: 47.03241835657603
-14:41:03: opening long
-14:41:03: closing long, total profit: 47.66063780759014
-14:41:03: opening short
-14:41:03: closing short, total profit: 49.65119301942435
-14:41:03: opening long
-14:41:03: closing long, total profit: 53.95476291080398
-14:41:03: opening short
-14:41:03: closing short, total profit: 55.74648600775238
-14:41:03: opening long
-14:41:03: closing long, total profit: 56.907807142361015
-14:41:03: opening short
-14:41:03: closing short, total profit: 57.436261045932376
-14:41:03: opening long
-14:41:03: closing long, total profit: 57.96497917645552
-14:41:03: opening short
-14:41:03: closing short, total profit: 58.59975816396156
-14:41:03: opening long
-14:41:03: closing long, total profit: 59.55249794630926
-14:41:03: opening short
-14:41:03: closing short, total profit: 60.40013994466645
-14:41:03: opening long
-14:41:03: closing long, total profit: 61.03638002863342
-14:41:03: opening short
-14:41:03: closing short, total profit: 61.566898218647914
-14:41:03: opening short
-14:41:03: closing short, total profit: 62.84077849651039
-14:41:03: opening short
-14:41:03: closing short, total profit: 63.37219888575882
-14:41:03: opening short
-14:41:03: closing short, total profit: 64.43557108464469
-14:41:03: opening long
-14:41:03: closing long, total profit: 68.26753914054923
-14:41:03: opening short
-14:41:03: closing short, total profit: 69.33580667968991
-14:41:03: opening long
-14:41:03: closing long, total profit: 70.6190096477054
-14:41:03: opening short
-14:41:03: closing short, total profit: 71.36844295445894
-14:41:03: opening long
-14:41:03: closing long, total profit: 72.22553770882266
-14:41:03: opening short
-14:41:03: closing short, total profit: 73.19054069276073
-14:41:03: opening long
-14:41:03: closing long, total profit: 75.229602720077
-14:41:03: opening short
-14:41:03: closing short, total profit: 76.51987824334118
-14:41:03: opening long
-14:41:03: closing long, total profit: 78.78056998765219
-14:41:03: opening short
-14:41:03: closing short, total profit: 80.61449695663123
-14:41:03: opening long
-14:41:03: closing long, total profit: 83.42409464871864
-14:41:03: opening short
-14:41:03: closing short, total profit: 84.39917633390262
-14:41:03: opening short
-14:41:03: closing short, total profit: 85.15825575733626
-14:41:03: opening long
-14:41:03: closing long, total profit: 85.91786653636632
-14:41:03: opening short
-14:41:03: closing short, total profit: 86.78660082959556
-14:41:03: opening long
-14:41:03: closing long, total profit: 87.76470877034232
-14:41:03: opening short
-14:41:03: closing short, total profit: 89.17880289174362
-14:41:03: opening long
-14:41:03: closing long, total profit: 90.48581745521356
-14:41:03: opening short
-14:41:03: closing short, total profit: 91.03106036394135
-14:41:03: opening long
-14:41:03: closing long, total profit: 91.79478210619627
-14:41:03: opening short
-14:41:03: closing short, total profit: 92.66821793188137
-14:41:03: opening short
-14:41:03: closing short, total profit: 94.41648708057244
-14:41:03: opening long
-14:41:03: closing long, total profit: 98.13750313664646
-14:41:03: opening short
-14:41:03: closing short, total profit: 99.23564063978323
-14:41:03: opening long
-14:41:03: closing long, total profit: 100.22495271635917
-14:41:03: opening short
-14:41:03: closing short, total profit: 100.99511018326078
-14:41:03: opening long
-14:41:03: closing long, total profit: 101.6557072493709
-14:41:03: opening short
-14:41:03: closing short, total profit: 102.31670067372046
-14:41:03: opening long
-14:41:03: closing long, total profit: 102.97809069412462
-14:41:03: opening short
-14:41:03: closing short, total profit: 103.63987754854102
-14:41:03: opening long
-14:41:03: closing long, total profit: 104.19169748731548
-14:41:03: opening short
-14:41:03: closing short, total profit: 104.96463167555676
-14:41:03: opening long
-14:41:03: closing long, total profit: 105.62761045456227
-14:41:03: opening short
-14:41:03: closing short, total profit: 106.29098702083519
-14:41:03: opening short
-14:41:03: closing short, total profit: 106.95476161304786
-14:41:03: opening long
-14:41:03: closing long, total profit: 107.72962994617716
-14:41:03: opening short
-14:41:03: closing short, total profit: 108.3942677241448
-14:41:03: opening long
-14:41:03: closing long, total profit: 108.94846485800706
-14:41:03: opening short
-14:41:03: closing short, total profit: 109.50293909043624
-14:41:03: opening long
-14:41:03: closing long, total profit: 110.16864085389044
-14:41:03: opening short
-14:41:03: closing short, total profit: 110.83474203840295
-14:41:03: opening long
-14:41:03: closing long, total profit: 113.05641152247976
-14:41:03: opening short
-14:41:03: closing short, total profit: 116.39558075704709
-14:41:03: opening short
-14:41:03: closing short, total profit: 118.18181368625841
-14:41:03: opening long
-14:41:03: closing long, total profit: 119.18817731857618
-14:41:03: opening short
-14:41:03: closing short, total profit: 120.41928431362673
-14:41:03: opening long
-14:41:03: closing long, total profit: 121.31561974107778
-14:41:03: opening short
-14:41:03: closing short, total profit: 121.87627755094852
-14:41:03: opening long
-14:41:03: closing long, total profit: 122.54940331747926
-14:41:03: opening short
-14:41:03: closing short, total profit: 123.67195272079687
-14:41:03: opening short
-14:41:03: closing short, total profit: 124.23378869715745
-14:41:03: opening long
-14:41:04: closing long, total profit: 124.90832897037592
-14:41:04: opening short
-14:41:04: closing short, total profit: 125.47078313486129
-14:41:04: opening long
-14:41:04: closing long, total profit: 126.0335185264289
-14:41:04: opening short
-14:41:04: closing short, total profit: 126.82174198939757
-14:41:04: opening long
-14:41:04: closing long, total profit: 127.61051720879031
-14:41:04: opening long
-14:41:04: closing long, total profit: 128.1743224673949
-14:41:04: opening short
-14:41:04: closing short, total profit: 128.85122706087526
-14:41:04: opening long
-14:41:04: closing long, total profit: 129.64142291981804
-14:41:04: opening short
-14:41:04: closing short, total profit: 130.31920777356987
-14:41:04: opening long
-14:41:04: closing long, total profit: 130.99739929823394
-14:41:04: opening short
-14:41:04: closing short, total profit: 132.1283966975323
-14:41:04: opening short
-14:41:04: closing short, total profit: 133.14731225456023
-14:41:04: opening long
-14:41:04: closing long, total profit: 134.05383010436404
-14:41:04: opening short
-14:41:04: closing short, total profit: 135.0744785514581
-14:41:04: opening long
-14:41:04: closing long, total profit: 135.642015790734
-14:41:04: opening short
-14:41:04: closing short, total profit: 136.20983679862957
-14:41:04: opening long
-14:41:04: closing long, total profit: 136.77794171702908
-14:41:04: opening short
-14:41:04: closing short, total profit: 137.3463306878878
-14:41:04: opening long
-14:41:04: closing long, total profit: 137.91500385323192
-14:41:04: opening short
-14:41:04: closing short, total profit: 138.48396135515873
-14:41:04: opening long
-14:41:04: closing long, total profit: 141.89941323922434
-14:41:04: opening short
-14:41:04: closing short, total profit: 155.0312564914755
-14:41:04: opening long
-14:41:04: closing long, total profit: 160.80641277393275
-14:41:04: opening short
-14:41:04: closing short, total profit: 163.47626752331303
-14:41:04: opening long
-14:41:04: closing long, total profit: 164.87243904434112
-14:41:04: opening long
-14:41:04: closing long, total profit: 166.15379872728977
-14:41:04: opening short
-14:41:04: closing short, total profit: 167.55318328576263
-14:41:04: opening long
-14:41:04: closing long, total profit: 168.1369598774057
-14:41:04: opening short
-14:41:04: closing short, total profit: 168.83784205333234
-14:41:04: opening long
-14:41:04: closing long, total profit: 169.65602854276983
-14:41:04: opening short
-14:41:42: opening long
-14:41:42: closing long, total profit: 4.699999999999928
-14:41:42: opening short
-14:41:42: closing short, total profit: 5.8051700000000315
-14:41:42: opening long
-14:41:42: closing long, total profit: 7.012136204000123
-14:41:42: opening short
-14:41:42: closing short, total profit: 8.82475804916735
-14:41:42: opening long
-14:41:42: closing long, total profit: 10.741525089460783
-14:41:42: opening short
-14:41:42: closing short, total profit: 12.055489072077163
-14:41:42: opening long
-14:41:42: closing long, total profit: 13.472366756778142
-14:41:42: opening short
-14:41:42: closing short, total profit: 17.526256223805035
-14:41:42: opening long
-14:41:42: closing long, total profit: 19.968319238742126
-14:41:42: opening short
-14:41:42: closing short, total profit: 22.722233700686655
-14:41:42: opening long
-14:41:42: closing long, total profit: 25.89267262515889
-14:41:42: opening short
-14:41:42: closing short, total profit: 28.14963650493422
-14:41:42: opening long
-14:41:42: closing long, total profit: 29.48623103239072
-14:41:42: opening short
-14:41:42: closing short, total profit: 31.75110074066196
-14:41:42: opening long
-14:41:42: closing long, total profit: 33.81460294214329
-14:41:42: opening short
-14:41:42: closing short, total profit: 34.951799005379755
-14:41:42: opening long
-14:41:42: closing long, total profit: 36.40073152398736
-14:41:42: opening short
-14:41:42: closing short, total profit: 37.851692548121015
-14:41:42: opening long
-14:41:42: closing long, total profit: 39.40847008694326
-14:41:42: opening short
-14:41:42: closing short, total profit: 40.55181940403901
-14:41:42: opening long
-14:41:42: closing long, total profit: 42.11264713314513
-14:41:42: opening short
-14:41:42: closing short, total profit: 44.717928750978174
-14:41:42: opening long
-14:41:42: closing long, total profit: 46.38947743697979
-14:41:42: opening short
-14:41:42: closing short, total profit: 47.64514480990426
-14:41:42: opening long
-14:41:42: closing long, total profit: 49.216612527119175
-14:41:42: opening short
-14:41:42: closing short, total profit: 51.52488907467882
-14:41:42: opening long
-14:41:42: closing long, total profit: 53.52278636392072
-14:41:42: opening short
-14:41:42: closing short, total profit: 55.41912737937581
-14:41:42: opening long
-14:41:42: closing long, total profit: 56.58008841949323
-14:41:42: opening short
-14:41:42: closing short, total profit: 57.74232651675478
-14:41:42: opening long
-14:41:42: closing long, total profit: 58.90584307592332
-14:41:42: opening short
-14:41:42: closing short, total profit: 60.17653008761452
-14:41:42: opening long
-14:41:42: closing long, total profit: 61.55475957672851
-14:41:42: opening short
-14:41:42: closing short, total profit: 62.82862528822068
-14:41:42: opening long
-14:41:42: closing long, total profit: 63.99773677603783
-14:41:42: opening short
-14:41:42: closing short, total profit: 66.23213202326751
-14:41:42: opening long
-14:41:42: closing long, total profit: 70.6036837645629
-14:41:42: opening short
-14:41:42: closing short, total profit: 72.74489113209204
-14:41:42: opening long
-14:41:42: closing long, total profit: 77.78679212041303
-14:41:42: opening short
-14:41:42: closing short, total profit: 79.4034723085937
-14:41:42: opening long
-14:41:42: closing long, total profit: 80.59081612813327
-14:41:42: opening short
-14:41:42: closing short, total profit: 82.75199776038954
-14:41:42: opening long
-14:41:42: closing long, total profit: 84.59267615658224
-14:41:42: opening short
-14:41:42: closing short, total profit: 86.32802443843282
-14:41:42: opening short
-14:41:42: closing short, total profit: 87.74025087020287
-14:41:42: opening long
-14:41:42: closing long, total profit: 91.87366382350967
-14:41:42: opening long
-14:41:42: closing long, total profit: 93.40228695286267
-14:41:42: opening short
-14:41:42: closing short, total profit: 94.71436969720621
-14:41:42: opening long
-14:41:42: closing long, total profit: 96.02802694084296
-14:41:42: opening long
-14:41:42: closing long, total profit: 98.11048019203058
-14:41:42: opening short
-14:41:42: closing short, total profit: 99.86745696033788
-14:41:42: opening long
-14:41:42: closing long, total profit: 102.61712560273867
-14:41:42: opening short
-14:41:42: closing short, total profit: 104.49157471626336
-14:41:42: opening long
-14:41:42: closing long, total profit: 107.69460028294066
-14:41:42: opening short
-14:41:42: closing short, total profit: 109.02383380328028
-14:41:42: opening long
-14:41:42: closing long, total profit: 110.35466240384432
-14:41:42: opening short
-14:41:42: closing short, total profit: 111.57605253248866
-14:41:42: opening long
-14:41:42: closing long, total profit: 112.79878619027451
-14:41:42: opening short
-14:41:42: closing short, total profit: 114.46798436955999
-14:41:42: opening long
-14:41:42: closing long, total profit: 116.02823954767744
-14:41:42: opening short
-14:41:42: closing short, total profit: 117.36747343513476
-14:41:42: opening long
-14:41:42: closing long, total profit: 119.15526139263102
-14:41:42: opening short
-14:41:42: closing short, total profit: 121.28165638927703
-14:41:42: opening long
-14:41:42: closing long, total profit: 125.09401402100066
-14:41:42: opening short
-14:41:42: closing short, total profit: 126.78165504203223
-14:41:42: opening long
-14:41:42: closing long, total profit: 128.58450569009952
-14:41:42: opening short
-14:41:42: closing short, total profit: 131.0673916026177
-14:41:42: opening long
-14:41:42: closing long, total profit: 133.55573986414345
-14:41:42: opening short
-14:41:42: closing short, total profit: 134.8026511779941
-14:41:42: opening long
-14:41:42: closing long, total profit: 136.05093409429003
-14:41:42: opening short
-14:41:42: closing short, total profit: 137.30059012179387
-14:41:42: opening long
-14:41:42: closing long, total profit: 138.55162077092797
-14:41:42: opening short
-14:41:42: closing short, total profit: 139.91788271585318
-14:41:42: opening long
-14:41:42: closing long, total profit: 141.3997759633839
-14:41:42: opening short
-14:41:42: closing short, total profit: 142.65531571694373
-14:41:42: opening long
-14:41:42: closing long, total profit: 144.3692986905192
-14:41:42: opening short
-14:41:42: closing short, total profit: 147.80240658659065
-14:41:42: opening short
-14:41:42: closing short, total profit: 149.9832311591052
-14:41:42: opening long
-14:41:42: closing long, total profit: 151.24821271338033
-14:41:42: opening short
-14:41:42: closing short, total profit: 152.51458574736517
-14:41:42: opening long
-14:41:42: closing long, total profit: 153.7823517916874
-14:41:42: opening short
-14:41:42: closing short, total profit: 155.16689061383752
-14:41:42: opening short
-14:41:42: closing short, total profit: 156.66860757163562
-14:41:42: opening short
-14:41:42: closing short, total profit: 157.94094303996454
-14:41:42: opening long
-14:41:42: closing long, total profit: 159.2146780773086
-14:41:42: opening short
-14:41:43: closing short, total profit: 160.60573569100148
-14:41:43: opening long
-14:41:43: closing long, total profit: 162.1145231473999
-14:41:43: opening short
-14:41:43: closing short, total profit: 163.6252720274916
-14:41:43: opening long
-14:41:43: closing long, total profit: 164.90525982672196
-14:41:43: opening short
-14:41:43: closing short, total profit: 166.30314613851414
-14:41:43: opening long
-14:41:43: closing long, total profit: 167.5860795992666
-14:41:43: opening short
-14:41:43: closing short, total profit: 168.87042428682594
-14:41:43: opening long
-14:41:43: closing long, total profit: 170.27306879597023
-14:41:43: opening short
-14:41:43: closing short, total profit: 171.7944237854051
-14:41:43: opening long
-14:41:43: closing long, total profit: 173.08339765156916
-14:41:43: opening short
-14:41:43: closing short, total profit: 174.9603310878117
-14:41:43: opening long
-14:41:43: closing long, total profit: 179.1901882797279
-14:41:43: opening short
-14:41:43: closing short, total profit: 192.75087544494485
-14:41:43: opening long
-14:41:43: closing long, total profit: 198.71462982216946
-14:41:43: opening short
-14:41:43: closing short, total profit: 201.8312878597073
-14:41:43: opening long
-14:41:43: closing long, total profit: 203.87440104906884
-14:41:43: opening long
-14:41:43: closing long, total profit: 205.8006000907474
-14:41:43: opening short
-14:41:43: closing short, total profit: 208.45336141094702
-14:41:43: opening long
-14:41:43: closing long, total profit: 210.87026813376892
-14:41:43: opening short
-14:41:43: closing short, total profit: 213.53418272366346
-14:41:43: opening long
-14:41:43: closing long, total profit: 214.86907032465962
-14:41:43: opening short
-14:42:00: opening long
-14:42:00: closing long, total profit: 5.199999999999873
-14:42:00: opening short
-14:42:00: closing short, total profit: 7.511959999999843
-14:42:00: opening long
-14:42:00: closing long, total profit: 9.829237507999814
-14:42:00: opening short
-14:42:00: closing short, total profit: 12.454793525520774
-14:42:00: opening long
-14:42:00: closing long, total profit: 15.998385302859933
-14:42:00: opening short
-14:42:00: closing short, total profit: 21.484776583495453
-14:42:00: opening long
-14:42:00: closing long, total profit: 25.05997330153752
-14:42:00: opening short
-14:42:00: closing short, total profit: 27.52011723746117
-14:42:00: opening long
-14:42:00: closing long, total profit: 29.575157471936098
-14:42:00: opening short
-14:42:00: closing short, total profit: 32.76684046009921
-14:42:00: opening long
-14:42:00: closing long, total profit: 35.14220419315741
-14:42:00: opening short
-14:42:00: closing short, total profit: 39.282773009930274
-14:42:00: opening long
-14:42:00: closing long, total profit: 43.12811927006705
-14:42:00: opening short
-14:42:00: closing short, total profit: 45.42300113246118
-14:42:00: opening long
-14:42:00: closing long, total profit: 48.66381243597192
-14:42:00: opening short
-14:42:00: closing short, total profit: 51.495204729548966
-14:42:00: opening long
-14:42:00: closing long, total profit: 53.913643700426896
-14:42:00: opening short
-14:42:00: closing short, total profit: 56.759210538417975
-14:42:00: opening long
-14:42:00: closing long, total profit: 59.61246040687163
-14:42:00: opening short
-14:42:00: closing short, total profit: 62.4734140499701
-14:42:00: opening long
-14:42:00: closing long, total profit: 64.91710290228501
-14:42:00: opening short
-14:42:01: closing short, total profit: 67.7923790801211
-14:42:01: opening long
-14:42:01: closing long, total profit: 72.91778249970558
-14:42:01: opening short
-14:42:01: closing short, total profit: 75.70736873420475
-14:42:01: opening long
-14:42:01: closing long, total profit: 80.87076410412884
-14:42:01: opening short
-14:42:01: closing short, total profit: 86.38320500106
-14:42:01: opening long
-14:42:01: closing long, total profit: 91.92375934656529
-14:42:01: opening short
-14:42:01: closing short, total profit: 94.87195349680094
-14:42:01: opening long
-14:42:01: closing long, total profit: 97.93759496659189
-14:42:01: opening short
-14:42:01: closing short, total profit: 101.1216139919949
-14:42:01: opening long
-14:42:01: closing long, total profit: 103.3238572199789
-14:42:01: opening short
-14:42:01: closing short, total profit: 107.9578174203028
-14:42:01: opening long
-14:42:01: closing long, total profit: 113.94078963437252
-14:42:01: opening short
-14:42:01: closing short, total profit: 117.17121792431209
-14:42:01: opening long
-14:42:01: closing long, total profit: 120.18758021270764
-14:42:01: opening short
-14:42:01: closing short, total profit: 122.53997413115432
-14:42:01: opening long
-14:42:01: closing long, total profit: 126.01984805096102
-14:42:01: opening short
-14:42:01: closing short, total profit: 130.41132545835978
-14:42:01: opening long
-14:42:01: closing long, total profit: 134.14168283237245
-14:42:01: opening short
-14:42:01: closing short, total profit: 136.63679453460364
-14:42:01: opening long
-14:42:01: closing long, total profit: 138.91006812367286
-14:42:01: opening short
-14:42:01: closing short, total profit: 141.52956128035729
-14:42:01: opening long
-14:42:01: closing long, total profit: 145.9815265693507
-14:42:01: opening short
-14:42:01: closing short, total profit: 148.96107853843094
-14:42:01: opening long
-14:42:01: closing long, total profit: 151.94837734263078
-14:42:01: opening short
-14:42:01: closing short, total profit: 154.36746893505028
-14:42:01: opening long
-14:42:01: closing long, total profit: 156.67620387292038
-14:42:01: opening short
-14:42:01: closing short, total profit: 158.98955628066622
-14:42:01: opening long
-14:42:01: closing long, total profit: 161.4234343488556
-14:42:01: opening short
-14:42:01: closing short, total profit: 163.74628121755333
-14:42:01: opening long
-14:42:01: closing long, total profit: 166.07377377998844
-14:42:01: opening short
-14:42:01: closing short, total profit: 169.5719951013283
-14:42:01: opening short
-14:42:01: closing short, total profit: 172.37896788957144
-14:42:01: opening short
-14:42:01: closing short, total profit: 174.72372582535058
-14:42:01: opening long
-14:42:01: closing long, total profit: 177.19064564958381
-14:42:01: opening short
-14:42:01: closing short, total profit: 179.66274600544793
-14:42:01: opening long
-14:42:01: closing long, total profit: 182.02207149745882
-14:42:01: opening short
-14:42:01: closing short, total profit: 184.9771266762024
-14:42:01: opening long
-14:42:01: closing long, total profit: 187.82107178022525
-14:42:01: opening short
-14:42:01: closing short, total profit: 190.1967139237857
-14:42:01: opening short
-14:42:01: closing short, total profit: 196.50475650758185
-14:42:01: opening long
-14:42:01: closing long, total profit: 202.48728029011963
-14:42:01: opening short
-14:42:01: closing short, total profit: 206.2149908590191
-14:42:01: opening long
-14:42:01: closing long, total profit: 209.83363583159604
-14:42:01: opening short
-14:42:01: closing short, total profit: 212.7372365575918
-14:42:01: opening long
-14:42:01: closing long, total profit: 215.76907964898572
-14:42:01: opening short
-14:42:01: closing short, total profit: 218.93007925607327
-14:42:01: opening long
-14:42:01: closing long, total profit: 221.3679394145854
-14:42:01: opening short
+19:54:55: opening long
+19:54:55: 0.9964 1.0041 1000 0
+19:54:55: closing long, total profit: 5.70000000000004
+19:54:55: opening short
+19:54:55: 1.0021 0.9944 1000 11.43249000000008
+19:54:55: closing short, total profit: 11.43249000000008
+19:54:55: opening long
+19:54:55: 0.9915 1.024 1000 11.43249000000008
+19:54:55: closing long, total profit: 42.28118094500005
+19:54:55: opening short
+19:54:55: 1.024 0.9923 1000 73.23693201906661
+19:54:55: closing short, total profit: 73.23693201906661
+19:54:55: opening long
+19:54:55: 0.9958 1.01 1000 73.23693201906661
+19:54:55: closing long, total profit: 86.33042258969923
+19:54:55: opening long
+19:54:55: 0.9966999999999999 1.0032 1000 86.33042258969923
+19:54:55: closing long, total profit: 91.21890949135306
+19:54:55: opening long
+19:54:55: 0.9967999999999999 1.0042 1000 91.21890949135306
+19:54:55: closing long, total profit: 97.11149160260645
+19:54:55: opening short
+19:54:55: 1.01 0.9964999999999999 1000 109.7282737560365
+19:54:55: closing short, total profit: 109.7282737560365
+19:54:55: opening long
+19:54:55: 0.9975 1.0034999999999998 1000 109.7282737560365
+19:54:55: closing long, total profit: 114.1671868510604
+19:54:55: opening long
+19:54:55: 0.998 1.0021 1000 114.1671868510604
+19:54:55: closing long, total profit: 116.50693794344762
+19:54:55: opening short
+19:54:55: 1.0023 0.996 1000 121.30791777660441
+19:54:55: closing short, total profit: 121.30791777660441
+19:54:55: opening long
+19:54:55: 0.9971000000000001 1.0025 1000 121.30791777660441
+19:54:55: closing long, total profit: 125.12036469704469
+19:54:55: opening short
+19:54:55: 1.0023 0.9979 1000 127.82065357231755
+19:54:55: closing short, total profit: 127.82065357231755
+19:54:55: opening long
+19:54:55: 0.9944 1.0037 1000 127.82065357231755
+19:54:55: closing long, total profit: 136.05374434339558
+19:54:55: opening short
+19:54:55: 1.0025 0.986 1000 152.52652363637478
+19:54:55: closing short, total profit: 152.52652363637478
+19:54:55: opening long
+19:54:55: 0.9821 1.0123 1000 152.52652363637478
+19:54:55: closing long, total profit: 185.02777160292055
+19:54:55: opening short
+19:54:55: 1.0282 0.9971000000000001 1000 219.5120797565654
+19:54:55: closing short, total profit: 219.5120797565654
+19:54:55: opening long
+19:54:55: 0.9978 1.0030000000000001 1000 219.5120797565654
+19:54:55: closing long, total profit: 223.41451841178653
+19:54:55: opening short
+19:54:55: 1.0032999999999999 0.9956 1000 230.38798116673348
+19:54:55: closing short, total profit: 230.38798116673348
+19:54:55: opening long
+19:54:55: 0.9951000000000001 1.0043 1000 230.38798116673348
+19:54:55: closing long, total profit: 239.2467746311338
+19:54:55: opening short
+19:54:55: 1.0030000000000001 0.9955 1000 246.06263189160512
+19:54:55: closing short, total profit: 246.06263189160512
+19:54:55: opening long
+19:54:55: 0.9970000000000001 1.0048 1000 246.06263189160512
+19:54:55: closing long, total profit: 253.2897951565762
+19:54:55: opening short
+19:54:55: 1.0029 0.9972000000000001 1000 257.9269673986553
+19:54:55: closing short, total profit: 257.9269673986553
+19:54:55: opening long
+19:54:55: 0.9976 1.0027 1000 257.9269673986553
+19:54:55: closing long, total profit: 261.82654099759094
+19:54:55: opening short
+19:54:55: 1.002 0.998 1000 264.3501940795861
+19:54:55: closing short, total profit: 264.3501940795861
+19:54:55: opening long
+19:54:55: 0.9974000000000001 1.0043 1000 264.3501940795861
+19:54:55: closing long, total profit: 270.545510030576
+19:54:55: opening short
+19:54:55: 1.0036 0.9957 1000 278.04172853975643
+19:54:55: closing short, total profit: 278.04172853975643
+19:54:55: opening long
+19:54:55: 0.9972000000000001 1.0025 1000 278.04172853975643
+19:54:55: closing long, total profit: 282.2592662439375
+19:54:55: opening long
+19:54:55: 0.998 1.0022 1000 282.2592662439375
+19:54:55: closing long, total profit: 285.0802366296741
+19:54:55: opening short
+19:54:55: 1.0032999999999999 0.9976 1000 289.8350335052037
+19:54:55: closing short, total profit: 289.8350335052037
+19:54:55: opening long
+19:54:55: 0.9979 1.002 1000 289.8350335052037
+19:54:55: closing long, total profit: 292.5436870755646
+19:54:55: opening short
+19:54:55: 1.0034999999999998 0.9970000000000001 1000 298.3601336674043
+19:54:55: closing short, total profit: 298.3601336674043
+19:54:55: opening short
+19:54:55: 1.002 0.9975 1000 301.6060340015727
+19:54:55: closing short, total profit: 301.6060340015727
+19:54:55: opening long
+19:54:55: 0.9979 1.0026000000000002 1000 301.6060340015727
+19:54:55: closing long, total profit: 305.12037029337716
+19:54:55: opening long
+19:54:55: 0.9921 1.0027 1000 305.12037029337716
+19:54:55: closing long, total profit: 316.3444054779001
+19:54:55: opening short
+19:54:55: 1.002 0.9979 1000 319.1087287294037
+19:54:55: closing short, total profit: 319.1087287294037
+19:54:55: opening long
+19:54:55: 0.9979 1.0024 1000 319.1087287294037
+19:54:55: closing long, total profit: 322.40650055122717
+19:54:55: opening short
+19:54:55: 1.0026000000000002 0.9975 1000 326.50596070293614
+19:54:55: closing short, total profit: 326.50596070293614
+19:54:55: opening long
+19:54:55: 0.9972000000000001 1.0027 1000 326.50596070293614
+19:54:55: closing long, total profit: 331.1487315653962
+19:54:55: opening short
+19:54:55: 1.0021 0.998 1000 333.9441439016835
+19:54:55: closing short, total profit: 333.9441439016835
+19:54:55: opening long
+19:54:55: 0.998 1.0030000000000001 1000 333.9441439016835
+19:54:55: closing long, total profit: 337.9459763333887
+19:54:55: opening short
+19:54:55: 1.0028000000000001 0.9939 1000 347.1778035700893
+19:54:55: closing short, total profit: 347.1778035700893
+19:54:55: opening short
+19:54:55: 1.0025 0.9965999999999999 1000 352.43179700401265
+19:54:55: closing short, total profit: 352.43179700401265
+19:54:55: opening long
+19:54:55: 0.9966999999999999 1.002 1000 352.43179700401265
+19:54:55: closing long, total profit: 356.894821934126
+19:54:55: opening short
+19:54:55: 1.002 0.9970000000000001 1000 360.96550639992824
+19:54:55: closing short, total profit: 360.96550639992824
+19:54:55: opening long
+19:54:55: 0.9970000000000001 1.0027 1000 360.96550639992824
+19:54:55: closing long, total profit: 366.00107877360773
+19:54:55: opening long
+19:54:55: 0.988 1.006 1000 366.00107877360773
+19:54:55: closing long, total profit: 387.8570960339855
+19:54:55: opening short
+19:54:55: 1.014 0.9975 1000 407.98102392647826
+19:54:55: closing short, total profit: 407.98102392647826
+19:54:55: opening long
+19:54:55: 0.9975 1.0032 1000 407.98102392647826
+19:54:55: closing long, total profit: 413.1905537150063
+19:54:55: opening long
+19:54:55: 0.9964999999999999 1.0027 1000 413.1905537150063
+19:54:55: closing long, total profit: 419.12595404060926
+19:54:55: opening short
+19:54:55: 1.0025 0.998 1000 422.6737689257107
+19:54:55: closing short, total profit: 422.6737689257107
+19:54:55: opening long
+19:54:55: 0.9971000000000001 1.0025 1000 422.6737689257107
+19:54:55: closing long, total profit: 427.5108597400579
+19:54:55: opening short
+19:54:55: 1.0025 0.9974000000000001 1000 431.9361434052519
+19:54:55: closing short, total profit: 431.9361434052519
+19:54:55: opening long
+19:54:55: 0.9970000000000001 1.0022 1000 431.9361434052519
+19:54:55: closing long, total profit: 436.51833906414856
+19:54:55: opening short
+19:54:55: 1.0022 0.9978 1000 439.9659830779025
+19:54:55: closing short, total profit: 439.9659830779025
+19:54:55: opening short
+19:54:55: 1.0030000000000001 0.9979 1000 444.42987762544413
+19:54:55: closing short, total profit: 444.42987762544413
+19:54:55: opening long
+19:54:55: 0.9970000000000001 1.0034999999999998 1000 444.42987762544413
+19:54:55: closing long, total profit: 450.9298120747582
+19:54:55: opening short
+19:54:55: 1.0029 0.9975 1000 455.8629734358122
+19:54:55: closing short, total profit: 455.8629734358122
+19:54:55: opening short
+19:54:55: 1.0078 0.9976 1000 467.8010498179858
+19:54:55: closing short, total profit: 467.8010498179858
+19:54:55: opening long
+19:54:55: 0.9970000000000001 1.002 1000 467.8010498179858
+19:54:55: closing long, total profit: 472.20445296743964
+19:54:55: opening short
+19:54:55: 1.0036 0.9979 1000 477.6516094434192
+19:54:55: closing short, total profit: 477.6516094434192
+19:54:55: opening long
+19:54:55: 0.998 1.002 1000 477.6516094434192
+19:54:55: closing long, total profit: 480.60691266230606
+19:54:55: opening short
+19:54:55: 1.0045 0.998 1000 487.26964376928635
+19:54:55: closing short, total profit: 487.26964376928635
+19:54:55: opening long
+19:54:55: 0.9978 1.0026000000000002 1000 487.26964376928635
+19:54:55: closing long, total profit: 491.43399877184055
+19:54:55: opening short
+19:54:56: 1.002 0.9964 1000 496.80316116741926
+19:54:56: closing short, total profit: 496.80316116741926
+19:54:56: opening long
+19:54:56: 0.9964 1.0022 1000 496.80316116741926
+19:54:56: closing long, total profit: 502.4910131798555
+19:54:56: opening short
+19:54:56: 1.0026000000000002 0.998 1000 506.39748981412333
+19:54:56: closing short, total profit: 506.39748981412333
+19:54:56: opening long
+19:54:56: 0.9979 1.002 1000 506.39748981412333
+19:54:56: closing long, total profit: 509.560924542733
+19:54:56: opening short
+19:54:56: 1.0025 0.9955 1000 517.1087291654466
+19:54:56: closing short, total profit: 517.1087291654466
+19:54:56: opening long
+19:54:56: 0.9979 1.002 1000 517.1087291654466
+19:54:56: closing long, total profit: 520.294657496694
+19:54:56: opening short
+19:54:56: 1.0029 0.998 1000 524.7035120034342
+19:54:56: closing short, total profit: 524.7035120034342
+19:54:56: opening long
+19:54:56: 0.998 1.0023 1000 524.7035120034342
+19:54:56: closing long, total profit: 528.210330081042
+19:54:56: opening short
+19:54:56: 1.002 0.9975 1000 532.0308559062445
+19:54:56: closing short, total profit: 532.0308559062445
+19:54:56: opening long
+19:54:56: 0.9974000000000001 1.0027 1000 532.0308559062445
+19:54:56: closing long, total profit: 537.0865577307349
+19:54:56: opening short
+19:54:56: 1.0026000000000002 0.9973000000000001 1000 542.1589433712464
+19:54:56: closing short, total profit: 542.1589433712464
+19:54:56: opening long
+19:54:56: 0.9974000000000001 1.002 1000 542.1589433712464
+19:54:56: closing long, total profit: 546.1685566240116
+19:54:56: opening short
+19:54:56: 1.0023 0.9975 1000 550.4978285825587
+19:54:56: closing short, total profit: 550.4978285825587
+19:54:56: opening long
+19:54:56: 0.9973000000000001 1.0022 1000 550.4978285825587
+19:54:56: closing long, total profit: 554.9942722854479
+19:54:56: opening short
+19:54:56: 1.002 0.998 1000 558.1042608300188
+19:54:56: closing short, total profit: 558.1042608300188
+19:54:56: opening long
+19:54:56: 0.998 1.0034999999999998 1000 558.1042608300188
+19:54:56: closing long, total profit: 563.5576257429236
+19:54:56: opening short
+19:54:56: 1.0023 0.9975 1000 567.9355870950037
+19:54:56: closing short, total profit: 567.9355870950037
+19:54:56: opening long
+19:54:56: 0.9973000000000001 1.0026000000000002 1000 567.9355870950037
+19:54:56: closing long, total profit: 573.1097745324173
+19:54:56: opening short
+19:54:56: 1.002 0.998 1000 576.2559940814822
+19:54:56: closing short, total profit: 576.2559940814822
+19:54:56: opening long
+19:54:56: 0.9950000000000001 1.0025 1000 576.2559940814822
+19:54:56: closing long, total profit: 584.9254020489301
+19:54:56: opening short
+19:54:56: 1.0025 0.998 1000 588.8877155540523
+19:54:56: closing short, total profit: 588.8877155540523
+19:54:56: opening long
+19:54:56: 0.9979 1.0022 1000 588.8877155540523
+19:54:56: closing long, total profit: 592.5421572998266
+19:54:56: opening short
+19:54:56: 1.0021 0.998 1000 595.8864958301563
+19:54:56: closing short, total profit: 595.8864958301563
+19:54:56: opening long
+19:54:56: 0.9970000000000001 1.002 1000 595.8864958301563
+19:54:56: closing long, total profit: 600.6741553176465
+19:54:56: opening short
+19:54:56: 1.0024 0.9974000000000001 1000 605.4761777835993
+19:54:56: closing short, total profit: 605.4761777835993
+19:54:56: opening long
+19:54:56: 0.998 1.002 1000 605.4761777835993
+19:54:56: closing long, total profit: 608.6871301391665
+19:54:56: opening short
+19:54:56: 1.0021 0.9978 1000 612.3871105384865
+19:54:56: closing short, total profit: 612.3871105384865
+19:54:56: opening long
+19:54:56: 0.9964 1.002 1000 612.3871105384865
+19:54:56: closing long, total profit: 618.1917041364251
+19:54:56: opening short
+19:54:56: 1.0021 0.9978 1000 621.9135450559388
+19:54:56: closing short, total profit: 621.9135450559388
+19:54:56: opening long
+19:54:56: 0.9978 1.0025 1000 621.9135450559388
+19:54:56: closing long, total profit: 626.2927116275897
+19:54:56: opening short
+19:54:56: 1.0025 0.9976 1000 631.0089604913096
+19:54:56: closing short, total profit: 631.0089604913096
+19:54:56: opening long
+19:54:56: 0.9972000000000001 1.0023 1000 631.0089604913096
+19:54:56: closing long, total profit: 636.0650882688325
+19:54:56: opening short
+19:54:56: 1.0028000000000001 0.9976 1000 641.3004965512929
+19:54:56: closing short, total profit: 641.3004965512929
+19:54:56: opening long
+19:54:56: 0.998 1.0027 1000 641.3004965512929
+19:54:56: closing long, total profit: 645.7320078919813
+19:54:56: opening short
+19:54:56: 1.0029 0.9976 1000 651.1629235180246
+19:54:56: closing short, total profit: 651.1629235180246
+19:54:56: opening long
+19:54:56: 0.9972000000000001 1.0025 1000 651.1629235180246
+19:54:56: closing long, total profit: 656.6117611656339
+19:54:56: opening short
+19:54:56: 1.0022 0.998 1000 660.2563070401983
+19:54:56: closing short, total profit: 660.2563070401983
+19:54:56: opening long
+19:54:56: 0.998 1.002 1000 660.2563070401983
+19:54:56: closing long, total profit: 663.5768196542787
+19:54:56: opening short
+19:54:57: 1.002 0.998 1000 666.9039732935872
+19:54:57: closing short, total profit: 666.9039732935872
+19:54:57: opening long
+19:54:57: 0.998 1.0026000000000002 1000 666.9039732935872
+19:54:57: closing long, total profit: 671.2379236241508
+19:54:57: opening short
+19:54:57: 1.0027 0.99 1000 689.1201694069291
+19:54:57: closing short, total profit: 689.1201694069291
+19:54:57: opening long
+19:54:58: 0.986 1.002 1000 689.1201694069291
+19:54:58: closing long, total profit: 712.7678517786261
+19:54:58: opening short
+19:54:58: 1.0030000000000001 0.998 1000 717.9061553339621
+19:54:58: closing short, total profit: 717.9061553339621
+19:54:58: opening short
+19:54:58: 1.0026000000000002 0.9975 1000 723.2316644154976
+19:54:58: closing short, total profit: 723.2316644154976
+19:54:58: opening short
+19:54:58: 1.002 0.998 1000 726.6781277443285
+19:54:58: closing short, total profit: 726.6781277443285
+19:54:58: opening long
+19:54:58: 0.998 1.002 1000 726.6781277443285
+19:54:58: closing long, total profit: 730.1314839998172
+19:54:58: opening long
+19:54:58: 0.9979 1.002 1000 730.1314839998172
+19:54:58: closing long, total profit: 733.7647601162168
+19:54:58: opening long
+19:54:58: 0.9976 1.002 1000 733.7647601162168
+19:54:58: closing long, total profit: 737.9257955404958
+19:54:58: opening short
+19:54:58: 1.002 0.9978 1000 741.7492322906849
+19:54:58: closing short, total profit: 741.7492322906849
+19:54:58: opening long
+19:54:58: 0.9978 1.0026000000000002 1000 741.7492322906849
+19:54:58: closing long, total profit: 746.626130141099
+19:54:58: opening short
+19:54:58: 1.0026000000000002 0.998 1000 751.1673580794661
+19:54:58: closing short, total profit: 751.1673580794661
+19:54:58: opening long
+19:54:58: 0.9978 1.0030999999999999 1000 751.1673580794661
+19:54:58: closing long, total profit: 756.9462103611281
+19:54:58: opening long
+19:54:58: 0.9958 1.0027 1000 756.9462103611281
+19:54:58: closing long, total profit: 765.5552467918975
+19:54:58: opening short
+19:54:58: 1.0030000000000001 0.9959 1000 774.5595785505363
+19:54:58: closing short, total profit: 774.5595785505363
+19:54:58: opening long
+19:54:58: 0.9944 1.0026000000000002 1000 774.5595785505363
+19:54:58: closing long, total profit: 785.56184793755
+19:54:58: opening short
+19:54:58: 1.0027 0.9937 1000 798.0607808731128
+19:54:58: closing short, total profit: 798.0607808731128
+19:54:58: opening long
+19:54:58: 0.9967999999999999 1.0025 1000 798.0607808731128
+19:54:58: closing long, total profit: 804.7136057623434
+19:54:58: opening short
+19:54:58: 1.0027 0.998 1000 809.5863324979016
+19:54:58: closing short, total profit: 809.5863324979016
+19:54:58: opening long
+19:54:58: 0.998 1.002 1000 809.5863324979016
+19:54:58: closing long, total profit: 813.2055051628975
+19:54:58: opening short
+19:54:58: 1.002 0.998 1000 816.8319161732232
+19:54:58: closing short, total profit: 816.8319161732232
+19:54:58: opening long
+19:54:58: 0.998 1.0022 1000 816.8319161732232
+19:54:58: closing long, total profit: 820.8289463888043
+19:54:58: opening short
+19:54:58: 1.0022 0.9973000000000001 1000 826.1093503333317
+19:54:58: closing short, total profit: 826.1093503333317
+19:54:58: opening long
+19:54:58: 0.9973000000000001 1.002 1000 826.1093503333317
+19:54:58: closing long, total profit: 831.0398455792315
+19:54:58: opening short
+19:54:58: 1.002 0.998 1000 834.70192527039
+19:54:58: closing short, total profit: 834.70192527039
+19:54:58: opening long
+19:54:58: 0.9978 1.002 1000 834.70192527039
+19:54:58: closing long, total profit: 838.7382695059848
+19:54:58: opening short
+19:54:58: 1.002 0.998 1000 842.4157460449968
+19:54:58: closing short, total profit: 842.4157460449968
+19:54:58: opening long
+19:54:58: 0.998 1.0032 1000 842.4157460449968
+19:54:58: closing long, total profit: 848.311476432341
+19:54:58: opening short
+19:54:58: 1.0034 0.9979 1000 854.7805665998543
+19:54:58: closing short, total profit: 854.7805665998543
+19:54:58: opening long
+19:54:59: 0.9979 1.002 1000 854.7805665998543
+19:54:59: closing long, total profit: 858.6756057897139
+19:54:59: opening short
+19:54:59: 1.002 0.998 1000 862.3929570012933
+19:54:59: closing short, total profit: 862.3929570012933
+19:54:59: opening long
+19:54:59: 0.998 1.002 1000 862.3929570012933
+19:54:59: closing long, total profit: 866.1177429152959
+19:54:59: opening short
+19:54:59: 1.0021 0.9977 1000 870.5964254982925
+19:54:59: closing short, total profit: 870.5964254982925
+19:54:59: opening long
+19:54:59: 0.998 1.0030000000000001 1000 870.5964254982925
+19:54:59: closing long, total profit: 876.2082147747876
+19:54:59: opening short
+19:54:59: 1.0027 0.9979 1000 881.4615977761569
+19:54:59: closing short, total profit: 881.4615977761569
+19:54:59: opening long
+19:54:59: 0.9977 1.0047000000000001 1000 881.4615977761569
+19:54:59: closing long, total profit: 890.8689057650379
+19:54:59: opening short
+19:54:59: 1.0023 0.9976 1000 895.9742518106034
+19:54:59: closing short, total profit: 895.9742518106034
+19:54:59: opening long
+19:54:59: 0.9972000000000001 1.005 1000 895.9742518106034
+19:54:59: closing long, total profit: 906.9709024711045
+19:54:59: opening short
+19:54:59: 1.006 0.9977 1000 918.9848191566724
+19:54:59: closing short, total profit: 918.9848191566724
+19:54:59: opening long
+19:54:59: 0.9979 1.0022 1000 918.9848191566724
+19:54:59: closing long, total profit: 923.3984842407327
+19:54:59: opening short
+19:54:59: 1.0024 0.9975 1000 928.9763398450307
+19:54:59: closing short, total profit: 928.9763398450307
+19:54:59: opening long
+19:54:59: 0.9973000000000001 1.002 1000 928.9763398450307
+19:54:59: closing long, total profit: 934.1845759626121
+19:54:59: opening long
+19:54:59: 0.998 1.002 1000 934.1845759626121
+19:54:59: closing long, total profit: 938.0529451145374
+19:54:59: opening short
+19:54:59: 1.002 0.998 1000 941.9290510047664
+19:54:59: closing short, total profit: 941.9290510047664
+19:54:59: opening long
+19:54:59: 0.9975 1.0024 1000 941.9290510047664
+19:54:59: closing long, total profit: 947.56064525268
+19:54:59: opening short
+19:54:59: 1.0025 0.998 1000 952.4295468658116
+19:54:59: closing short, total profit: 952.4295468658116
+19:54:59: opening long
+19:54:59: 0.998 1.002 1000 952.4295468658116
+19:54:59: closing long, total profit: 956.3344059595432
+19:54:59: opening short
+19:54:59: 1.002 0.998 1000 960.2470747714623
+19:54:59: closing short, total profit: 960.2470747714623
+19:54:59: opening long
+19:54:59: 0.9978 1.002 1000 960.2470747714623
+19:54:59: closing long, total profit: 964.5596183359595
+19:54:59: opening short
+19:54:59: 1.002 0.998 1000 968.4887375726314
+19:54:59: closing short, total profit: 968.4887375726314
+19:54:59: opening short
+19:54:59: 1.002 0.9971000000000001 1000 974.1973549115919
+19:54:59: closing short, total profit: 974.1973549115919
+19:54:59: opening long
+19:54:59: 0.9970000000000001 1.0023 1000 974.1973549115919
+19:54:59: closing long, total profit: 980.7122061827998
+19:54:59: opening short
+19:54:59: 1.0023 0.9978 1000 985.6639866982567
+19:54:59: closing short, total profit: 985.6639866982567
+19:54:59: opening long
+19:54:59: 0.9977 1.0024 1000 985.6639866982567
+19:54:59: closing long, total profit: 991.0252794623419
+19:54:59: opening short
+19:54:59: 1.0026000000000002 0.998 1000 996.2019451889444
+19:54:59: closing short, total profit: 996.2019451889444
+19:54:59: opening long
+19:54:59: 0.998 1.0025 1000 996.2019451889444
+19:54:59: closing long, total profit: 1001.1924500519166
+19:54:59: opening short
+19:54:59: 1.0025 0.9978 1000 1006.5956696670567
+19:54:59: closing short, total profit: 1006.5956696670567
+19:54:59: opening long
+19:55:00: 0.9971000000000001 1.0021 1000 1006.5956696670567
+19:55:00: closing long, total profit: 1012.6154566760576
+19:55:00: opening short
+19:55:00: 1.0021 0.9974000000000001 1000 1018.0495184090829
+19:55:00: closing short, total profit: 1018.0495184090829
+19:55:00: opening long
+19:55:00: 0.9979 1.002 1000 1018.0495184090829
+19:55:00: closing long, total profit: 1022.2874223977419
+19:55:00: opening short
+19:55:00: 1.002 0.9979 1000 1026.534225984777
+19:55:00: closing short, total profit: 1026.534225984777
+19:55:00: opening short
+19:55:00: 1.0021 0.998 1000 1030.7899478593451
+19:55:00: closing short, total profit: 1030.7899478593451
+19:55:00: opening long
+19:55:00: 0.9979 1.002 1000 1030.7899478593451
+19:55:00: closing long, total profit: 1035.0546067498497
+19:55:00: opening short
+19:55:00: 1.002 0.9975 1000 1040.142243266724
+19:55:00: closing short, total profit: 1040.142243266724
+19:55:00: opening long
+19:55:00: 0.9974000000000001 1.002 1000 1040.142243266724
+19:55:00: closing long, total profit: 1045.4466130992175
+19:55:00: opening long
+19:55:00: 0.9977 1.002 1000 1045.4466130992175
+19:55:00: closing long, total profit: 1050.1511403093457
+19:55:00: opening short
+19:55:00: 1.002 0.998 1000 1054.2514425899644
+19:55:00: closing short, total profit: 1054.2514425899644
+19:55:00: opening long
+19:55:00: 0.998 1.002 1000 1054.2514425899644
+19:55:00: closing long, total profit: 1058.3599454751443
+19:55:00: opening short
+19:55:00: 1.002 0.9979 1000 1062.6825013606422
+19:55:00: closing short, total profit: 1062.6825013606422
+19:55:00: opening long
+19:55:00: 0.9978 1.002 1000 1062.6825013606422
+19:55:00: closing long, total profit: 1067.2204028636356
+19:55:00: opening short
+19:55:01: 1.002 0.998 1000 1071.354843669363
+19:55:01: closing short, total profit: 1071.354843669363
+19:55:01: opening long
+19:55:01: 0.998 1.002 1000 1071.354843669363
+19:55:01: closing long, total profit: 1075.4975533567017
+19:55:01: opening short
+19:55:01: 1.002 0.998 1000 1079.6485484634152
+19:55:01: closing short, total profit: 1079.6485484634152
+19:55:01: opening long
+19:55:01: 0.9975 1.002 1000 1079.6485484634152
+19:55:01: closing long, total profit: 1084.8476698345737
+19:55:01: opening short
+19:55:02: 1.002 0.9966999999999999 1000 1091.727667145028
+19:55:02: closing short, total profit: 1091.727667145028
+19:55:02: opening long
+19:55:02: 0.9964999999999999 1.0021 1000 1091.727667145028
+19:55:02: closing long, total profit: 1099.25788674675
+19:55:02: opening short
+19:55:02: 1.0021 0.998 1000 1103.6663283089183
+19:55:02: closing short, total profit: 1103.6663283089183
+19:55:02: opening long
+19:55:03: 0.9979 1.0026000000000002 1000 1103.6663283089183
+19:55:03: closing long, total profit: 1109.3462273953528
+19:55:03: opening short
+19:55:03: 1.0029 0.998 1000 1115.4633314547991
+19:55:03: closing short, total profit: 1115.4633314547991
+19:55:03: opening long
+19:55:03: 0.998 1.002 1000 1115.4633314547991
+19:55:03: closing long, total profit: 1119.6942581177086
+19:55:03: opening short
+19:55:03: 1.002 0.998 1000 1123.9336466339441
+19:55:03: closing short, total profit: 1123.9336466339441
+19:55:03: opening long
+19:55:03: 0.9972000000000001 1.002 1000 1123.9336466339441
+19:55:03: closing long, total profit: 1129.880660844519
+19:55:03: opening short
+19:55:03: 1.0021 0.998 1000 1134.3534102322926
+19:55:03: closing short, total profit: 1134.3534102322926
+19:55:03: opening long
+19:55:03: 0.998 1.0021 1000 1134.3534102322926
+19:55:03: closing long, total profit: 1138.8355523937805
+19:55:03: opening long
+19:55:03: 0.9977 1.002 1000 1138.8355523937805
+19:55:03: closing long, total profit: 1143.754874164286
+19:55:03: opening short
+19:55:03: 1.002 0.998 1000 1148.0423839126147
+19:55:03: closing short, total profit: 1148.0423839126147
+19:55:03: opening long
+19:55:03: 0.998 1.002 1000 1148.0423839126147
+19:55:03: closing long, total profit: 1152.33846868044
+19:55:03: opening short
+19:55:03: 1.002 0.9979 1000 1156.8583794646688
+19:55:03: closing short, total profit: 1156.8583794646688
+19:55:03: opening long
+19:55:03: 0.9977 1.002 1000 1156.8583794646688
+19:55:03: closing long, total profit: 1161.8191537374375
+19:55:03: opening short
+19:55:03: 1.0023 0.9976 1000 1167.6560654525285
+19:55:03: closing short, total profit: 1167.6560654525285
+19:55:03: opening long
+19:55:03: 0.9971000000000001 1.002 1000 1167.6560654525285
+19:55:03: closing long, total profit: 1173.9422680423406
+19:55:03: opening short
+19:55:03: 1.002 0.998 1000 1178.2901525784252
+19:55:03: closing short, total profit: 1178.2901525784252
+19:55:03: opening long
+19:55:04: 0.9979 1.0029 1000 1178.2901525784252
+19:55:04: closing long, total profit: 1184.8250230361602
+19:55:04: opening short
+19:55:04: 1.0028000000000001 0.9977 1000 1191.5979806075725
+19:55:04: closing short, total profit: 1191.5979806075725
+19:55:04: opening long
+19:55:07: 0.9976 1.002 1000 1191.5979806075725
+19:55:07: closing long, total profit: 1196.8578157610307
+19:55:07: opening short
+19:55:07: 1.002 0.998 1000 1201.2515313925528
+19:55:07: closing short, total profit: 1201.2515313925528
+19:55:07: opening long
+19:55:07: 0.998 1.002 1000 1201.2515313925528
+19:55:07: closing long, total profit: 1205.654034455338
+19:55:07: opening short
+19:55:07: 1.002 0.998 1000 1210.0653425242488
+19:55:07: closing short, total profit: 1210.0653425242488
+19:55:07: opening short
+19:55:14: 1.0022 0.998 1000 1214.927486277802
+19:55:14: closing short, total profit: 1214.927486277802
+19:55:14: opening long
+19:55:14: 0.998 1.002 1000 1214.927486277802
+19:55:14: closing long, total profit: 1219.3573412503576
+19:55:14: opening short
+19:55:14: 1.0021 0.99 1000 1241.7728503969863
+19:55:14: closing short, total profit: 1241.7728503969863
+19:55:14: opening long
+19:55:14: 0.99 1.0030000000000001 1000 1241.7728503969863
+19:55:14: closing long, total profit: 1266.4323517513535
+19:55:14: opening long
+19:55:18: 0.9862 1.002 1000 1266.4323517513535
+19:55:18: closing long, total profit: 1297.7091182055224
+19:55:18: opening short
+19:55:20: 1.002 0.998 1000 1302.3045364419334
+19:55:20: closing short, total profit: 1302.3045364419334
+19:55:20: opening long
+19:55:20: 0.998 1.0022 1000 1302.3045364419334
+19:55:20: closing long, total profit: 1307.3696064221056
+19:55:20: opening short
+19:55:20: 1.0022 0.998 1000 1312.4458195562343
+19:55:20: closing short, total profit: 1312.4458195562343
+19:55:20: opening long
+19:55:20: 0.998 1.002 1000 1312.4458195562343
+19:55:20: closing long, total profit: 1317.0707111953468
+19:55:20: opening short
+19:55:20: 1.002 0.9979 1000 1321.936559688857
+19:55:20: closing short, total profit: 1321.936559688857
+19:55:20: opening long
+19:55:20: 0.9977 1.002 1000 1321.936559688857
+19:55:20: closing long, total profit: 1327.2770137761413
+19:55:20: opening short
+19:55:20: 1.002 0.9978 1000 1332.3970232064487
+19:55:20: closing short, total profit: 1332.3970232064487
+19:55:20: opening long
+19:55:20: 0.9976 1.002 1000 1332.3970232064487
+19:55:20: closing long, total profit: 1337.9947760621442
+19:55:20: opening short
+19:55:20: 1.002 0.9979 1000 1342.9045650918747
+19:55:20: closing short, total profit: 1342.9045650918747
+19:55:20: opening long
+19:55:20: 0.9978 1.0022 1000 1342.9045650918747
+19:55:20: closing long, total profit: 1348.527536048095
+19:55:20: opening short
+19:55:20: 1.0021 0.9978 1000 1353.9291493810056
+19:55:20: closing short, total profit: 1353.9291493810056
+19:55:20: opening short
+19:55:20: 1.0022 0.998 1000 1359.1077935096437
+19:55:20: closing short, total profit: 1359.1077935096437
+19:55:20: opening long
+19:55:21: 0.998 1.0025 1000 1359.1077935096437
+19:55:21: closing long, total profit: 1365.0055629934177
+19:55:21: opening long
+19:55:21: 0.9943 1.0032999999999999 1000 1365.0055629934177
+19:55:21: closing long, total profit: 1381.5606019343713
+19:55:21: opening short
+19:55:21: 1.0032999999999999 0.9958 1000 1394.65918524501
+19:55:21: closing short, total profit: 1394.65918524501
+19:55:21: opening long
+19:55:21: 0.9958 1.0028000000000001 1000 1394.65918524501
+19:55:21: closing long, total profit: 1406.6324811712352
+19:55:21: opening short
+19:55:21: 1.0028000000000001 0.9967999999999999 1000 1416.2590110959206
+19:55:21: closing short, total profit: 1416.2590110959206
+19:55:21: opening long
+19:55:21: 0.9967999999999999 1.0026000000000002 1000 1416.2590110959206
+19:55:21: closing long, total profit: 1425.4407953380858
+19:55:21: opening short
+19:55:21: 1.0026000000000002 0.9967999999999999 1000 1434.657470360371
+19:55:21: closing short, total profit: 1434.657470360371
+19:55:21: opening long
+19:55:21: 0.9967999999999999 1.0021 1000 1434.657470360371
+19:55:21: closing long, total profit: 1442.6918400125605
+19:55:21: opening short
+19:55:21: 1.0023 0.9975 1000 1449.5313771645956
+19:55:21: closing short, total profit: 1449.5313771645956
+19:55:21: opening short
+19:55:21: 1.0027 0.998 1000 1456.1451118829398
+19:55:21: closing short, total profit: 1456.1451118829398
+19:55:21: opening long
+19:55:22: 0.998 1.002 1000 1456.1451118829398
+19:55:22: closing long, total profit: 1461.0574021067057
+19:55:22: opening short
+19:55:22: 1.002 0.998 1000 1465.979516910919
+19:55:22: closing short, total profit: 1465.979516910919
+19:55:22: opening long
+19:55:23: 0.998 1.0022 1000 1465.979516910919
+19:55:23: closing long, total profit: 1471.4046718481231
+19:55:23: opening short
+19:55:23: 1.0022 0.998 1000 1476.841762126189
+19:55:23: closing short, total profit: 1476.841762126189
+19:55:23: opening long
+19:55:23: 0.998 1.002 1000 1476.841762126189
+19:55:23: closing long, total profit: 1481.7954456504415
+19:55:23: opening short
+19:55:23: 1.002 0.998 1000 1486.7590365417423
+19:55:23: closing short, total profit: 1486.7590365417423
+19:55:23: opening long
+19:55:23: 0.998 1.002 1000 1486.7590365417423
+19:55:23: closing long, total profit: 1491.7325546148259
+19:55:23: opening short
+19:55:24: 1.002 0.998 1000 1496.7160197240555
+19:55:24: closing short, total profit: 1496.7160197240555
+19:55:24: opening long
+19:55:24: 0.998 1.002 1000 1496.7160197240555
+19:55:24: closing long, total profit: 1501.7094517635037
+19:55:24: opening short
+19:55:24: 1.002 0.998 1000 1506.7128706670308
+19:55:24: closing short, total profit: 1506.7128706670308
+19:55:24: opening long
+19:55:24: 0.998 1.002 1000 1506.7128706670308
+19:55:24: closing long, total profit: 1511.7262964083648
+19:55:24: opening short
+19:55:24: 1.002 0.998 1000 1516.7497490011815
+19:55:24: closing short, total profit: 1516.7497490011815
+19:55:24: opening long
+19:55:27: 0.998 1.002 1000 1516.7497490011815
+19:55:27: closing long, total profit: 1521.7832484991839
+19:55:27: opening short
+19:55:27: 1.002 0.998 1000 1526.8268149961823
+19:55:27: closing short, total profit: 1526.8268149961823
+19:55:27: opening long
+19:55:28: 0.9979 1.0022 1000 1526.8268149961823
+19:55:28: closing long, total profit: 1532.6385166706734
+19:55:28: opening short
+19:55:28: 1.0022 0.998 1000 1538.2103214073488
+19:55:28: closing short, total profit: 1538.2103214073488
+19:55:28: opening long
+19:55:31: 0.998 1.002 1000 1538.2103214073488
+19:55:31: closing long, total profit: 1543.2867420501636
+19:55:31: opening short
+19:55:31: 1.002 0.998 1000 1548.373315534264
+19:55:31: closing short, total profit: 1548.373315534264
+19:55:31: opening long
+19:55:31: 0.9979 1.0047000000000001 1000 1548.373315534264
+19:55:31: closing long, total profit: 1560.6055074488288
+19:55:31: opening short
+19:55:34: 1.0047000000000001 0.998 1000 1572.6403533338387
+19:55:34: closing short, total profit: 1572.6403533338387
+19:55:34: opening long
+19:55:34: 0.998 1.002 1000 1572.6403533338387
+19:55:34: closing long, total profit: 1577.7856340405065
+19:55:34: opening short
+19:55:34: 1.0023 0.9978 1000 1584.2300981256076
+19:55:34: closing short, total profit: 1584.2300981256076
+19:55:34: opening long
+19:55:34: 0.9978 1.0021 1000 1584.2300981256076
+19:55:34: closing long, total profit: 1590.1738273512965
+19:55:34: opening short
+19:55:34: 1.0021 0.998 1000 1595.6131923887342
+19:55:34: closing short, total profit: 1595.6131923887342
+19:55:34: opening long
+19:55:35: 0.998 1.002 1000 1595.6131923887342
+19:55:35: closing long, total profit: 1600.8044187735118
+19:55:35: opening short
+19:55:35: 1.002 0.998 1000 1606.0060276110587
+19:55:35: closing short, total profit: 1606.0060276110587
+19:55:35: opening long
+19:55:35: 0.998 1.002 1000 1606.0060276110587
+19:55:35: closing long, total profit: 1611.218039666281
+19:55:35: opening short
+19:55:35: 1.002 0.998 1000 1616.4404757456134
+19:55:35: closing short, total profit: 1616.4404757456134
+19:55:35: opening long
+19:55:35: 0.998 1.002 1000 1616.4404757456134
+19:55:35: closing long, total profit: 1621.6733566971047
+19:55:35: opening short
+19:55:35: 1.002 0.998 1000 1626.916703410499
+19:55:35: closing short, total profit: 1626.916703410499
+19:55:35: opening long
+19:55:35: 0.998 1.002 1000 1626.916703410499
+19:55:35: closing long, total profit: 1632.17053681732
+19:55:35: opening short
+19:55:35: 1.002 0.998 1000 1637.4348778909546
+19:55:35: closing short, total profit: 1637.4348778909546
+19:55:35: opening long
+19:55:35: 0.998 1.002 1000 1637.4348778909546
+19:55:35: closing long, total profit: 1642.7097476467366
+19:55:35: opening short
+19:55:35: 1.002 0.998 1000 1647.9951671420301
+19:55:35: closing short, total profit: 1647.9951671420301
+19:55:35: opening long
+19:55:35: 0.998 1.002 1000 1647.9951671420301
+19:55:35: closing long, total profit: 1653.2911574763143
+19:55:35: opening short
+19:55:35: 1.002 0.998 1000 1658.597739791267
+19:55:35: closing short, total profit: 1658.597739791267
+19:55:35: opening long
+19:55:36: 0.998 1.002 1000 1658.597739791267
+19:55:36: closing long, total profit: 1663.9149352708496
+19:55:36: opening short
+19:55:36: 1.002 0.998 1000 1669.2427651413914
+19:55:36: closing short, total profit: 1669.2427651413914
+19:55:36: opening long
+19:55:36: 0.998 1.002 1000 1669.2427651413914
+19:55:36: closing long, total profit: 1674.581250671674
+19:55:36: opening short
+19:55:36: 1.002 0.998 1000 1679.9304131730173
+19:55:36: closing short, total profit: 1679.9304131730173
+19:55:36: opening long
+19:55:36: 0.998 1.002 1000 1679.9304131730173
+19:55:36: closing long, total profit: 1685.2902739993633
+19:55:36: opening short
+19:55:36: 1.0029 0.998 1000 1693.0776157939613
+19:55:36: closing short, total profit: 1693.0776157939613
+19:55:36: opening long
+19:55:36: 0.998 1.002 1000 1693.0776157939613
+19:55:36: closing long, total profit: 1698.4637710255492
+19:55:36: opening short
+19:55:36: 1.0021 0.9968999999999999 1000 1707.0988550928312
+19:55:36: closing short, total profit: 1707.0988550928312
+19:55:36: opening long
+19:55:36: 0.9975 1.002 1000 1707.0988550928312
+19:55:36: closing long, total profit: 1713.866602230563
+19:55:36: opening short
+19:55:37: 1.002 0.998 1000 1719.2943354350243
+19:55:37: closing short, total profit: 1719.2943354350243
+19:55:37: opening long
+19:55:37: 0.998 1.0021 1000 1719.2943354350243
+19:55:37: closing long, total profit: 1725.0048535394378
+19:55:37: opening long
+19:55:37: 0.9977 1.0021 1000 1725.0048535394378
+19:55:37: closing long, total profit: 1731.5448651879324
+19:55:37: opening short
+19:55:37: 1.0021 0.9979 1000 1737.5542638913457
+19:55:37: closing short, total profit: 1737.5542638913457
+19:55:37: opening long
+19:55:37: 0.9979 1.002 1000 1737.5542638913457
+19:55:37: closing long, total profit: 1743.3031278455176
+19:55:37: opening short
+19:55:38: 1.002 0.998 1000 1748.7897341012085
+19:55:38: closing short, total profit: 1748.7897341012085
+19:55:38: opening long
+19:55:38: 0.9979 1.002 1000 1748.7897341012085
+19:55:38: closing long, total profit: 1754.562192542821
+19:55:38: opening short
+19:55:38: 1.002 0.998 1000 1760.0713169279068
+19:55:38: closing short, total profit: 1760.0713169279068
+19:55:38: opening long
+19:55:38: 0.998 1.002 1000 1760.0713169279068
+19:55:38: closing long, total profit: 1765.5914595617626
+19:55:38: opening short
+19:55:38: 1.002 0.998 1000 1771.122642480886
+19:55:38: closing short, total profit: 1771.122642480886
+19:55:38: opening long
+19:55:39: 0.998 1.002 1000 1771.122642480886
+19:55:39: closing long, total profit: 1776.6648877658479
+19:55:39: opening short
+19:55:39: 1.002 0.998 1000 1782.2182175413795
+19:55:39: closing short, total profit: 1782.2182175413795
+19:55:39: opening long
+19:55:39: 0.998 1.002 1000 1782.2182175413795
+19:55:39: closing long, total profit: 1787.7826539764624
+19:55:39: opening short
+19:55:39: 1.002 0.998 1000 1793.3582192844153
+19:55:39: closing short, total profit: 1793.3582192844153
+19:55:39: opening long
+19:55:39: 0.998 1.002 1000 1793.3582192844153
+19:55:39: closing long, total profit: 1798.9449357229842
+19:55:39: opening short
+19:55:40: 1.002 0.998 1000 1804.54282559443
+19:55:40: closing short, total profit: 1804.54282559443
+19:55:40: opening long
+19:55:41: 0.998 1.002 1000 1804.54282559443
+19:55:41: closing long, total profit: 1810.151911245619
+19:55:41: opening short
+19:55:41: 1.002 0.998 1000 1815.7722150681102
+19:55:41: closing short, total profit: 1815.7722150681102
+19:55:41: opening long
+19:55:46: 0.998 1.002 1000 1815.7722150681102
+19:55:46: closing long, total profit: 1821.4037594982465
+19:55:46: opening short
+19:55:49: 1.002 0.998 1000 1827.046567017243
+19:55:49: closing short, total profit: 1827.046567017243
+19:55:49: opening long
+19:55:49: 0.998 1.002 1000 1827.046567017243
+19:55:49: closing long, total profit: 1832.7006601512774
+19:55:50: opening short
+19:55:54: 1.002 0.998 1000 1838.36606147158
+19:55:54: closing short, total profit: 1838.36606147158
+19:55:54: opening long
+19:55:54: 0.998 1.002 1000 1838.36606147158
+19:55:54: closing long, total profit: 1844.0427935945231
+19:55:54: opening short
+19:56:00: 1.002 0.998 1000 1849.7308791817122
+19:56:00: closing short, total profit: 1849.7308791817122
+19:56:00: opening long
+19:56:06: 0.998 1.002 1000 1849.7308791817122
+19:56:06: closing long, total profit: 1855.4303409400757
+19:56:06: opening short
+19:56:07: 1.002 0.998 1000 1861.1412016219558
+19:56:07: closing short, total profit: 1861.1412016219558
+19:56:07: opening long
+19:56:10: 0.998 1.002 1000 1861.1412016219558
+19:56:10: closing long, total profit: 1866.8634840251998
+19:56:10: opening short
+19:56:10: 1.002 0.998 1000 1872.5972109932502
+19:56:10: closing short, total profit: 1872.5972109932502
+19:56:10: opening long
+19:56:11: 0.998 1.002 1000 1872.5972109932502
+19:56:11: closing long, total profit: 1878.3424054152367
+19:56:11: opening short
+19:56:11: 1.002 0.998 1000 1884.0990902260671
+19:56:11: closing short, total profit: 1884.0990902260671
+19:56:11: opening long
+19:56:11: 0.998 1.002 1000 1884.0990902260671
+19:56:11: closing long, total profit: 1889.8672884065193
+19:56:11: opening short
+19:56:13: 1.002 0.998 1000 1895.6470229833324
+19:56:13: closing short, total profit: 1895.6470229833324
+19:56:13: opening long
+19:56:13: 0.998 1.002 1000 1895.6470229833324
+19:56:13: closing long, total profit: 1901.438317029299
+19:56:13: opening short
+19:56:13: 1.0021 0.998 1000 1907.5313374950606
+19:56:13: closing short, total profit: 1907.5313374950606
+19:56:13: opening long
+19:56:13: 0.998 1.002 1000 1907.5313374950606
+19:56:13: closing long, total profit: 1913.3464001700506
+19:56:13: opening short
+19:56:13: 1.002 0.998 1000 1919.1730929703908
+19:56:13: closing short, total profit: 1919.1730929703908
+19:56:13: opening long
+19:56:15: 0.998 1.002 1000 1919.1730929703908
+19:56:15: closing long, total profit: 1925.0114391563316
+19:56:15: opening short
+19:56:15: 1.002 0.998 1000 1930.8614620346443
+19:56:15: closing short, total profit: 1930.8614620346443
+19:56:15: opening long
+19:56:15: 0.998 1.002 1000 1930.8614620346443
+19:56:15: closing long, total profit: 1936.7231849587135
+19:56:15: opening short
+19:56:15: 1.002 0.998 1000 1942.596631328631
+19:56:15: closing short, total profit: 1942.596631328631
+19:56:15: opening long
+19:56:15: 0.998 1.0025 1000 1942.596631328631
+19:56:15: closing long, total profit: 1949.9531229069526
+19:56:15: opening short
+19:56:15: 1.0025 0.998 1000 1957.32800571422
+19:56:15: closing short, total profit: 1957.32800571422
+19:56:15: opening long
+19:56:17: 0.998 1.002 1000 1957.32800571422
+19:56:17: closing long, total profit: 1963.2426617256483
+19:56:17: opening short
+19:56:18: 1.002 0.998 1000 1969.1691470490996
+19:56:18: closing short, total profit: 1969.1691470490996
+19:56:18: opening long
