@@ -28,7 +28,7 @@ point, but will likely increase profit from strategy.
 TODO: make a class for an open position, would make things simpler overall
 '''
 
-_FEE_ = Decimal(0.001)
+_FEE_ = Decimal(0.002)
 _PROFIT_ = Decimal(0.001)
 
 decimal_precision = 1000000 # 6
@@ -38,6 +38,9 @@ pos = Position('null',-99,-99)
 net = Decimal(0)
 capital = Decimal(1000)
 count = 0
+
+lastbuy = None
+lastsell = None
 
 manager = DbManager()
 manager.connect('kraken.db')
@@ -61,35 +64,43 @@ def margin_check():
     else: return 0
 
 def paper_trade(row):
-    margin = 1-row['price']
-    global openpos,net,pos
+    global openpos,net,pos,lastbuy,lastsell
+    if (row['zscores'] > 3):
+        data_writer(str(row))
+    if (row['buy_or_sell'] == 'b'):
+        lastbuy = row['price']
+    else:
+        lastsell = row['price']
+
+    if (lastbuy is None or lastsell is None):
+        return
     stdsize = Decimal(1000)
     if not openpos:
-        if margin > (_FEE_ + _PROFIT_):
+        if lastbuy-1 > (_FEE_ + _PROFIT_):
             #price above 1 enough,no positions,so enter short
             openpos = True
-            pos = Position('short',1+margin,stdsize)
+            pos = Position('short',lastbuy,stdsize)
             #print('opening short')
             data_writer("opening short")
-        elif margin < (0-(_FEE_+_PROFIT_)):
+        elif lastsell-1 < (0-(_FEE_+_PROFIT_)):
             #price below 1 enough, no positions, so enter long
             openpos = True
-            pos = Position('long',1+margin,stdsize)
+            pos = Position('long',lastsell,stdsize)
             #print('opening long')
             data_writer("opening long")
     if openpos:
-        if margin > (_FEE_ + _PROFIT_) and pos.type == 'long':
+        if lastbuy-1 > (_FEE_ + _PROFIT_) and pos.type == 'long':
             #price above 1 enough, in current long, so close position
             openpos = False
-            pos.close = 1+margin
+            pos.close = lastbuy
             data_writer("{} {} {} {}".format(pos.open, pos.close, capital, net))
             net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
             #print('closing long')
             data_writer("closing long, total profit: {}".format(net))
-        elif margin < (0-(_FEE_ + _PROFIT_)) and openpos and pos.type == 'short':
+        elif lastsell-1 < (0-(_FEE_ + _PROFIT_)) and openpos and pos.type == 'short':
             #price below 1 enough, in current short, so close position
             openpos = False
-            pos.close = 1+margin
+            pos.close = lastsell
             net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
             data_writer("{} {} {} {}".format(pos.open, pos.close, capital, net))
 
