@@ -28,15 +28,15 @@ point, but will likely increase profit from strategy.
 TODO: make a class for an open position, would make things simpler overall
 '''
 
-_FEE_ = 0.001
-_PROFIT_ = 0.001
+_FEE_ = Decimal(0.001)
+_PROFIT_ = Decimal(0.001)
 
 decimal_precision = 1000000 # 6
 
 openpos = False
 pos = Position('null',-99,-99)
-net = 0
-capital = 1000
+net = Decimal(0)
+capital = Decimal(1000)
 count = 0
 
 manager = DbManager()
@@ -63,7 +63,7 @@ def margin_check():
 def paper_trade(row):
     margin = 1-row['price']
     global openpos,net,pos
-    stdsize = 1000
+    stdsize = Decimal(1000)
     if not openpos:
         if margin > (_FEE_ + _PROFIT_):
             #price above 1 enough,no positions,so enter short
@@ -122,14 +122,15 @@ def complete_trade_history():
 
 def main():
     df = manager.query("SELECT * FROM trade_history")
-    df['price'] = df['price'].astype(Decimal)
-    df['volume'] = df['volume'].astype(Decimal)
+    df['price'] = df['price'].apply(Decimal)
+    df['volume'] = df['volume'].apply(Decimal)
     df['price'] /= decimal_precision
     df['volume'] /= decimal_precision
     prices = df['price']
     df['zscores'] = zscore(prices.astype(float))
     #print(df[abs(df['zscores']) > 3])
 
+    print("Starting papertrade")
     for index, row in df.iterrows():
         paper_trade(row)
 
