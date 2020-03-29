@@ -12,6 +12,7 @@ from dbmanager import DbManager
 from scipy.stats import zscore
 import numpy as np
 import pandas as pd
+from datetime import datetime
 
 '''
 Simple Version:
@@ -39,6 +40,8 @@ net = Decimal(0)
 capital = Decimal(1000)
 count = 0
 
+lastdate = None
+
 lastbuy = None
 lastsell = None
 
@@ -51,7 +54,7 @@ def data_writer(data):
     t = time.localtime()
     current_time = time.strftime("%H:%M:%S", t)
     f = open("tetherdata.txt", "a")
-    f.write(current_time + ": "+data+"\n")
+    f.write(data+"\n")
 
 def margin_check():
     bid_ask = c.getBidAsk('USDTZUSD')
@@ -64,7 +67,8 @@ def margin_check():
     else: return 0
 
 def paper_trade(row):
-    global openpos,net,pos,lastbuy,lastsell
+    global openpos,net,pos,lastbuy,lastsell,lastdate
+
     if (row['zscores'] > 3):
         data_writer(str(row))
     if (row['buy_or_sell'] == 'b'):
@@ -93,7 +97,7 @@ def paper_trade(row):
             #price above 1 enough, in current long, so close position
             openpos = False
             pos.close = lastbuy
-            data_writer("{} {} {} {}".format(pos.open, pos.close, capital, net))
+            data_writer("{} {} {} {} {} {}".format(str(row['timestamp'])[0:10], datetime.utcfromtimestamp(int(str(row['timestamp'])[0:10])).strftime('%Y-%m-%d %H:%M:%S'), pos.open, pos.close, capital, net))
             net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
             #print('closing long')
             data_writer("closing long, total profit: {}".format(net))
@@ -102,7 +106,7 @@ def paper_trade(row):
             openpos = False
             pos.close = lastsell
             net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
-            data_writer("{} {} {} {}".format(pos.open, pos.close, capital, net))
+            data_writer("{} {} {} {} {} {}".format(str(row['timestamp'])[0:10], datetime.utcfromtimestamp(int(str(row['timestamp'])[0:10])).strftime('%Y-%m-%d %H:%M:%S'), pos.open, pos.close, capital, net))
 
             #print('closing short')
             data_writer("closing short, total profit: {}".format(net))
@@ -120,6 +124,12 @@ def read_csv():
             else: opens.append(row[1])
     return opens
 
+def fix_timestamp(timestamp):
+    timestamp = str(timestamp).replace(".","")
+    for i in range(0, 14-len(timestamp)):
+        timestamp += "0"
+    return int(timestamp)
+
 def complete_trade_history():
     df = manager.query("SELECT * FROM trade_history WHERE timestamp = (SELECT MAX(timestamp) FROM trade_history);")
     since = df.get('timestamp').iloc[0]
@@ -127,7 +137,7 @@ def complete_trade_history():
     result = c.getHistoricalData("USDTZUSD", since * 100000)
     to_insert = []
     for trade in result:
-        to_insert.append((int(str(trade[2]).replace(".","")), int(Decimal(trade[0])*decimal_precision), int(Decimal(trade[1])*decimal_precision), trade[3], trade[4]))
+        to_insert.append((fix_timestamp(trade[2]), int(Decimal(trade[0])*decimal_precision), int(Decimal(trade[1])*decimal_precision), trade[3], trade[4]))
     manager.insert_many_trade_records(to_insert)
 
 
@@ -142,17 +152,22 @@ def main():
     #print(df[abs(df['zscores']) > 3])
 
     print("Starting papertrade")
+
+    lastlen = 0
+    tether_history_raw = pickle.load(open('HistoricalData.txt', 'rb'))
     for index, row in df.iterrows():
         paper_trade(row)
 
     #complete_trade_history()
-    """to_insert = []
-    for d in tether_history_raw:
-        t = (int(str(d[2]).replace(".","")), d[0], d[1], d[3], d[4])
-        to_insert.append(t)
+    """tether_history_raw = pickle.load(open('HistoricalData.txt', 'rb'))
+    to_insert = []
+    for trade in tether_history_raw:
+        to_insert.append((fix_timestamp(trade[2]), int(Decimal(trade[0])*decimal_precision), int(Decimal(trade[1])*decimal_precision), trade[3], trade[4]))
+
     
     manager.insert_many_trade_records(to_insert)"""
-    """df = manager.query("SELECT * FROM trade_history")
+    """
+    df = manager.query("SELECT * FROM trade_history")
     col = df[['price']].head(1000)
     print(col)
     print(list(col))"""
