@@ -12,6 +12,7 @@ from dbmanager import DbManager
 from scipy.stats import zscore
 import numpy as np
 import pandas as pd
+from datetime import datetime
 
 '''
 Simple Version:
@@ -75,6 +76,7 @@ def paper_trade(row):
     if (lastbuy is None or lastsell is None):
         return
     stdsize = Decimal(1000)
+    time = datetime.utcfromtimestamp(row['timestamp']).strftime('%Y-%m-%d %H:%M:%S')
     if not openpos:
         if lastbuy-1 > (_FEE_ + _PROFIT_):
             #price above 1 enough,no positions,so enter short
@@ -93,7 +95,7 @@ def paper_trade(row):
             #price above 1 enough, in current long, so close position
             openpos = False
             pos.close = lastbuy
-            data_writer("{} {} {} {}".format(pos.open, pos.close, capital, net))
+            data_writer("{} {} {} {} {}\n".format(pos.open, pos.close, capital, net,time))
             net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
             #print('closing long')
             data_writer("closing long, total profit: {}".format(net))
@@ -102,7 +104,7 @@ def paper_trade(row):
             openpos = False
             pos.close = lastsell
             net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
-            data_writer("{} {} {} {}".format(pos.open, pos.close, capital, net))
+            data_writer("{} {} {} {} {}\n".format(pos.open, pos.close, capital, net,time))
 
             #print('closing short')
             data_writer("closing short, total profit: {}".format(net))
@@ -123,7 +125,7 @@ def read_csv():
 def complete_trade_history():
     df = manager.query("SELECT * FROM trade_history WHERE timestamp = (SELECT MAX(timestamp) FROM trade_history);")
     since = df.get('timestamp').iloc[0]
-    # since must be in nanoseconds 
+    # since must be in nanoseconds
     result = c.getHistoricalData("USDTZUSD", since * 100000)
     to_insert = []
     for trade in result:
@@ -150,7 +152,7 @@ def main():
     for d in tether_history_raw:
         t = (int(str(d[2]).replace(".","")), d[0], d[1], d[3], d[4])
         to_insert.append(t)
-    
+
     manager.insert_many_trade_records(to_insert)"""
     """df = manager.query("SELECT * FROM trade_history")
     col = df[['price']].head(1000)
