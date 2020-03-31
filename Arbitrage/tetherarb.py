@@ -7,12 +7,13 @@ from decimal import *
 from pprint import pprint
 from pos_class import Position
 import requests
-import bitmex_and_binance as bin
 from dbmanager import DbManager
 from scipy.stats import zscore
 import numpy as np
 import pandas as pd
 from datetime import datetime
+import ast
+from tqdm import tqdm
 
 '''
 Simple Version:
@@ -29,7 +30,7 @@ point, but will likely increase profit from strategy.
 TODO: make a class for an open position, would make things simpler overall
 '''
 
-_FEE_ = Decimal(0.002)
+_FEE_ = Decimal(0.001)
 _PROFIT_ = Decimal(0.001)
 
 decimal_precision = 1000000 # 6
@@ -69,17 +70,15 @@ def margin_check():
 def paper_trade(row):
     global openpos,net,pos,lastbuy,lastsell,lastdate
 
-    if (row['zscores'] > 3):
-        data_writer(str(row))
-    if (row['buy_or_sell'] == 'b'):
-        lastbuy = row['price']
+    if (row['isBuyerMaker'] == False):
+        lastbuy = Decimal(row['price'])
     else:
-        lastsell = row['price']
+        lastsell = Decimal(row['price'])
 
     if (lastbuy is None or lastsell is None):
         return
     stdsize = Decimal(1000)
-    time = datetime.utcfromtimestamp(row['timestamp']).strftime('%Y-%m-%d %H:%M:%S')
+    #time = datetime.utcfromtimestamp(row['timestamp']).strftime('%Y-%m-%d %H:%M:%S.%f')[:-3]
     if not openpos:
         if lastbuy-1 > (_FEE_ + _PROFIT_):
             #price above 1 enough,no positions,so enter short
@@ -98,7 +97,7 @@ def paper_trade(row):
             #price above 1 enough, in current long, so close position
             openpos = False
             pos.close = lastbuy
-            data_writer("{} {} {} {} {} {}".format(str(row['timestamp'])[0:10], datetime.utcfromtimestamp(int(str(row['timestamp'])[0:10])).strftime('%Y-%m-%d %H:%M:%S'), pos.open, pos.close, capital, net))
+            data_writer("{} {} {} {} {}".format(row['time'], pos.open, pos.close, capital, net))
             net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
             #print('closing long')
             data_writer("closing long, total profit: {}".format(net))
@@ -107,7 +106,7 @@ def paper_trade(row):
             openpos = False
             pos.close = lastsell
             net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
-            data_writer("{} {} {} {} {} {}".format(str(row['timestamp'])[0:10], datetime.utcfromtimestamp(int(str(row['timestamp'])[0:10])).strftime('%Y-%m-%d %H:%M:%S'), pos.open, pos.close, capital, net))
+            data_writer("{} {} {} {} {}".format(row['time'], pos.open, pos.close, capital, net))
 
             #print('closing short')
             data_writer("closing short, total profit: {}".format(net))
@@ -178,7 +177,13 @@ def main():
     #    paper_trade(1-float(d))
     #print(net)
 
+def main1():
+    with open('binance_PAXUSDT.txt','r') as f:
+        for line in tqdm(f,total=3958000):
+            nextline = next(f)[:-1]
+            paper_trade(ast.literal_eval(nextline))
+
 if __name__ == '__main__':
     #data = bin.get_all_binance("PAXUSDT","1m",save = True)
-    main()
+    main1()
     print(net)
