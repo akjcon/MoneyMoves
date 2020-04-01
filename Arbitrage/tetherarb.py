@@ -9,6 +9,10 @@ from dbmanager import DbManager
 from scipy.stats import zscore
 import numpy as np
 import pandas as pd
+from datetime import datetime
+import dateutil.parser as dp
+import json
+import ast
 
 '''
 Simple Version:
@@ -56,82 +60,160 @@ def margin_check():
         return askmargin
     else: return 0
 
-def paper_trade(row):
-    margin = row['price']-1
-    if (abs(row['zscores']) > 3):
-            data_writer("##########################")
-    global openpos,posentry,postype,net
-    if margin > (_FEE_ + _PROFIT_) and not openpos:
-        #price above 1 enough,no positions,so enter short
-        openpos = True
-        posentry = 1+margin
-        postype = 'short'
-        print('opening short')
-        data_writer("opening short")
-    elif margin < (0-(_FEE_+_PROFIT_)) and not openpos:
-        #price below 1 enough, no positions, so enter long
-        openpos = True
-        posentry = 1+margin
-        postype = 'long'
-        print('opening long')
-        data_writer("opening long")
-    elif margin > (_FEE_ + _PROFIT_) and openpos and postype == 'long':
-        #price above 1 enough, in current long, so close position
-        openpos = False
-        tradeprofit = (1+margin) - posentry - 2*_FEE_
-        net += tradeprofit
-        print('closing long')
-        data_writer("closing long ({} --> {}) with profit {}, total profit: {}".format(posentry, 1+margin, tradeprofit, net))
-    elif margin < (0-(_FEE_ + _PROFIT_)) and openpos and postype == 'short':
-        #price below 1 enough, in current short, so close position
-        openpos = False
-        tradeprofit = posentry - (1+margin) - 2*_FEE_
-        net += tradeprofit
-        print('closing short')
-        data_writer("closing short ({} --> {}) with profit {}, total profit: {}".format(posentry, 1+margin, tradeprofit, net))
+    global openpos,net,pos,lastbuy,lastsell,lastdate
+    if (row['zscores'] > 3):
+        data_writer(str(row))
+    if (row['buy_or_sell'] == 'b'):
+        lastbuy = row['price']
     else:
-        i = 3
-    #else: print('not profitable to trade')
+        lastsell = row['price']
 
-def complete_trade_history():
-    df = manager.query("SELECT * FROM trade_history WHERE timestamp = (SELECT MAX(timestamp) FROM trade_history);")
-    since = df.get('timestamp').iloc[0]
+    if (lastbuy is None or lastsell is None):
+        return
+    stdsize = Decimal(1000)
+    if not openpos:
+        if lastbuy-1 > (_FEE_ + _PROFIT_):
+            #price above 1 enough,no positions,so enter short
+            openpos = True
+            pos = Position('short',lastbuy,stdsize)
+            #print('opening short')
+            data_writer("opening short")
+        elif lastsell-1 < (0-(_FEE_+_PROFIT_)):
+            #price below 1 enough, no positions, so enter long
+            openpos = True
+            pos = Position('long',lastsell,stdsize)
+            #print('opening long')
+            data_writer("opening long")
+    if openpos:
+        if lastbuy-1 > (_FEE_ + _PROFIT_) and pos.type == 'long':
+            #price above 1 enough, in current long, so close position
+            openpos = False
+            pos.close = lastbuy
+            data_writer("{} {} {} {} {}".format(row['time'], pos.open, pos.close, capital, net))
+            net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
+            #print('closing long')
+            data_writer("closing long, total profit: {}".format(net))
+        elif lastsell-1 < (0-(_FEE_ + _PROFIT_)) and openpos and pos.type == 'short':
+            #price below 1 enough, in current short, so close position
+            openpos = False
+            pos.close = lastsell
+            net += (abs(pos.open-pos.close)-(2*_FEE_))*(capital+net)
+            data_writer("{} {} {} {} {}".format(row['time'], pos.open, pos.close, capital, net))
+
+            #print('closing short')
+            data_writer("closing short, total profit: {}".format(net))
+
+
+def read_csv():
+    opens = []
+    with open('PAXUSDT-1m-data.csv') as f:
+        csvread = csv.reader(f, delimiter=',')
+        line_count = 0
+        for row in csvread:
+            if line_count == 0:
+                line_count += 1
+                pass
+            else: opens.append(row[1])
+    return opens
+
+def timestamp_as_datetime(timestamp):
+    timestamp_length = len(str(timestamp))
+    if (timestamp_length < 10):
+        print("Timestamp has bad format: {}".format(timestamp))
+    return str(datetime.utcfromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S.%f'))[:-3]
+
+def decimals_to_integers(decimals):
+    precision = 0
+    for d in decimals:
+        significant_digits = -d.as_tuple().exponent
+        if (significant_digits > precision):
+            precision = significant_digits
+    ints = []
+    for d in decimals:
+        ints.append(int(d*pow(10,precision)))
+    return (ints, precision)
+
+def complete_binance_trade_history():
+    f = open('binance_PAXUSDT.txt', 'r')
+    line = f.readline()
+    to_insert = []
+    i = 0
+    while line:
+        d = ast.literal_eval(line)
+        timestamp = timestamp_as_datetime(float(str(d['time'])[:-3] + '.' + str(d['time'])[-3:]))
+        decimals_as_integers = decimals_to_integers([Decimal(d['price']), Decimal(d['qty'])])
+        buy_or_sell = "s" if (d['isBuyerMaker']) else "b"
+        to_insert.append((
+                "PAX",
+                "USDT",
+                "BINANCE",
+                timestamp,
+                decimals_as_integers[0][0],
+                decimals_as_integers[0][1],
+                decimals_as_integers[1],
+                buy_or_sell))
+        i += 1
+        if (i % 10000 == 0):
+            manager.insert_many_trade_records(to_insert)
+            print(i)
+            to_insert = []
+        line = f.readline()
+
+    manager.insert_many_trade_records(to_insert)
+
+def complete_kraken_trade_history():
+    df = manager.query("SELECT * FROM TRADE_HISTORY WHERE time = (SELECT MAX(time) FROM TRADE_HISTORY);")
+    since = dp.parse(df.get('time').iloc[0]).strftime('%s')
     # since must be in nanoseconds 
-    result = c.getHistoricalData("USDTZUSD", since * 100000)
+    result = c.getHistoricalData("USDTZUSD", since * 1000000000)
     to_insert = []
     for trade in result:
-        to_insert.append((int(str(trade[2]).replace(".","")), int(Decimal(trade[0])*decimal_precision), int(Decimal(trade[1])*decimal_precision), trade[3], trade[4]))
+        decimals_as_integers = decimals_to_integers([Decimal(trade[0]), Decimal(trade[1])])
+        to_insert.append((
+                "USDT",                             # base_currency
+                "USD",                              # quote_currency
+                "KRAKEN",                           # exchange
+                timestamp_as_datetime(trade[2]),    # time
+                decimals_as_integers[0][0],         # price
+                decimals_as_integers[0][1],         # volume
+                decimals_as_integers[1],            # precision
+                trade[3]))                          # buy_or_sell
     manager.insert_many_trade_records(to_insert)
 
 
 def main():
-    df = manager.query("SELECT * FROM trade_history")
-    df['price'] = df['price'].astype(Decimal)
-    df['volume'] = df['volume'].astype(Decimal)
-    df['price'] /= decimal_precision
-    df['volume'] /= decimal_precision
+
+    df = manager.query("SELECT time,price,volume,precision,buy_or_sell FROM TRADE_HISTORY WHERE (base_currency='PAX')")
+    df['price'] = df['price'].apply(Decimal)
+    df['volume'] = df['volume'].apply(Decimal)
+    df['price'] /= pow(10, df['precision'])
+    df['volume'] /= pow(10, df['precision'])
     prices = df['price']
     df['zscores'] = zscore(prices.astype(float))
-    print(df[abs(df['zscores']) > 3])
+    #print(df.sort_values(by='zscores'))
 
-    for index, row in df.iterrows():
-        paper_trade(row)
-
-    #complete_trade_history()
-    """to_insert = []
-    for d in tether_history_raw:
-        t = (int(str(d[2]).replace(".","")), d[0], d[1], d[3], d[4])
-        to_insert.append(t)
-    
-    manager.insert_many_trade_records(to_insert)"""
-    """df = manager.query("SELECT * FROM trade_history")
-    col = df[['price']].head(1000)
-    print(col)
-    print(list(col))"""
-
-#    df_zscore = (col - col.mean())/col.std()
+    print("Starting papertrade")
+    print(df)
 
     
+    """
+    to_insert = []
+    for trade in tether_history_raw:
+        decimals_as_integers = decimals_to_integers([Decimal(trade[0]), Decimal(trade[1])])
+        to_insert.append((
+                "USDT",                             # base_currency
+                "USD",                              # quote_currency
+                "KRAKEN",                           # exchange
+                timestamp_as_datetime(trade[2]),    # time
+                decimals_as_integers[0][0],         # price
+                decimals_as_integers[0][1],         # volume
+                decimals_as_integers[1],            # precision
+                trade[3]))                          # buy_or_sell
 
+        to_insert.append((fix_timestamp(trade[2]), int(Decimal(trade[0])*decimal_precision), int(Decimal(trade[1])*decimal_precision), trade[3], trade[4]))
+
+"""
 if __name__ == '__main__':
+    #data = bin.get_all_binance("PAXUSDT","1m",save = True)
     main()
+    print(net)

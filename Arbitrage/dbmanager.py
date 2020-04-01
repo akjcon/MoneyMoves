@@ -3,6 +3,7 @@ import pandas as pd
 import sqlite3
 import atexit
 from decimal import *
+from datetime import datetime
 import time
 
 class DbManager:
@@ -33,44 +34,47 @@ class DbManager:
 
     # trade should have format (timestamp, price, volume, buy_or_sell, market_or_limit)
     def insert_trade_record(self, trade):
-        sql_insert_trade_record = """INSERT OR IGNORE INTO trade_history(
-                                        timestamp, 
-                                        price, 
-                                        volume, 
-                                        buy_or_sell, 
-                                        market_or_limit
-                                    ) VALUES (?, ?, ?, ?, ?); """
+        sql_insert_trade_record = """INSERT OR IGNORE INTO TRADE_HISTORY(
+                                        base_currency,
+                                        quote_currency,
+                                        exchange,
+                                        time,
+                                        price,
+                                        volume,
+                                        precision,
+                                        buy_or_sell
+                                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?); """
 
         self.cursor.execute(sql_insert_trade_record, trade)
         self.conn.commit()
 
     # trade should have format (timestamp, price, volume, buy_or_sell, market_or_limit)
     def insert_many_trade_records(self, trades):
-        sql_insert_many_trade_records = """INSERT OR IGNORE INTO trade_history(
-                                        timestamp, 
-                                        price, 
-                                        volume, 
-                                        buy_or_sell, 
-                                        market_or_limit
-                                    ) VALUES (?, ?, ?, ?, ?); """
+        sql_insert_many_trade_records = """INSERT OR IGNORE INTO TRADE_HISTORY(
+                                        base_currency,
+                                        quote_currency,
+                                        exchange,
+                                        time,
+                                        price,
+                                        volume,
+                                        precision,
+                                        buy_or_sell
+                                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?); """
 
         self.cursor.executemany(sql_insert_many_trade_records, trades)
         self.conn.commit()
 
     def setup(self):
-        sql_create_trade_history_table = """CREATE TABLE trade_history(
-                                        timestamp integer PRIMARY KEY,
+        sql_create_trade_history_table = """CREATE TABLE TRADE_HISTORY(
+                                        base_currency text,
+                                        quote_currency text,
+                                        exchange text,
+                                        time text,
                                         price integer,
                                         volume integer,
+                                        precision integer,
                                         buy_or_sell text,
-                                        market_or_limit text
+                                        PRIMARY KEY (base_currency, quote_currency, exchange, time)
                                     ); """
         self.cursor.execute(sql_create_trade_history_table)
         self.conn.commit()
-
-"""manager = DbManager()
-manager.connect('kraken.db')
-manager.insert_trade_record((0, Decimal("102.20"), Decimal("103.20"), "b", "l"))
-print(manager.query("SELECT * FROM trade_history WHERE (timestamp=0)"))"""
-
-#manager.setup()
